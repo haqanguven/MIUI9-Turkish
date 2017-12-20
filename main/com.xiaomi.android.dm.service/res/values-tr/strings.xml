@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DM hizmeti</string>
+    <string name="register_success">Başarıyla kayıt olundu</string>
+    <string name="decode_error">Kod çözme hatası. Kayıt başarısız oldu</string>
+    <string name="check_error">Kontrol hatası. Kayıt başarısız oldu</string>
+    <string name="register_failed">Kayıt başarısız oldu</string>
+    <string name="radio_info_bid_label">BID</string>
+    <string name="radio_info_sid_label">SID</string>
+    <string name="radio_info_nid_label">NID</string>
+</resources>

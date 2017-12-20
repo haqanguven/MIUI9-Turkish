@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">%d uygulama</item>
+    </plurals>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">Ultimate moduna %1$d adım kaldı</item>
+        <item quantity="one">Ultimate moduna %1$d adım kaldı</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">Ultimate modunu kapatmaktan %1$d adım uzaklıktasınız</item>
+        <item quantity="one">Ultimate modunu kapatmaktan %1$d adım uzaklıktasınız</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Tüm ögelerin kilidini açmak için kalan %1$d adımı tamamlayın</item>
+        <item quantity="one">Tüm ögelerin kilidini açmak için kalan %1$d adımı tamamlayın</item>
+    </plurals>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="activity_not_found">Bu işlemi yapabilecek uygulama bulunamadı</string>
+    <string name="back_to_message_list">Mesaj listesine dön</string>
+    <string name="confirm_delete_conversation">Tüm konu silinsin mi?</string>
+    <string name="confirm_delete_group_message">Grup mesajları silinsin mi?</string>
+    <string name="confirm_delete_locked_message">Bu kilitli mesaj silinsin mi?</string>
+    <string name="confirm_delete_message">Bu mesaj silinsin mi?</string>
+    <string name="confirm_dialog_locked_title">Kilitli mesajlar silinsin mi?</string>
+    <string name="confirm_dialog_title">Silinsin mi?</string>
+    <string name="copy_message_text">Kopyala</string>
+    <string name="copy_message_text_success">Kopyalandı</string>
+    <string name="delete">Sil</string>
+    <string name="delete_message">Sil</string>
+    <string name="from_label">"Kimden: "</string>
+    <string name="hybrid_check_network">Ağ ayarları</string>
+    <string name="hybrid_data_error">Bir hata oluştu</string>
+    <string name="hybrid_locating_fail">Konumunuz bulunamadı</string>
+    <string name="hybrid_network_access_denied">Ağ erişimi engellendi</string>
+    <string name="hybrid_network_unavaliable">Ağa bağlanılamıyor</string>
+    <string name="hybrid_pull_to_refresh_pull_label">Yenilemek için çekin</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Yükleniyor</string>
+    <string name="hybrid_pull_to_refresh_release_label">Yenilemek için bırakın</string>
+    <string name="hybrid_service_unavailiable">Hizmet mevcut değil</string>
+    <string name="hybrid_try_again">Tekrar deneyin</string>
+    <string name="menu_forward">Yönlendir</string>
+    <string name="menu_lock">Favorilere ekle</string>
+    <string name="menu_unlock">Favorilerden çıkar</string>
+    <string name="message_details_title">Mesaj detayları</string>
+    <string name="message_type_label">"Tür: "</string>
+    <string name="messaging">Mesajlaşma</string>
+    <string name="packages_select_sim_cards_title">Sim kart seç</string>
+    <string name="received_label">"Alınan: "</string>
+    <string name="repayment_network_error">Ağınızda bir sorun oluştu</string>
+    <string name="repayment_title">Ödeme</string>
+    <string name="repayment_way">Geri ödeme yöntemi</string>
+    <string name="sent_label">"Gönderilen: "</string>
+    <string name="smart_messages_network_allow_message">Mi mesaj hizmetlerinin normal çalışması için internete bağlanması gerekmektedir. Şimdi izin verilsin mi?</string>
+    <string name="smart_messages_network_allow_title">İnternet bağlantısı gerekiyor</string>
+    <string name="sms_card_partner_label">"Mesaj kart çözüm ortağı: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobil</string>
+    <string name="text_message">Metin mesajı</string>
+    <string name="view_message_details">Detayları görüntüle</string>
+    <string name="sim1">Sim 1</string>
+    <string name="sim2">Sim 2</string>
+</resources>

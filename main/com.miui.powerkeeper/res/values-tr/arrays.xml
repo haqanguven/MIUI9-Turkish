@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="broadcast_general_type_restricted">
+        <item>android.intent.action.SCREEN_ON</item>
+        <item>android.intent.action.SCREEN_OFF</item>
+        <item>android.net.wifi.RSSI_CHANGED</item>
+        <item>android.net.wifi.SCAN_RESULTS</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <integer-array name="alarm_general_type_restricted">
+        <item>-1</item>
+    </integer-array>
+    <string-array name="cpu_actions_device">
+        <item>cancro</item>
+    </string-array>
+    <string-array name="group_name">
+        <item>normal</item>
+        <item>hide</item>
+        <item>reading</item>
+        <item>media</item>
+    </string-array>
+    <string-array name="group_name_translate">
+        <item>Varsayılan</item>
+        <item>Gizli mod</item>
+        <item>Okuma modu</item>
+        <item>Medya modu</item>
+    </string-array>
+    <string-array name="event_name">
+        <item>foreground_change</item>
+        <item>screen_on</item>
+        <item>screen_off</item>
+        <item>screen_off_10_min</item>
+        <item>full_screen_enter</item>
+        <item>full_screen_exit</item>
+        <item>background_change</item>
+        <item>start_charging</item>
+        <item>stop_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Ön planda çalışan uygulamalar</item>
+        <item>Ekran açık</item>
+        <item>Ekran kapalı</item>
+        <item>Ekran 10 dakikadan fazladır kapalı</item>
+        <item>Tam ekran</item>
+        <item>Tam ekrandan çık</item>
+        <item>Arka planda çalışan uygulamalar</item>
+        <item>Telefon şarj oluyor</item>
+        <item>Telefon şarj olmuyor</item>
+        <item>Telefon beklemede</item>
+    </string-array>
+    <string-array name="action_name">
+        <item>set_brightness</item>
+        <item>set_cpufreq_max</item>
+        <item>set_lcd_mode</item>
+        <item>set_cpu_powermode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_bg_data_delay_time</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Maksimum ekran parlaklığı</item>
+        <item>Maksimum işlemci frekansı</item>
+        <item>Ekran modu</item>
+        <item>İşlemci kullanımı</item>
+        <item>Veri bağlantısı</item>
+        <item>Konum</item>
+        <item>İlk bildirim</item>
+        <item>Kilit ekranı bildirimleri</item>
+        <item>Arka plan veri bağlantılarını sınırla</item>
+    </string-array>
+    <string-array name="action_param">
+        <item>none</item>
+        <item>ui</item>
+        <item>still</item>
+        <item>movie</item>
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+        <item>true</item>
+        <item>false</item>
+        <item>bg_delay_0_mins</item>
+        <item>bg_delay_10_mins</item>
+        <item>bg_delay_30_mins</item>
+        <item>bg_delay_screen_off</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Yok</item>
+        <item>Varsayılan</item>
+        <item>Resim</item>
+        <item>Film</item>
+        <item>Pil tasarrufu</item>
+        <item>Dengeli</item>
+        <item>Performans</item>
+        <item>Aç</item>
+        <item>Kapat</item>
+        <item>Hemen</item>
+        <item>10 dakika sonra</item>
+        <item>30 dakika sonra</item>
+        <item>Ekran kapatıldığında</item>
+    </string-array>
+    <string-array name="shown_mandatory_event_name">
+        <item>foreground_change</item>
+    </string-array>
+    <string-array name="shown_optional_event_name">
+        <item>full_screen_enter</item>
+        <item>start_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="shown_action_name">
+        <item>set_cpu_powermode</item>
+        <item>set_lcd_mode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_sync_alarm</item>
+        <item>set_bg_data_delay_time</item>
+    </string-array>
+    <string-array name="shown_action_param_default">
+        <item>middle</item>
+        <item>ui</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>bg_delay_10_mins</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Bu modda</item>
+        <item>Seçilmedi</item>
+        <item>Diğer modlarda seçilen</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Özel</item>
+        <item>Pil tasarrufu</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Şimdi</item>
+        <item>Arkaplan</item>
+        <item>Son kullanılanlar</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Derin uyku modunu engelleyenler</item>
+        <item>Uyku modunu engelleyenler</item>
+        <item>Wifi bağlantısı arayanlar</item>
+        <item>Ekranı kullananlar</item>
+        <item>İşlemciyi kullananlar</item>
+        <item>Cihazı sıklıkla uyandıranlar</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel uyandırma kilidi</item>
+        <item>Uyandırma kilidi</item>
+        <item>Wifi tarama</item>
+        <item>Konum</item>
+        <item>İşlemci</item>
+        <item>Uyandırma</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>selected</item>
+        <item>unselected</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Varsayılan sıcaklık kontrol modu</item>
+        <item>Performans öncelikli mod</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Mevcut varsayılan mod</item>
+        <item>Mevcut performans modu</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Performans</item>
+        <item>Dengeli</item>
+    </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>com.chaozh.iReaderFree</item>
+    </string-array>
+</resources>

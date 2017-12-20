@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0c0000">
+        <item quantity="other">Alandan paylaşılan dosyalar:</item>
+        <item quantity="one">Alandan paylaşılan dosya:</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0c0001">
+        <item quantity="other">Dosyalar başarıyla paylaşıldı</item>
+        <item quantity="one">Dosyalar başarıyla paylaşıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0c0002">
+        <item quantity="other">Kişiler başarıyla dışa aktarıldı</item>
+        <item quantity="one">Kişi başarıyla dışa aktarıldı</item>
+    </plurals>
+    <plurals name="APKTOOL_DUMMYVAL_0x7f0c0003">
+        <item quantity="other">Kişiler başarıyla içe aktarıldı</item>
+        <item quantity="one">Kişi başarıyla içe aktarıldı</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İçerik uyumlu arka ışık ayarları</string>
+    <string name="cabl_settings_title">İçerik uyumlu arka ışık ayarları</string>
+    <string name="cabl_enable_title">İçerik uyarlanabilir arka aydınlatmayı etkinleştir</string>
+    <string name="cabl_enable_summary_on">Arka ışık ekran içeriğine göre yeniden ayarlanacaktır</string>
+    <string name="cabl_enable_summary_off">Ekran ışığınız ekran içeriğine göre ayarlanmayacak</string>
+    <string name="cabl_levels_title">Görsel kalite seviyesi</string>
+    <string name="cabl_levels_summary">Düşük kalite seviyesi CABL'nin görüntülenen içeriği önemli ölçüde etkilemeden mümkün olduğunca çok güç tasarrufu yapmaya çalışacağını gösterir. Otomatik görsel kalite düzeyi CABL görüntülenecek olan içerik türünü otomatik tespit etmeye dayalı olarak güç tasarrufunu maksimuma çıkarmaya çalışacaktır</string>
+    <string name="cabl_level_default">Otomatik</string>
+    <string name="cabl_info_default">Bilinmiyor</string>
+    <string name="cabl_version_title">CABL sürümü</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adım sağlayıcı</string>
+    <string name="permstep_label">Adımları oku</string>
+    <string name="permstep_description">Uygulamanın telefonunuzun adım bilgilerini okumasına izin verir</string>
+</resources>

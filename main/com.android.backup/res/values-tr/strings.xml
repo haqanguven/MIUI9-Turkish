@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_backup_label">Yedekleme ve geri yükleme</string>
+    <string name="backup_label">Yedekle</string>
+    <string name="recvoer_label">Geri yükle</string>
+    <string name="restore_operate_label">Geri yükleme işlemi</string>
+    <string name="software_list">Sistem yazılımı verileri</string>
+    <string name="backup_contact">Kişiler</string>
+    <string name="backup_sms">Mesaj</string>
+    <string name="backup_mms">Multimedya</string>
+    <string name="backup_email">E-posta</string>
+    <string name="backup_calendar">Takvim</string>
+    <string name="backup_picture">Fotoğraf</string>
+    <string name="backup_app">Uygulama</string>
+    <string name="menu_selectok">Tamam</string>
+    <string name="menu_selectall">Tümünü seç</string>
+    <string name="menu_clearall">Tüm seçimi kaldır</string>
+    <string name="prepare_backup">Yedekleme için hazırlanma</string>
+    <string name="menu_delete">Sil</string>
+    <string name="menu_restore">Geri yükle</string>
+    <string name="button_ok">Tamam</string>
+    <string name="button_cancel">İptal et</string>
+    <string name="button_stop">Durdur</string>
+    <string name="button_help">Yardım</string>
+    <string name="button_continue">Devam et</string>
+    <string name="delete_confirm_alert_title">Sil</string>
+    <string name="delete_confirm_alert_msg">Seçilen öğeler silinir</string>
+    <string name="delete_confirm_alert_msg1">Seçilen öğe silinir</string>
+    <string name="multi_delete">Sil</string>
+    <string name="backup_contact_title">Kişileri yedekle</string>
+    <string name="backup_calendar_title">Takvimleri yedekle</string>
+    <string name="backup_mms_title">Multimedyaları yedekle</string>
+    <string name="backup_sms_title">Mesajları yedekle</string>
+    <string name="backup_email_title">E-postaları yedekle</string>
+    <string name="backup_picture_title">Fotoğrafları yedekle</string>
+    <string name="backup_app_title">Yedekle</string>
+    <string name="prepare_restore">Geri yükleme için hazırlanıyor</string>
+    <string name="restore_contact_title">Kişileri geri yükle</string>
+    <string name="restore_calendar_title">Takvimleri geri yükle</string>
+    <string name="restore_mms_title">Multimedyaları geri yükle</string>
+    <string name="restore_sms_title">Mesajları geri yükle</string>
+    <string name="restore_email_title">E-postaları geri yükle</string>
+    <string name="restore_picture_title">Fotoğrafları geri yükle</string>
+    <string name="restore_app_title">Uygulamaları geri yükle</string>
+    <string name="confirm_backup_duplicate_title">Önceki yedeklenen uygulama verileri üzerine yazılır. Devam etmek ister misin?</string>
+    <string name="confirm_stop_backup_title">Yedeklemeyi durdur</string>
+    <string name="confirm_stop_backup">Yedeklemeyi durdurmak istiyor musunuz?</string>
+    <string name="confirm_stop_restore_title">Geri yüklemeyi durdur</string>
+    <string name="confirm_stop_restore">Geri yüklemeyi durdurmak istiyor musunuz?</string>
+    <string name="create_file_error">Yedek dosyalar oluşturulamadı</string>
+    <string name="sdcard_unmounted">Sd kart çıkartıldı. Yedekleme hatası</string>
+    <string name="sdcard_not_find">Lütfen önce SD kartı takın</string>
+    <string name="sdcard_no_space">Yetersiz depo. Lütfen SD kartı temizleyin ve tekrar deneyin</string>
+    <string name="stop_backup_info">Yedekleme işlemi durduruldu</string>
+    <string name="stop_restore_info">Geri yükleme işlemi durduruldu</string>
+    <string name="stop_no_item_selected">Hiçbir öğe seçilmedi</string>
+    <string name="stop_restore_stopping">Geri yükleme durduruluyor. Lütfen biraz bekleyin</string>
+    <string name="delete_ok">Silindi</string>
+    <string name="delete_failed">Silinemedi</string>
+    <string name="result_ok">Yedeklendi</string>
+    <string name="result_failed">Yedeklenemedi</string>
+    <string name="restore_app_ok">Geri yüklendi</string>
+    <string name="restore_ok">"%1$s'dan başarıyla geri yüklendi"</string>
+    <string name="restore_failed">Geri yüklenemedi</string>
+    <string name="backup_calendar_error">Hesap hatası</string>
+    <string name="show_restore_result_info">Geri yükleme: %1$s - %2$s</string>
+    <string name="show_backup_result_info">Yedekleme: %1$s - %2$s</string>
+    <string name="backup_application">Uygulama</string>
+    <string name="backup_systemdata">Sistem veri</string>
+    <string name="recoverOrNot">Uygulamalar seçildiğinde yeniden başlat</string>
+    <string name="backup_zip">Zip yap</string>
+    <string name="app_restore">Uygulama geri yükle</string>
+    <string name="restore_app">Uygulama</string>
+    <string name="restore_data">Sistem veri</string>
+    <string name="restore_label">Geri yükle</string>
+    <string name="restore_app_label">Uygulama geri yükle</string>
+    <string name="restore_data_label">Sistem veri geri yükle</string>
+    <string name="confirm_stop_restoreapp_title">Durdurmak istiyor musun?</string>
+    <string name="prepare_restore_app">Uygulamayı geri yüklemeye hazırlayın</string>
+    <string name="restore_app_confirm">Mevcut uygulama verileri üzerine yazılır. Devam etmek ister misin?</string>
+    <string name="confirm_import">Almak istiyor musun?</string>
+    <string name="import1">Alınıyor</string>
+    <string name="delete_title">Siliniyor</string>
+    <string name="restore_title">Geri yükleniyor</string>
+    <string name="backup_title">yedekle</string>
+    <string name="backup_btn">Yedeklemeyi başlat</string>
+    <string name="recovery_btn">Geri yüklemeyi başlat</string>
+    <string name="menu_deselect_all">Tüm seçimi kaldır</string>
+    <string name="menu_select_all">Tümünü seç all</string>
+    <string name="menu_delete_sel">seçildi</string>
+    <string name="slot1">Yuva1</string>
+    <string name="slot2">Yuva2</string>
+    <string name="latest">Son</string>
+    <string name="sms_full_cmcc">Telefon hafızası dolu. Mesajlar alınamıyor. Lütfen bazı eski mesajları silin</string>
+    <string name="backup_first_time_title">Öneri</string>
+    <string name="backup_first_time_msg">Yedekleme ve kurtarma tüm markaların Çin mobil özel telefonunda kullanılabilir</string>
+    <string name="settings">Ayarlar</string>
+    <string name="backup_location_title">Yedek konumunu seç</string>
+    <string name="internal_location_summary">/Dahili depolama</string>
+    <string name="restore_location_title">Geri yükleme konumunu seç</string>
+    <string name="external_location_summary">/SD kart</string>
+    <string name="settings_help">Yardım</string>
+    <string name="no_sdcard">"SD kart ile yedekleme:
+· Bir SD kartı takın
+· Yedeklemeyi başlatı seçin
+· SD kartınızı çıkarın ve yeni cihaza takın
+· Yeni cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+
+Bilgisayardan yedekleme:
+· Yedeklemeyi başlatı seçin ve yedekleme konumunu unutmayın
+· Cihazı bilgisayarınıza bağlayın
+· Yedekleme dosyanızı yedekleme ayarlarında bulabilirsiniz. Yedekleme konumundan bilgisayarınıza kopyalayın
+· Yeni cihazı bilgisayarınıza bağlayın
+· Bilgisayarınızdan yedekleme dosyasını yeni cihaza kopyalayın
+· Yeni cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+
+SD kart üzerinden geri yükleme:
+· Bir SD kartı takın
+· Yedeklemeyi başlatı seçin
+· SD kartınızı çıkarın ve yeni cihaza takın
+· Bu cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+
+Bilgisayara geri yükleme:
+· Önceki cihazı bilgisayarınıza bağlayın
+· Yedek dosyanızı önceki cihazın yedekleme konumundan bilgisayarınıza kopyalayın
+· Cihazı bilgisayarınıza bağlayın
+· Türüne göre yedek dosyayı bilgisayarınızdan dahili depolama/yedekleme/veri veya dahili depolama/yedekleme/uygulamaya kopyalayın. Lütfen bu klasörler yoksa oluşturun
+· Bu cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+"</string>
+    <string name="no_sdcard_backup">"SD kart üzerinden yedekleme:
+· Bir SD kartı takın
+· Yedeklemeyi başlatı seçin
+· SD kartınızı çıkarın ve yeni cihaza takın
+· Yeni cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+
+Bilgisayardan yedekleme:
+· Yedeklemeyi başlatı seçin ve yedekleme konumunu unutmayın
+· Cihazı bilgisayarınıza bağlayın
+· Yedekleme dosyanızı yedekleme ayarlarında bulabilirsiniz. Yedekleme konumundan bilgisayarınıza kopyalayın
+· Yeni cihazı bilgisayarınıza bağlayın
+· Bilgisayarınızdan yedekleme dosyasını yeni cihaza kopyalayın
+· Yeni cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+"</string>
+    <string name="no_sdcard_restore">"SD kart üzerinden geri yükleme:
+· Önceki cihaza bir SD kartı takın
+· Yedeklemeyi başlatı seçin
+· SD kartınızı çıkarın ve bu cihazın içine yerleştirin
+· Bu cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+
+Bilgisayara geri yükleme:
+· Önceki cihazı bilgisayarınıza bağlayın
+· Yedek dosyanızı önceki cihazın yedekleme konumundan bilgisayarınıza kopyalayın
+· Cihazı bilgisayarınıza bağlayın
+· Türüne göre yedek dosyayı bilgisayarınızdan dahili depolama/yedekleme/veri veya dahili depolama/yedekleme/uygulamaya kopyalayın. Lütfen bu klasörler yoksa oluşturun
+· Bu cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+"</string>
+    <string name="not_support_sdcard">"Yedeklemeden sonra şunları yapabilirsiniz:
+· Cihazı bilgisayarınıza bağlayın
+· Yedekleme dosyanızı yedekleme ayarlarında bulabilirsiniz. Yedekleme konumundan bilgisayarınıza kopyalayın
+· Yeni cihazı bilgisayarınıza bağlayın
+· Bilgisayarınızdan yedekleme dosyasını yeni cihaza kopyalayın
+· Yeni cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+
+
+Bulunan bir yedek dosya yoksa şunları yapabilirsiniz:
+· Önceki cihazı bilgisayarınıza bağlayın
+· Yedek dosyanızı önceki cihazın yedekleme konumundan bilgisayarınıza kopyalayın
+· Cihazı bilgisayarınıza bağlayın
+· Türüne göre yedek dosyayı bilgisayarınızdan dahili depolama/yedekleme/veri veya dahili depolama/yedekleme/uygulamaya kopyalayın. Lütfen bu klasörler yoksa oluşturun
+· Bu cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+"</string>
+    <string name="not_support_sdcard_backup">"Yedeklemeden sonra şunları yapabilirsiniz:
+· Cihazı bilgisayarınıza bağlayın
+· Yedekleme dosyanızı yedekleme ayarlarında bulabilirsiniz. Yedekleme konumundan bilgisayarınıza kopyalayın
+· Yeni cihazı bilgisayarınıza bağlayın
+· Bilgisayarınızdan yedekleme dosyasını yeni cihaza kopyalayın
+· Yeni cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+"</string>
+    <string name="not_support_sdcard_restore">"Bulunan bir yedek dosya yoksa şunları yapabilirsiniz:
+· Önceki cihazı bilgisayarınıza bağlayın
+· Yedek dosyanızı önceki cihazın yedekleme konumundan bilgisayarınıza kopyalayın
+· Cihazı bilgisayarınıza bağlayın
+· Türüne göre yedek dosyayı bilgisayarınızdan dahili depolama/yedekleme/veri veya dahili depolama/yedekleme/uygulamaya kopyalayın. Lütfen bu klasörler yoksa oluşturun
+· Bu cihazın yedekleme uygulamasını açın ve geri yüklemeyi başlatı seçin
+"</string>
+    <string name="no_sdcard_backup_abstract">"Dosyalar dahili belleğe yedeklenir. Yeni cihazda kurtarma ihtiyacı duyarsanız yedek dosyaları bir SD kartından aktararak veya bilgisayarınızı kullanarak yeni cihaza kopyalayabilirsiniz 
+"</string>
+    <string name="no_sdcard_restore_abstract">"Yedek dosya bulunamadı. Bir SD kartından aktararak veya bilgisayarınızı kullanarak önceki cihazınızdan bu cihaza kopyalayabilirsiniz
+"</string>
+    <string name="not_support_sdcard_backup_abstract">"Geri yüklemek için bilgisayar aracılığıyla çalıştırarak yedek dosyayı yeni cihaza kopyalayabilirsiniz
+"</string>
+    <string name="not_support_sdcard_restore_abstract">"Yedek dosyası bulunamadı. Geri yüklemek için bilgisayarınızı kullanarak eski cihazdan bu cihaza kopyalayabilirsiniz
+"</string>
+    <string name="checkbox_content">Bana bir daha hatırlatma</string>
+    <string name="no_space_warning">Yeterli alan yok. Lütfen depolamayı temizleyin ve tekrar deneyin</string>
+    <string name="backup_result_content">%1$s başarıyla yedeklendi</string>
+    <string name="external_system_content">/SD kart/yedekleme/veri</string>
+    <string name="external_app_content">/ SD kart /yedekleme/uygulama/</string>
+    <string name="internal_system_content">/Dahili depolama/yedekleme/veri</string>
+    <string name="internal_app_content">/Dahili depolama/yedekleme/uygulama/</string>
+    <string name="recover_path_change_content">SD kart kaldırıldı. Lütfen sıfırlayın</string>
+    <string name="location_error">"SD kart bulunamıyor. SD karta geri yüklemek için ayarlayın"</string>
+    <string name="backup_path_dont_exist">Yedekleme yolu bulunamadı: %1$s. Lütfen sıfırlayın</string>
+    <string name="restore_path_dont_exist">Geri yükleme yolu bulunamadı: %1$s. Lütfen sıfırlayın</string>
+    <string name="restore_failed_no_cal_account">Başarısız bir şekilde geri yüklendi: Takvimde hesap yok</string>
+    <string name="app_can_work_if_owner_user">Bu uygulama sadece sahip modunda çalışabilir</string>
+</resources>

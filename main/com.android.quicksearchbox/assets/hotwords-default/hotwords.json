@@ -1,0 +1,40 @@
+{
+    "message": "success",
+    "random_color": true,
+    "result": [
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Google",
+            "type": "unknown",
+            "url": "https://www.google.com.tr/"
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Facebook",
+            "type": "unknown",
+            "url": "https://www.facebook.com/"
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Twitter",
+            "type": "unknown",
+            "url": "https://twitter.com/"
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Miui Türkiye",
+            "type": "unknown",
+            "url": "http://forum.miuiturkiye.net/"
+        }
+    ],
+    "status": 0,
+    "track_id": ""
+}

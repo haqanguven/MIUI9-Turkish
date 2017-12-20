@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_hiden_test">
+        <item quantity="other">Şimdi dahili test öğelerini girmek için %1$d adım yürütün</item>
+        <item quantity="one">Şimdi dahili test öğelerini girmek için %1$d adımını uygulamanız yeterlidir</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="call_waiting_settings">Arama bekletme ayarları</string>
+    <string name="call_forwarding_settings">Arama yönlendirme ayarları</string>
+    <string name="labelCFU">Her zaman yönlendir</string>
+    <string name="messageCFU">Her zaman bu numarayı kullan</string>
+    <string name="labelCFB">Meşgul olduğunda</string>
+    <string name="messageCFB">Meşgul olduğunda numara</string>
+    <string name="labelCFNRy">Cevapsız olduğunda</string>
+    <string name="messageCFNRy">Cevapsız olduğunda numara</string>
+    <string name="labelCFNRc">Ulaşılamaz olduğunda</string>
+    <string name="messageCFNRc">Ulaşılamaz olduğunda numara</string>
+    <string name="labelCF">Arama yönlendirme</string>
+    <string name="labelCW">Görüşme beklemede</string>
+    <string name="labelCFNRc_cdma">Örtülü olarak yönlendir</string>
+    <string name="CFActivate">Etkinleştir</string>
+    <string name="CFDeactivate">Devre dışı bırak</string>
+    <string name="null_phone_number">Telefon numarası boş olamaz</string>
+    <string name="labelCFDeactAll">Tümünü devre dışı bırak</string>
+    <string name="enable">Aç</string>
+    <string name="disable">Kapat</string>
+    <string name="change_num">Güncelle</string>
+    <string name="selectContact">Kişi seç</string>
+    <string name="CFU_ACT" />
+    <string name="CFU_DEACT" />
+    <string name="CFB_ACT" />
+    <string name="CFB_DEACT" />
+    <string name="CFNRY_ACT" />
+    <string name="CFNRY_DEACT" />
+    <string name="CFNRC_ACT" />
+    <string name="CFNRC_DEACT" />
+    <string name="CFA_DEACT" />
+    <string name="CW_ACT" />
+    <string name="CW_DEACT" />
+</resources>

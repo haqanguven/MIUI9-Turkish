@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0000" />
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0001">SSCM</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0002">sscm-2.securespaces.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0003">sscm-3.securespaces.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0004">sscm-4.securespaces.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0005">sscm-5.securespaces.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0006">sscm-5.securespaces.com</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0007">SpacesManagerService</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0008">Cannot switch to Space while Space is authorizing.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0009">Cannot switch to Space while Space is deleting user data.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a000a">Hidden Space feature is not enabled</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a000b">Spaces creation is disabled.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a000c">Add user feature is disabled.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a000d">Bluetooth Disabled</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a000e">Bluetooth use is restricted in this Space.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a000f">This app requires features not supported by this device.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0010">Exit</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0011">New contacts shared from:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0012">Registering …</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0013">Authorizing …</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0014">Policy Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0015">Invitation already used</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0016">Registration error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0017">OK</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0018">Error</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0019">\"Delete User Data\" operation is not supported when the Space is stopped.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a001a">Hidden</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a001b">File too large</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a001c">Sorry, file is too large, the max file size is %d MB.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a001d">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a001e">File exception</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a001f">An unexpected error occurred trying to read the file</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0020">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0021">File not found</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0022">Sorry, the file could not be found.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0023">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0024">File already exists</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0025">A file with this name already exists for this Space. Will not overwrite.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0026">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0027">File not found</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0028">Sorry, the file could not be found.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0029">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a002a">Cannot share text</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a002b">Spaces Sharing cannot share text. Please use the clipboard instead.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a002c">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a002d">Sharing Disabled</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a002e">This Space is not permitted to share files with other Spaces</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a002f">Continue</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0030">Syncing %1$d of %2$d files: %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0031">Syncing shared files to Space</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0032">Preparing...</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0033">Sharing files with Spaces</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0034">Processed %1$d of %2$d files: %3$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0035">Sharing files</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0036">Shared App</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0037">Select destination Spaces:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0038">Confirm</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0039">Cancel</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a003a">Files shared with %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a003b">%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a003c">Unable to export contacts</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a003d">Unable to imported contacts</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a003e">Sharing file</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a003f">Please wait while the file is shared…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0040">Spaces Sharing</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0a0041" />
+    <item type="string" name="APKTOOL_DUMMY_42">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43">false</item>
+    <item type="string" name="APKTOOL_DUMMY_44">false</item>
+    <string name="_alt1" />
+    <string name="_alt1_alt2" />
+</resources>

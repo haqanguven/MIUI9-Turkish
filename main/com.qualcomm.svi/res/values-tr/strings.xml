@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SVI ayarları</string>
+    <string name="svi_settings_title">SVI ekran ayarları</string>
+    <string name="svi_enable_title">SVI ekranını etkinleştir</string>
+    <string name="svi_enable_summary_on">Ortam koşullarına göre görüntülemeyi geliştirin</string>
+    <string name="svi_enable_summary_off">Ortam koşulları için izleme deneyimi arttırılamaz</string>
+    <string name="svi_info_default">Bilinmiyor</string>
+    <string name="svi_version_title">SVI sürümü</string>
+</resources>

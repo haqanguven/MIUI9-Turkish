@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xdivert_title">Akıllı yönlendirme</string>
+    <string name="xdivert_summary">Ulaşamadığında aramayı yönlendir</string>
+    <string name="phone_numbers">Telefon numarasını girin</string>
+    <string name="sub1LineNumber">Sub1 numarası:</string>
+    <string name="sub2LineNumber">Sub2 numarası:</string>
+    <string name="proceed">Devam ediyor</string>
+    <string name="xdivert_button">Akıllı yönlendirme ayarı</string>
+    <string name="xdivert_setting">Akıllı yönlendirme ayarı</string>
+    <string name="sum_xdivert_enabled">Akıllı yönlendirme etkin</string>
+    <string name="sum_xdivert_disabled">Akıllı yönlendirme devre dışı</string>
+    <string name="xdivert_not_supported">Akıllı yönlendirme Cdma için desteklenmiyor</string>
+    <string name="xdivert_enternumber_error">Her iki abonelik için telefon numarasını girin</string>
+    <string name="xdivert_partial_set">Akıllı yönlendirme yalnızca 1. abonelik için ayarlandı</string>
+    <string name="xdivert_sub_absent">Akıllı yönlendirme işlemek için her iki aboneliğin etkinleştirilmesi gerekir</string>
+    <string name="xdivert_status">Akıllı yönlendirme Durumu</string>
+    <string name="xdivert_active">Aktif</string>
+    <string name="xdivert_not_active">Aktif değil</string>
+    <string name="xdivert_imsi_not_read">Sim başlatılamadı. Daha sonra tekrar deneyin</string>
+    <string name="xdivert_setting_primary_user_only">Akıllı yönlendirme misafir modunda kullanılamaz</string>
+    <string name="updating_title">Arama ayarları</string>
+    <string name="reading_settings">Ayarlar okunuyor</string>
+    <string name="updating_settings">Ayarlar güncelleniyor</string>
+    <string name="reverting_settings">Ayarlara dönülüyor</string>
+    <string name="response_error">Ağdan beklenmeyen cevap</string>
+    <string name="exception_error">Ağ veya Sim kart hatası</string>
+    <string name="fdn_check_failure">Telefonun sabit arama numarasının ayarı açık durumda. Bu nedenle bazı arama özellikleri çalışmamaktadır</string>
+    <string name="radio_off_error">Bu ayarları görüntülemeden önce telefonun şebeke sinyalini açın</string>
+    <string name="close_dialog">Tamam</string>
+    <string name="error_updating_title">Arama ayarları hatası</string>
+    <string name="set_subscription_error_atleast_one">En az bir abonelik seçin</string>
+    <string name="sub_1">Sub 1</string>
+    <string name="sub_2">Sub 2</string>
+    <string name="sub_3">Sub 3</string>
+    <string name="sim1LineNumber">Sim 1 numarası:</string>
+    <string name="sim2LineNumber">Sim 2 numarası:</string>
+    <string name="xdivert_status_active">Akıllı yönlendirme etkin</string>
+    <string name="xdivert_status_not_active">Akıllı yönlendirme pasif</string>
+</resources>

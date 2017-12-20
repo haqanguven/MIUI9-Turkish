@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qti_edit_number">Numara gir</string>
+    <string name="qti_edit_number_ok_key">Tamam</string>
+    <string name="qti_edit_number_cancel_key">İptal et</string>
+    <string name="qti_choose_contact">Bir kişi seç</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medya sunucusu</string>
+    <string name="noti_projection_status_title">Mi play kablosuz ekran</string>
+    <string name="noti_projection_status_desc_on">Ekran yansıtma açık</string>
+    <string name="prjection_title">Kablosuz ekran</string>
+    <string name="search_for_devices">Yenile</string>
+    <string name="media_feature_projection">Ekranı yansıt</string>
+    <string name="media_status_error">Hata</string>
+    <string name="media_status_starting">Bağlanılıyor</string>
+    <string name="media_status_started">Bağlanıldı</string>
+    <string name="media_status_stopping">Durduruluyor</string>
+    <string name="media_status_stopped">Durdu</string>
+    <string name="wifi_display_settings_title">Yansıtma</string>
+    <string name="wifi_display_enable_menu_item">Kablosuz ekranı aç</string>
+    <string name="wifi_display_no_devices_found">Yakınlarda cihaz bulunamadı.</string>
+    <string name="wifi_display_status_connecting">Bağlanıyor</string>
+    <string name="wifi_display_status_connected">Bağlandı</string>
+    <string name="wifi_display_status_in_use">Kullanımda</string>
+    <string name="wifi_display_status_not_available">Kullanılamıyor</string>
+    <string name="wifi_display_details">Ekran ayarları</string>
+    <string name="wifi_display_options_title">Kablosuz ekran seçenekleri</string>
+    <string name="wifi_display_options_forget">Unut</string>
+    <string name="wifi_display_options_done">Tamam</string>
+    <string name="wifi_display_options_name">Ad</string>
+    <string name="wifi_display_certification_heading">Sertifika</string>
+    <string name="wifi_display_session_info">Oturum bilgisi</string>
+    <string name="wifi_display_listen_mode">Dinleme modunu etkinleştir</string>
+    <string name="wifi_display_autonomous_go">"Özerk GO'yu etkinleştir"</string>
+    <string name="wifi_display_pause">Duraklat</string>
+    <string name="wifi_display_resume">Devam et</string>
+    <string name="wifi_display_wps_config">WPS yapılandırma</string>
+    <string name="wifi_display_listen_channel">Kanalı dinle</string>
+    <string name="wifi_display_operating_channel">Çalışma kanalı</string>
+    <string name="cancel">İptal et</string>
+    <string name="enable_wifi_title">Wifi bağlantısını aç</string>
+    <string name="enable_wifi_message">Çevrenizdeki cihazları aramak ve bağlanmak için wifi bağlantısını açın</string>
+    <string name="enable_wifi_btn">Aç</string>
+    <string name="media_route_controller_disconnect">Bağlantıyı kes</string>
+</resources>

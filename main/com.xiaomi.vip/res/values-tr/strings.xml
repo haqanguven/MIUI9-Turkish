@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xiaomi hesap</string>
+    <string name="xiaomi_account">Xiaomi hesap</string>
+    <string name="invalid_json">Bir şeyler yanlış gitti</string>
+    <string name="no_network">Ağa bağlanılamıyor</string>
+    <string name="no_data">Boş</string>
+    <string name="fail_reach_server">Sunucuya bağlanılamıyor</string>
+    <string name="too_fast">Çok hızlı değil. Düğmelerin de dinlenmesi gerekiyor</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="start_activity_error">"Uygulama başlatılamıyor: %s"</string>
+    <string name="no_app">Önce uygulamayı yükle</string>
+    <string name="level_info">Seviye: %s</string>
+    <string name="account_settings">Hesap</string>
+    <string name="security_settings">Güvenlik</string>
+    <string name="cta_declaration_title">Şartlar ve koşullar</string>
+    <string name="cta_declaration_message">Xiaomi hesabını kullanmak için internete bağlanmanız gerekir</string>
+    <string name="cta_declaration_agree_and_continue">Kabul et</string>
+    <string name="cta_declaration_exit">Çıkış</string>
+    <string name="cube_ptr_pull_down">Aşağı çek</string>
+    <string name="cube_ptr_pull_down_to_refresh">Yenilemek için aşağı doğru çekin</string>
+    <string name="cube_ptr_release_to_refresh">Yenilemek için bırakın</string>
+    <string name="cube_ptr_refreshing">Güncelleniyor</string>
+    <string name="cube_ptr_refresh_complete">Güncellendi</string>
+    <string name="cube_ptr_last_update">Son güncelleme: </string>
+    <string name="enable_vip">"Mi vip'i etkinleştir"</string>
+    <string name="enable_vip_message">"Mi vip'i devre dışı bıraktınız. Şimdi etkinleştirmek ve kullanmak istiyor musunuz?"</string>
+</resources>

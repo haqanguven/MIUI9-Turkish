@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ödeme</string>
+    <string name="tsm_name">Mi akıllı kartlar</string>
+    <string name="cancel">İptal et</string>
+    <string name="agree">Kabul et</string>
+</resources>

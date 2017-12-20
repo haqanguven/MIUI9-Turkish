@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DMReg hizmeti</string>
+    <string name="alpha_build">" | Alfa"</string>
+    <string name="developer_build">" | Beta"</string>
+    <string name="stable_build">" | Stabil"</string>
+</resources>

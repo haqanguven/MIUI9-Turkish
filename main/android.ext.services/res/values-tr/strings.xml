@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android hizmetleri kitaplığı</string>
+    <string name="notification_ranker">Android bildirim sıralaması hizmeti</string>
+    <string name="notification_ranker_autobundle_explanation">Sıralamaya göre güncellenmiş otomatik gruplandırma</string>
+</resources>

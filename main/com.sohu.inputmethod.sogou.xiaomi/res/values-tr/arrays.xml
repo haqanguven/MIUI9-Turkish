@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="signup_emails">
+        <item>\@sogou.com</item>
+        <item>\@sohu.com</item>
+        <item>\@chinaren.com</item>
+        <item>\@focus.cn</item>
+    </string-array>
+    <string-array name="latin_case_mode">
+        <item>Standart</item>
+        <item>ab</item>
+        <item>Ab</item>
+        <item>AB</item>
+    </string-array>
+    <string-array name="tip_title">
+        <item>Nadir kelime girişi</item>
+        <item>Adaptif titreşim şiddeti düğmesi</item>
+        <item>Optimize ağ iş mantığı</item>
+        <item>Az kaynak-yoğun başlangıcı</item>
+    </string-array>
+    <string-array name="tip_content">
+        <item>Üçgen çizerek sembol tablosunu açabilirsiniz</item>
+        <item>Simge bilgisi için uzun basın</item>
+        <item>Bilgisayar ve cep telefonu giriş yöntemi için daha fazla entegrasyon</item>
+        <item>Profesyonel kelime hedefli genişleme</item>
+    </string-array>
+    <string-array name="gesture_key_name">
+        <item>space</item>
+        <item>enter</item>
+        <item>splitter</item>
+        <item>delete</item>
+        <item>clear</item>
+        <item>edit</item>
+        <item>period</item>
+        <item>comma</item>
+        <item>symbol</item>
+        <item>pageup</item>
+        <item>pagedown</item>
+        <item>more</item>
+        <item>return</item>
+        <item>settings</item>
+        <item>switch</item>
+        <item>options</item>
+    </string-array>
+    <string-array name="gesture_name">
+        <item>Boş</item>
+        <item>Gir</item>
+        <item>Ayırıcı ekle</item>
+        <item>Sil</item>
+        <item>Net</item>
+        <item>Düzenleyici</item>
+        <item>Nokta koy</item>
+        <item>Virgül ekle</item>
+        <item>Sembol tablosunu aç</item>
+        <item>Sayfa</item>
+        <item>Sonraki sayfa</item>
+        <item>İçeriği genişlet</item>
+        <item>İçeriği daralt</item>
+        <item>Ayarlar arayüzüne git</item>
+        <item>Anahtar klavyeler</item>
+        <item>Pop sembol tablosu, düzenleme, ayar seçimi</item>
+    </string-array>
+    <string-array name="gesture_stroke_color">
+        <item>Turuncu</item>
+        <item>Mor</item>
+        <item>Sarı</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Beyaz</item>
+        <item>Siyah</item>
+        <item>Şeffaf</item>
+    </string-array>
+    <integer-array name="gesture_code">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </integer-array>
+    <string-array name="gesture_stroke_color_value">
+        <item>0xFFE84900</item>
+        <item>0xFF763296</item>
+        <item>0xFFFACF06</item>
+        <item>0xFF64B127</item>
+        <item>0xFF218DB3</item>
+        <item>0xFFFFFFFF</item>
+        <item>0xFF000000</item>
+        <item>0x00000000</item>
+    </string-array>
+    <string-array name="gesture_stroke_color_value_map">
+        <item>0xFFFF7A00</item>
+        <item>0xFF9A00FF</item>
+        <item>0xFFFFB000</item>
+        <item>0xFF07FF00</item>
+        <item>0xFF00BDFF</item>
+        <item>0xFFFFFFFF</item>
+        <item>0xFF000000</item>
+        <item>0x00000000</item>
+    </string-array>
+    <string-array name="gesture_options">
+        <item>Sembol tablosu</item>
+        <item>Düzenleyici</item>
+        <item>Kur</item>
+    </string-array>
+    <string-array name="ime_type_list">
+        <item>Çince pinyin</item>
+        <item>Çin inme</item>
+        <item>Akıllı el yazısı</item>
+    </string-array>
+    <string-array name="edit_cmd_list">
+        <item>Kopyala</item>
+        <item>Çubuk</item>
+        <item>Kes</item>
+        <item>Tümünü kopyala</item>
+        <item>Kaldır</item>
+        <item>Tümünü kes</item>
+        <item>Geri dön</item>
+        <item>Metni seç</item>
+    </string-array>
+    <string-array name="symbol_categories">
+        <item>1.Ortak</item>
+        <item>2.İngilizce</item>
+        <item>3.Çin</item>
+        <item>4.İfade</item>
+        <item>5.Şebeke</item>
+        <item>6.Posta Kutusu</item>
+        <item>7.Matematik</item>
+        <item>8.Özel</item>
+        <item>9.Hayır</item>
+        <item>10.Japon</item>
+        <item>11.Radikal</item>
+        <item>12.Rus</item>
+        <item>13.Fonetik</item>
+        <item>14.Pinyin</item>
+        <item>15.Yunanistan</item>
+        <item>16.Latin</item>
+    </string-array>
+    <string-array name="show_popup_preview_list">
+        <item>Sadece tam klavye giriş alanını aç</item>
+        <item>Tüm giriş istemleri aç</item>
+        <item>Tüm giriş istemleri kapat</item>
+    </string-array>
+    <string-array name="show_popup_preview_list_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="show_popup_hw_effect_list">
+        <item>Genel</item>
+        <item>Bifeng</item>
+    </string-array>
+    <string-array name="show_popup_hw_effect_list_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="qwerty_dianhua_table">
+        <item>~</item>
+        <item>:</item>
+        <item>-</item>
+        <item>\@</item>
+        <item>3</item>
+        <item>\#</item>
+        <item>%</item>
+        <item>"'"</item>
+        <item>8</item>
+        <item>＆</item>
+        <item>*</item>
+        <item>\?</item>
+        <item>/</item>
+        <item>;</item>
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>!</item>
+        <item>5</item>
+        <item>7</item>
+        <item>_</item>
+        <item>2</item>
+        <item>)</item>
+        <item>6</item>
+        <item>(</item>
+    </string-array>
+    <string-array name="qwerty_pinyin_dianhua_table">
+        <item>~</item>
+        <item>:</item>
+        <item>-</item>
+        <item>\@</item>
+        <item>3</item>
+        <item>\#</item>
+        <item>%</item>
+        <item>“</item>
+        <item>8</item>
+        <item>”</item>
+        <item>*</item>
+        <item>？</item>
+        <item>/</item>
+        <item>;</item>
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>！</item>
+        <item>5</item>
+        <item>7</item>
+        <item>_</item>
+        <item>2</item>
+        <item>)</item>
+        <item>6</item>
+        <item>(</item>
+    </string-array>
+    <string-array name="cloudinput_popup_list">
+        <item>Sadece wifi kullan</item>
+        <item>Herhangi bir ağ koşulunda kullan</item>
+        <item>Kapat</item>
+    </string-array>
+    <string-array name="cloudinput_popup_list_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="stroke_type">
+        <item>一</item>
+        <item>丨</item>
+        <item>丿</item>
+        <item>丶</item>
+        <item>ㄥ</item>
+    </string-array>
+    <string-array name="person_name_mode_keyword">
+        <item>Soyadı</item>
+        <item>Kişi</item>
+        <item>Alıcı</item>
+        <item>Alıcı</item>
+        <item>Kişisel isim</item>
+        <item>Gönderici</item>
+        <item>Alıcı</item>
+    </string-array>
+    <string-array name="test_thing">
+        <item>res/</item>
+    </string-array>
+    <string-array name="sheild_label">
+        <item>Ortaç</item>
+    </string-array>
+    <string-array name="substitute_label">
+        <item>1</item>
+    </string-array>
+    <string-array name="filter_category">
+        <item>Pinyin</item>
+        <item>Strokes</item>
+        <item>İngilizce</item>
+        <item>123</item>
+    </string-array>
+    <string-array name="single_filter_button_texts">
+        <item>Tümü</item>
+        <item>/</item>
+        <item>Bireysel karakter</item>
+    </string-array>
+    <string-array name="province_array">
+        <item>Pekin</item>
+        <item>Tianjin</item>
+        <item>Şangay</item>
+        <item>Chongqing</item>
+        <item>Anhui eyaleti</item>
+        <item>Fujian</item>
+        <item>Gansu eyaleti</item>
+        <item>Guangdong eyaleti</item>
+        <item>Guizhou eyaleti</item>
+        <item>Hainan</item>
+        <item>Hebei eyaleti</item>
+        <item>Henan</item>
+        <item>Heilongjiang eyaleti</item>
+        <item>Hubei</item>
+        <item>Hunan eyaleti</item>
+        <item>Jilin</item>
+        <item>Jiangsu eyaleti</item>
+        <item>Jiangxi</item>
+        <item>Liaoning eyaleti</item>
+        <item>Qinghai</item>
+        <item>Shandong eyaleti</item>
+        <item>Shanxi</item>
+        <item>Shaanxi eyaleti</item>
+        <item>Sichuan</item>
+        <item>Tayvan ili</item>
+        <item>Yunnan eyaleti</item>
+        <item>Zhejiang</item>
+        <item>Tibet özerk bölgesi</item>
+        <item>Ningxia hui özerk bölgesi</item>
+        <item>Guangxi xhuang özerk bölgesi</item>
+        <item>Xinjiang uygur özerk bölgesi</item>
+        <item>iç moğolistan özerk bölgesi</item>
+        <item>Hksar</item>
+        <item>Macao özel idari bölgesi</item>
+    </string-array>
+    <string-array name="province_pinyin_array">
+        <item>beijing</item>
+        <item>tianjin</item>
+        <item>shanghai</item>
+        <item>chongqing</item>
+        <item>anhui</item>
+        <item>fujian</item>
+        <item>gansu</item>
+        <item>guangdong</item>
+        <item>guizhou</item>
+        <item>hainan</item>
+        <item>hebei</item>
+        <item>henan</item>
+        <item>heilongjiang</item>
+        <item>hubei</item>
+        <item>hunan</item>
+        <item>jilin</item>
+        <item>jiangsu</item>
+        <item>jiangxi</item>
+        <item>liaoning</item>
+        <item>qinghai</item>
+        <item>shandong</item>
+        <item>shanxi</item>
+        <item>shaanxi</item>
+        <item>sichuan</item>
+        <item>taiwan</item>
+        <item>yunnan</item>
+        <item>zhejiang</item>
+        <item>xizang</item>
+        <item>ningxia</item>
+        <item>guangxi</item>
+        <item>xinjiang</item>
+        <item>neimenggu</item>
+        <item>xianggang</item>
+        <item>aomen</item>
+    </string-array>
+    <string-array name="voiceinput_speecharea_list">
+        <item>Mandarin</item>
+        <item>İngilizce</item>
+        <item>Kanton lehçesi</item>
+    </string-array>
+    <string-array name="voiceinput_speecharea_list_index">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="offline_speech_switch_list">
+        <item>Ağ kullanımı yok</item>
+        <item>Şebeke yok / 2G ağını kullan</item>
+        <item>Şebeke yok / 2G/3G/4G ağı</item>
+        <item>Tüm ağları kullan</item>
+    </string-array>
+    <string-array name="offline_speech_switch_list_index">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="smart_search_engine_name">
+        <item>Sogou</item>
+        <item>Baidu</item>
+    </string-array>
+    <string-array name="smart_search_engine_code">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

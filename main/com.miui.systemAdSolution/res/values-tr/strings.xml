@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install">Yükle</string>
+    <string name="installing">Yükleniyor…</string>
+    <string name="launch">Aç</string>
+    <string name="carddownloading">İptal</string>
+    <string name="pass">Atla</string>
+    <string name="downloading">İndiriliyor</string>
+    <string name="download_retry">İndirilemedi, yeniden denemek için dokunun.</string>
+    <string name="install_retry">Yüklenemedi, yeniden denemek için dokunun.</string>
+    <string name="installed">başarıyla yüklendi.</string>
+    <string name="start_download">İndiriliyor</string>
+    <string name="waiting">Bekliyor</string>
+    <string name="introduction">Reklam hizmetleri hakkında</string>
+    <string name="dismiss">Bunu görmek istemiyorum</string>
+    <string name="provider_title">Reklam sağlayıcıları</string>
+    <string name="dismiss_reason_title">Bu reklamı neden görmek istemiyorsunuz?</string>
+    <string name="no_interest">İlgilenmiyorum</string>
+    <string name="ad_too_much">Çok sık görüntüleniyor</string>
+    <string name="bad_content">İçerik kalitesi düşük</string>
+    <string name="ad_service_introduction">Reklam hizmetleri hakkında</string>
+    <string name="loading">Yalnızca bir sn…</string>
+    <string name="feedback_information">Geri bildirimiz için teşekkür ederiz.</string>
+    <string name="ERROR_FILE_ERROR">Dosya hatası</string>
+    <string name="ERROR_UNHANDLED_HTTP_CODE">HTTP kod hatası</string>
+    <string name="ERROR_HTTP_DATA_ERROR">HTTP veri hatası</string>
+    <string name="ERROR_TOO_MANY_REDIRECTS">Çok fazla yeniden yönlendirme</string>
+    <string name="ERROR_INSUFFICIENT_SPACE">Yeterli depolama alanı yok</string>
+    <string name="ERROR_DEVICE_NOT_FOUND">Cihaz bulunamadı</string>
+    <string name="ERROR_CANNOT_RESUME">Devam edilemiyor</string>
+    <string name="ERROR_FILE_ALREADY_EXISTS">Dosya zaten mevcut</string>
+    <string name="PAUSED_WAITING_TO_RETRY">Kesintiye uğradı, yeniden deneyin</string>
+    <string name="PAUSED_WAITING_FOR_NETWORK">Ağa bağlanılamadı</string>
+    <string name="PAUSED_QUEUED_FOR_WIFI">Wifi ağına bağlanılamadı</string>
+    <string name="PAUSED_UNKNOWN">Bilinmeyen bir hata oluştu</string>
+    <string name="skip_ad">Atla</string>
+    <string name="ad_flag_text">Reklam</string>
+    <string name="mimo_download_card_title">Uyarı</string>
+    <string name="mimo_download_card_info">İndirme bilgileri…</string>
+    <string name="mimo_download_card_hide">Gizle</string>
+    <string name="mimo_download_card_cancel">İptal</string>
+    <string name="mimo_notification_title">Eklenti indiriliyor</string>
+    <string name="mimo_notification_download_fail">İndirilemedi</string>
+</resources>

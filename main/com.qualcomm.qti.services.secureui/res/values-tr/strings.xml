@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Güvenli sistem hizmeti</string>
+    <string name="perm_label">QC güvenli sistem yığını</string>
+    <string name="perm_desc">QTI güvenli sistem yığını API'larına erişin</string>
+    <string name="sd_stop_msg">Güvenli ekran sona erdi</string>
+</resources>

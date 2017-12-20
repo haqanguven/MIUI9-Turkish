@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perfdump</string>
+    <string name="app_title">Perfdump</string>
+    <string name="subtitle1">Jank algıla</string>
+    <string name="subtitle2">Systrace yakalama</string>
+    <string name="manual_detect">Manuel mod</string>
+    <string name="auto_detect">Otomatik mod</string>
+    <string name="atrace_start">Systrace başlat</string>
+    <string name="atrace_dump">Systrace boşalt</string>
+    <string name="accessibility_service_description">Perfdump açıklaması</string>
+    <string name="accessibility_service_label">Perfdump</string>
+    <string name="action_trace_setting">Systrace ayarla</string>
+    <string name="gfx">Grafik</string>
+    <string name="input">Giriş</string>
+    <string name="view">Sistemi görüntüle</string>
+    <string name="webview">İnternet görünümü</string>
+    <string name="wm">Pencere yöneticisi</string>
+    <string name="am">Aktivite yöneticisi</string>
+    <string name="sm">Senkronize yöneticisi</string>
+    <string name="audio">Ses</string>
+    <string name="video">Video</string>
+    <string name="camera">Kamera</string>
+    <string name="hal">HAL</string>
+    <string name="app">Uygulama</string>
+    <string name="res">Kaynak yükleme</string>
+    <string name="dalvik">Dalvik VM</string>
+    <string name="rs">İşaret komut dosyası</string>
+    <string name="bionic">Bionic C kütüphanesi</string>
+    <string name="power">Güç yönetimi</string>
+    <string name="pm">Paket yönetimi</string>
+    <string name="ss">Sistem sunucusu</string>
+    <string name="database">Veritabanı</string>
+    <string name="sched">İşlemci zamanlama</string>
+    <string name="freq">İşlemci frekansı</string>
+    <string name="idle">İşlemci rölantı</string>
+    <string name="load">İşlemci yüklemesi</string>
+    <string name="memreclaim">Hafıza geri çağırma</string>
+    <string name="binder_driver">Bağlayıcı sürücüsü</string>
+    <string name="binder_lock">Bağlayıcı kilidi</string>
+    <string name="hint_edit_text">İz arabellek boyutu (KB)</string>
+    <string name="save">Kaydet</string>
+    <string name="action_jank_setting">Jank algılama ayarı</string>
+    <string name="hint_screencap_fps_record">Başlatma veya durma FPS kaydı sırasında ekran yakalama</string>
+    <string name="hint_screencap_trace">"Systrace'ı atarken ekran yakalama"</string>
+    <string name="hint_screencap_jank">Jank eşiğinin üstünde olması durumunda ekran yakalama</string>
+    <string name="hint_alpha_setting">Yer paylaşımlı alfa ayarı</string>
+    <string name="fps_example">FPS: 00 00 00 00</string>
+    <string name="hint_jank_threshold">Yarışma eşiği ayarı</string>
+    <string name="action_about">Hakkında</string>
+    <string name="about_content">"Telif hakkı (C) 2017 Qualcomm Inc.
+
+
+Perfdump kullanımı:
+  1. Jank algılama manuel modu oyunlar için tasarlanmıştır
+  2. Jank algılama otomatik modu uygulama kaydırma sahnesi için tasarlanmıştır
+
+
+Teknik destek: Qualcomm Şangay performans takımı"</string>
+    <string name="property">Qualcomm tarafından geliştirilen performans aracı</string>
+</resources>

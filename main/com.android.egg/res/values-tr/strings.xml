@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android paskalya yumurtası</string>
+    <string name="notification_name">Android baz</string>
+    <string name="default_tile_name">\????</string>
+    <string name="notification_title">Bir kedi geldi</string>
+    <string name="default_cat_name">Kedi #%s</string>
+    <string name="directory_name">Kediler</string>
+    <string name="confirm_delete">%s unuttun mu?</string>
+</resources>

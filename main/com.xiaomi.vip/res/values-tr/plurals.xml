@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cube_ptr_seconds_ago">
+        <item quantity="other"> saniye önce</item>
+        <item quantity="one"> saniye önce</item>
+    </plurals>
+    <plurals name="cube_ptr_minutes_ago">
+        <item quantity="other"> dakika önce</item>
+        <item quantity="one"> dakika önce</item>
+    </plurals>
+    <plurals name="cube_ptr_hours_ago">
+        <item quantity="other"> saat önce</item>
+        <item quantity="one"> saat önce</item>
+    </plurals>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_main">Ana aktivite</string>
+    <string name="hello_world">Merhaba</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="my_app_name">FIDO UAF1.0 ASM</string>
+    <string name="my_description">"App'yi oturum açmak için Android cihazınızda FIDO UAF1.0 şifrematikle ayarlayabilirsiniz. Kullanıcı adınız ve şifreniz ile oturum açmaktan daha güvenli ve daha kullanışlıdır"</string>
+    <string name="my_title_ecdsa">FIDO UAF1.0 şifrematik (ECDSA)</string>
+    <string name="my_title_sm2">FIDO UAF1.0 şifrematik (SM2)</string>
+    <string name="touch_finger_hint">Lütfen parmağına dokunun</string>
+    <string name="transaction_confirmation">İşlem Onayı</string>
+    <string name="cancel">İptal et</string>
+    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="fingerprint_matched">Eşleşti</string>
+    <string name="fingerprint_mismatched">Eşleşmedi. Lütfen tekrar deneyin</string>
+    <string name="timeout">Zaman aşımı</string>
+    <string name="toomanyattempts">"Çok denediniz
+Lütfen daha sonra tekrar deneyiniz"</string>
+    <string name="finger_image">Parmak izi</string>
+    <string name="manage_ok">Ayarlara git</string>
+    <string name="manage_hint">"Hiçbir parmak izi kaydedilmedi
+Lütfen parmak izinizi kaydetmek ve kayıt işlemine geri dönmek için ayarlara gidin"</string>
+    <string name="select_user_title">Kullanıcıyı seç</string>
+    <string name="click_to_authorize">Yetki ver</string>
+    <string name="app_name">Asm Sdk</string>
+</resources>

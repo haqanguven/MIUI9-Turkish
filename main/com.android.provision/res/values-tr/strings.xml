@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Hoş geldiniz</string>
+    <string name="app_name">Provizyon</string>
+    <string name="input_method_setting">Klavye seçin</string>
+    <string name="input_method_category">Mesaj yazmak, not yazmak ve diğer alanlarda kullanmak üzere varsayılan klavyenizi seçin. Dilediğiniz zaman üçüncü parti klavye uygulamalarını yükleyebileceğinizi unutmayın</string>
+    <string name="provision_inputmethod_policy_description">"
+Seçili klavyenin gizlilik politikasını görüntüleyin"</string>
+    <string name="provision_inputmethod_policy_description1">Gizlilik politikası</string>
+    <string name="multisim_settings_title">2 Sim kart algılandı</string>
+    <string name="multisim_settings_category">Sim kart ayarları</string>
+    <string name="sim_card_detection">Sim kart takın</string>
+    <string name="sim_card_detecting_title">Sim kart kontrol ediliyor</string>
+    <string name="sim_card_detection_info">Sim kartınızı cihazınıza yerleştirmek için lütfen cihazla birlikte gelen yönergeleri okuyun</string>
+    <string name="sim_card_detecting">Sim kart kontrol ediliyor</string>
+    <string name="other_settings">Ek ayarlar</string>
+    <string name="other_settings_location">Konum</string>
+    <string name="other_settings_location_summary">Uygulamaların konumunuza erişimine izin verin</string>
+    <string name="other_settings_user_experience">Kullanıcı deneyimi geliştirme programı</string>
+    <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek cihaz ve ürünlerimizi geliştirmemize yardımcı olun</string>
+    <string name="other_settings_upload_debug_log_title">Tanı verilerini otomatik olarak gönder</string>
+    <string name="other_settings_upload_debug_log_summary">Topladığımız veriler sistemdeki problemleri konumlandırmakta ve analiz edilmekte kullanılacak olup kişisel verilerinizi içerebilir. Hiçbir veri kimliğinizi tanımlamak için kullanılmayacaktır</string>
+    <string name="other_settings_auto_update">Otomatik olarak yükle</string>
+    <string name="other_settings_auto_update_summary">Miui güncellemeleri yüklemek için en iyi zamanı seçer</string>
+    <string name="back">Geri</string>
+    <string name="next">İleri</string>
+    <string name="skip_underline">Bu adımı atla</string>
+    <string name="sim_dectection_next">Devam et</string>
+    <string name="shut_down">Kapat</string>
+    <string name="sim_redetection">Tekrar kontrol et</string>
+    <string name="congratulation_title">Kurulum tamamlandı</string>
+    <string name="congratulation_label">Artık hazırsınız</string>
+    <string name="pref_title_voice_slot">Tercih edilen ses Sim kartı</string>
+    <string name="pref_title_data_slot">Tercih edilen veri Sim kartı</string>
+    <string name="summary_not_set">Ayarlı değil</string>
+    <string name="ime_privacy_policy">Seçili klavyenin gizlilik politikası</string>
+    <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. Bu klavyenin gizlilik politikasını %s adresinde görüntüleyin</string>
+    <string name="terms_of_use">Şartlar ve koşullar</string>
+    <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Hangi bilgileri topladığımızı, topladığımız bilgileri nasıl kullandığımızı ve hangi tercihlerin sizin için uygun olduğunu anlamak için lütfen hizmet şartları ve gizlilik politikamızı okuyun
+
+Miui'yi kullanmaya başlamadan önce hizmet şartları ve gizlilik politikası sözleşmelerimizi kabul etmeniz gerekmektedir. Etkinleştirme işlemi sırasında; Mi hizmetleri, Mi Sim etkinleştirme servisleri, Mi bulut, Cihaz bul, Ana ekran modülleri, Oyun servisi, MBA ve MSA sistem bileşenleri, Doğrudan servis ve hızlı kart, İstatistik bileşenleri, Mi akıllı kartlar ve Mi hesabı bileşenleri internete bağlanır ve konumunuza erişir"</string>
+    <string name="user_agreement">Hizmet şartları</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="application_permissions">Uygulama izinleri</string>
+    <string name="agree">Kabul et</string>
+    <string name="disagree">İptal</string>
+    <string name="setting_locale">Bölge ayarlanıyor</string>
+    <string name="agree_terms">Hizmet şartları ve gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
+    <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Hizmet koşullarını %s adresinde görüntüleyin</string>
+    <string name="locale_picker_title">Bölgenizi seçin</string>
+    <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
+    <string name="title_fingerprint">Şifre oluştur</string>
+    <string name="item_fingerprint">Parmak izi</string>
+    <string name="item_lock_screen_password">Yalnızca ekran kilidi</string>
+    <string name="desc_fingerprint">Cihazınızın kilidini açmak Mi ödemelerini onaylamak veya uygulama ve hizmetlerde oturum açmak için parmak izinizi kullanın</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="next_fingerprint">İleri</string>
+    <string name="desc_extra_international_fingerprint" />
+    <string name="desc_international_fingerprint">Cihazınızın kilidini açmak veya diğer uygulama ve hizmetlerde oturum açmak için parmak izinizi kullanın</string>
+    <string name="content_description_start">Başlat</string>
+    <string name="content_description_miui_version">Miui 9</string>
+    <string name="content_description_complete">Tamamlandı</string>
+    <string name="language_picker_other_languages_title">Daha fazla dil</string>
+    <string name="language_settings">Dil seçin</string>
+    <string name="enable_accessibility_dialog_message">"Ekrana 2 parmağınız ile 10 saniyeden daha fazla basılı tutarak TalkBack özelliğini açtınız. TalkBack görme engelli kişiler için sesli geri bildirim sağlar. TalkBack'ı yanlışlıkla açtıysanız iptal tuşuna basın ve ardından ekrana çift dokunun"</string>
+    <string name="enable_accessibility_dialog_positive_btn">Tamam</string>
+    <string name="enable_accessibility_dialog_negative_btn">İptal et</string>
+    <string name="cm_terms_title">Mobil ağ operatör dözleşmesi</string>
+    <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini wifi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>
+    <string name="enable_accessibility_canceled">Erişilebilirlik iptal edildi</string>
+    <string name="accessibility_enabled">Erişilebilirlik etkinleştirildi</string>
+    <string name="continue_to_enable_accessibility">Erişilebilirliği etkinleştirmek için iki parmağınızı basılı tutmaya devam edin</string>
+</resources>
