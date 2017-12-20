@@ -1,2 +1,3 @@
-# Miui9-Turkish
-7.12.7
+# Miui Turkish Team
+# Developer
+# Version: 7.12.7
