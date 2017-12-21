@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="order_time">
+        <item quantity="other">%1$s dakika</item>
+        <item quantity="zero">%1$s dakika</item>
+        <item quantity="one">%1$s dakika</item>
+    </plurals>
+    <plurals name="package_residual_minute">
+        <item quantity="other">Kalan %s dakika</item>
+        <item quantity="zero">Kalan %s dakika</item>
+        <item quantity="one">Kalan %s dakika</item>
+    </plurals>
+    <plurals name="remain_deadline_hint">
+        <item quantity="other">(%s dakika sınırlı)</item>
+        <item quantity="zero">(%s dakika sınırlı)</item>
+        <item quantity="one">(%s dakika sınırlı)</item>
+    </plurals>
+    <plurals name="remain_talk_time">
+        <item quantity="other">dakika</item>
+        <item quantity="zero">dakika</item>
+        <item quantity="one">dakika</item>
+    </plurals>
+    <plurals name="remove_numbers_confirm">
+        <item quantity="other">%d numara silinecek</item>
+        <item quantity="one">%d numara silinecek</item>
+    </plurals>
+    <plurals name="use_history_deduct_minute">
+        <item quantity="other">-%1$s dakika</item>
+        <item quantity="one">-%1$s dakika</item>
+    </plurals>
+    <plurals name="use_history_duration_min">
+        <item quantity="other">%1$s dakika</item>
+        <item quantity="one">%1$s dakika</item>
+    </plurals>
+    <plurals name="use_history_duration_sec">
+        <item quantity="other">%1$s saniye</item>
+        <item quantity="one">%1$s saniye</item>
+    </plurals>
+</resources>

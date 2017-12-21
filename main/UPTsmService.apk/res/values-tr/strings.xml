@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_guide">Etkinlik günlüğü</string>
+    <string name="app_name">CUP güvenilir hizmet güvenlik bileşenleri</string>
+    <string name="click_to_reload">Tekrar denemek için lütfen sayfayı tıklayın</string>
+    <string name="error_crash">Bir hata oluştu</string>
+    <string name="error_download_file">Dosya indirilemedi</string>
+    <string name="error_network">Ağ hatası</string>
+    <string name="error_storage_not_enough">Yetersiz depolama alanı. Lütfen tekrar denemek için yeterli alan ayırın</string>
+    <string name="error_unrecognized">Bilinmeyen hata</string>
+    <string name="load_error">Sayfa yüklemesi başarısız oldu</string>
+    <string name="quick_pass_fund">Flaş ödeme</string>
+    <string name="servicedesc">TSM hizmeti</string>
+    <string name="subscription">AID grup</string>
+    <string name="unit_rmb">RMB</string>
+    <string name="withdrawal_record">Çekilme kaydı</string>
+</resources>

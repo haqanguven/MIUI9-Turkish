@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="rank_up_by">
+        <item quantity="other">Dünden beri %d sıra çıktınız</item>
+        <item quantity="one">Dünden beri %d sıra çıktınız</item>
+    </plurals>
+    <plurals name="rank_down_by">
+        <item quantity="other">Dünden beri %d sıra düştünüz</item>
+        <item quantity="one">Dünden beri %d sıra düştünüz</item>
+    </plurals>
+    <plurals name="weekly_rank_up_by">
+        <item quantity="other">%d pozisyona kadar çıktı</item>
+        <item quantity="one">%d pozisyona kadar gitmiş</item>
+    </plurals>
+    <plurals name="weekly_rank_down_by">
+        <item quantity="other">%d pozisyona kadar indi</item>
+        <item quantity="one">%d pozisyona kadar indi</item>
+    </plurals>
+    <plurals name="select_x_items">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+</resources>

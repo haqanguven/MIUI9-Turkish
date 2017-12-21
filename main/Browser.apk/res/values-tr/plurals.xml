@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adblock_notification">
+        <item quantity="other">%d reklam engellendi</item>
+        <item quantity="one">%d reklam engellendi</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d öğe engellendi</item>
+        <item quantity="one">%d öğe engellendi</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d görev silinsin mi?</item>
+        <item quantity="one">%d görev silinsin mi?</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d eşleşme</item>
+        <item quantity="one">%d eşleşme</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Son %d gün</item>
+        <item quantity="one">Son %d gün</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">Toplam %1$d sonuçtan %2$d eşleşme</item>
+        <item quantity="one">1 eşleşme</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">%d engellendi</item>
+        <item quantity="one">%d engellendi</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">%d şarkı</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d albüm</item>
+        <item quantity="one">%d albüm</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d popüler şarkı</item>
+        <item quantity="one">%d popüler şarkı</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d video başarıyla silindi</item>
+        <item quantity="one">%1$d video başarıyla silindi</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">%1$d video silinsin mi?</item>
+        <item quantity="one">%1$d video silinsin mi?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d öğe geçmişten silindi</item>
+        <item quantity="one">%1$d öğe geçmişten silindi</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">%1$d öğeyi geçmişten kaldırmak istiyor musun?</item>
+        <item quantity="one">%1$d öğeyi geçmişten kaldırmak istiyor musun?</item>
+    </plurals>
+    <plurals name="video_push_multi_message">
+        <item quantity="other">%1$d güncelleme mevcut</item>
+        <item quantity="one">%1$d güncelleme mevcut</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">%d dakika kaldı</item>
+        <item quantity="one">%d dakika kaldı</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Açık</item>
+        <item quantity="one">Güneşli</item>
+    </plurals>
+</resources>
