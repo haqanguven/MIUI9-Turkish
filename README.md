@@ -1,3 +1,3 @@
 # Miui Turkish Team
 # Developer
-# Version: 7.12.7
+# Version: 8.2.18
