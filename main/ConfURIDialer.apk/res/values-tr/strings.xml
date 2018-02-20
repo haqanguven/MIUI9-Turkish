@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="applicationLabel">Konferans URI çevirici</string>
+    <string name="applicationLabel_add_participant">Katılımcı çevirici ekle</string>
+    <string name="qti_edit_number">Numarayı gir</string>
+    <string name="qti_edit_number_ok_key">Tamam</string>
+    <string name="qti_edit_number_cancel_key">İptal et</string>
+    <string name="qti_choose_contact">Bir kişi seçiniz</string>
+    <string name="button_start_conference_call">Aramayı başlat</string>
+    <string name="button_start_video_conference_call">Video aramasını başlat</string>
+    <string name="button_add_participant">Katılımcı ekle</string>
+    <string name="add_uri_list_to_dial">Konferans görüşmesi için uri listesini girin</string>
+    <string name="add_recipient_to_add_participant">Katılımcı eklemek için alıcıyı girin</string>
+    <string name="add_participant_imposible">Boş numara: Katılımcıyı eklemek mümkün değil</string>
+    <string name="select_from_call_log">Arama kaydından seçin</string>
+</resources>

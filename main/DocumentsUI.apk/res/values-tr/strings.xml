@@ -33,9 +33,8 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="abc_capital_on">AÇ</string>
-    <string name="abc_capital_off">KAPAT</string>
-    <string name="search_menu_title">Ara</string>
+    <string name="abc_capital_on">Aç</string>
+    <string name="abc_capital_off">Kapat</string>
     <string name="trusted_quick_viewer_package" />
     <string name="app_label">Belgeler</string>
     <string name="downloads_label">İndirilenler</string>
@@ -52,8 +51,8 @@
     <string name="menu_share">Paylaş</string>
     <string name="menu_delete">Sil</string>
     <string name="menu_select_all">Tümünü seç</string>
-    <string name="menu_copy">Şuraya kopyala…</string>
-    <string name="menu_move">Taşı...</string>
+    <string name="menu_copy">Şuraya kopyala</string>
+    <string name="menu_move">Taşı</string>
     <string name="menu_new_window">Yeni pencere</string>
     <string name="menu_copy_to_clipboard">Kopyala</string>
     <string name="menu_paste_from_clipboard">Yapıştır</string>
@@ -90,9 +89,9 @@
     <string name="delete_notification_title">Dosyalar siliniyor</string>
     <string name="copy_remaining">%s kaldı</string>
     <string name="undo">Geri al</string>
-    <string name="copy_preparing">Kopyalama işlemine hazırlanıyor…</string>
-    <string name="move_preparing">Taşıma için hazırlanıyor…</string>
-    <string name="delete_preparing">Silmek için hazırlanıyor…</string>
+    <string name="copy_preparing">Kopyalama işlemine hazırlanıyor</string>
+    <string name="move_preparing">Taşıma için hazırlanıyor</string>
+    <string name="delete_preparing">Silmek için hazırlanıyor</string>
     <string name="notification_touch_for_details">Detayları görüntülemek için dokunun</string>
     <string name="close">Kapat</string>
     <string name="copy_failure_alert_content">Bu dosyalar kopyalanmadı: %1$s</string>

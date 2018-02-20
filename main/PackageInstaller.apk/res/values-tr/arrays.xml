@@ -73,24 +73,6 @@
         <item>Günlük arabellek başına 4 MB</item>
         <item>Günlük arabellek başına 16 MB</item>
     </string-array>
-    <string-array name="select_logpersist_values">
-        <item></item>
-        <item>all</item>
-        <item>default,security,kernel</item>
-        <item>kernel</item>
-    </string-array>
-    <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
-    </string-array>
-    <string-array name="select_logpersist_summaries">
-        <item>Kapalı</item>
-        <item>Tüm günlük arabelleği</item>
-        <item>Radyo günlüğü arabelleği hariç hepsi</item>
-        <item>Sadece çekirdek günlük arabelleği</item>
-    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Kapalı</item>
         <item>5x</item>
@@ -261,12 +243,6 @@
         <item>1</item>
         <item>3</item>
     </string-array>
-    <integer-array name="color_mode_ids">
-        <item>0</item>
-        <item>-1</item>
-        <item>7</item>
-    </integer-array>
-    <array name="config_hideWhenDisabled_packageNames" />
     <string-array name="tts_rate_entries">
         <item>Çok yavaş</item>
         <item>Yavaş</item>

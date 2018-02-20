@@ -32,12 +32,12 @@
         <item>挪威</item>
     </string-array>
     <string-array name="lang_fast_internal_language">
-        <item>英&amp;中</item>
-        <item>中&amp;英</item>
+        <item>İngilizce&amp;中</item>
+        <item>中&amp;İngilizce</item>
     </string-array>
     <string-array name="lang_fast_internal_language_codes">
-        <item>英上中下</item>
-        <item>中上英下</item>
+        <item>Bir sonraki İngilizce</item>
+        <item>Bir sonraki Nakagami</item>
     </string-array>
     <integer-array name="subtitle_font_size">
         <item>36</item>
@@ -110,15 +110,15 @@
     </array>
     <string-array name="server_list_entries">
         <item>Test sunucu</item>
-        <item>Çevrimiçi sunucu</item>
+        <item>Resmi sunucu</item>
     </string-array>
     <string-array name="server_list_entries_value">
         <item>cp.v3.tv.mitvos.com</item>
         <item>api.video.xiaomi.com</item>
     </string-array>
     <string-array name="version_list_entries">
-        <item>Kararlı</item>
-        <item>Geliştirici</item>
+        <item>Kararlı sürüm</item>
+        <item>Geliştirici sürüm</item>
     </string-array>
     <string-array name="version_list_entries_value">
         <item>90</item>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="app_start_setting">
-        <item>Yalnızca otomatik başlayan beyaz listeye izin verilir</item>
-        <item>Tümü yasaklı</item>
-    </string-array>
-</resources>

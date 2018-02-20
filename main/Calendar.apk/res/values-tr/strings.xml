@@ -4,6 +4,22 @@
     <string name="copy_number">Telefon numarasını kopyala</string>
     <string name="done">Enter</string>
     <string name="more_string">+%1$s</string>
+    <string name="miuishare_account_activate_confirmation">Mi hesabını etkinleştirt</string>
+    <string name="miuishare_account_activate_ok">Etkinleştir</string>
+    <string name="miuishare_account_login_cancel">İptal et</string>
+    <string name="miuishare_account_login_confirmation">Mi hesabında oturum Açın</string>
+    <string name="miuishare_account_login_ok">Oturum aç</string>
+    <string name="miuishare_account_need_activate">Weibo üzerinden paylaşmak için Mi hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi hesabınızı etkinleştirin</string>
+    <string name="miuishare_account_need_login">Weibo üzerinden paylaşmak için Mi hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi hesabınızda oturum açın</string>
+    <string name="miuishare_app_name">Miui paylaşma</string>
+    <string name="miuishare_no_network">Ağa bağlanılamadı.</string>
+    <string name="miuishare_publish">Gönder</string>
+    <string name="miuishare_share_done">Gönderildi</string>
+    <string name="miuishare_share_editor_title">Paylaş</string>
+    <string name="miuishare_title_more">Daha fazla</string>
+    <string name="miuishare_title_share">Paylaş</string>
+    <string name="miuishare_wechat_timeline_title">WeChat anlar</string>
+    <string name="miuishare_weibo_title">Weibo</string>
     <string name="accessibility_add_attendee">Katılımcı ekle</string>
     <string name="accessibility_all_day">Tüm gün etkinliği</string>
     <string name="accessibility_pick_start_date">Başlangıç tarihi</string>
@@ -16,7 +32,9 @@
     <string name="accounts">Hesaplar &amp; senkronizasyon</string>
     <string name="acct_not_synced">Bu hesap senkronize edilmediğinden takvimleriniz güncel olmayabilir</string>
     <string name="acessibility_selected_marker_description">Seçili etkinlik</string>
+    <string name="action_bar_date_button_title">Tarihi hesapla</string>
     <string name="action_bar_more_menu_view_description">Daha fazla</string>
+    <string name="action_bar_return">Geri</string>
     <string name="action_text_card_manager">Kanal</string>
     <string name="action_text_today">Bugün</string>
     <string name="add_anniversary">Yıl dönümü ekle</string>
@@ -30,8 +48,9 @@
     <string name="alarm_label">Yoksay</string>
     <string name="alert_reminder_expired">Süresi doldu</string>
     <string name="alert_title">Takvim bildirimleri</string>
-    <string name="anniversary_event_title">ıl dönümü: %1$s</string>
+    <string name="anniversary_event_title">Yıl dönümü: %1$s</string>
     <string name="app_label">Takvim</string>
+    <string name="birthday_born">doğum günü</string>
     <string name="birthday_calendar_display_name">Doğum günü hatırlatıcıları</string>
     <string name="birthday_event_description_a_week_ago">Bir hafta önce</string>
     <string name="birthday_event_description_a_week_later">Bir hafta kaldı</string>
@@ -69,21 +88,24 @@
     <string name="card_manager_no_data">Abonelik yok</string>
     <string name="card_title_change">Daha fazla</string>
     <string name="change_response_title">Yanıtı değiştir</string>
+    <string name="clear_net_mock_success">Net mock temizlendi</string>
     <string name="countdown_event_title">Geri sayım: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Geri sayım: 3 gün içinde %1$s</string>
     <string name="countdown_notify_title">Geri sayım: %1$s</string>
     <string name="countdown_today">Bugün</string>
-    <string name="create_an_account_desc">"Takvim bir Mi hesabı ile daha iyi çalışır
-
-• Dilediğiniz tarayıcıdan erişin
-• Etkinliklerinizi güvenle yedekleyin"</string>
+    <string name="create_an_account_desc">"Takvim bir Mi hesabı ile daha iyi çalışır\u000d
+\u000d
+• Dilediğiniz bir tarayıcıdan takviminize ulaşabilirsiniz\u000d
+• Etkinliklerinizi güvenle yedekleyebilirsiniz"</string>
     <string name="creating_event">Etkinlik oluşturuldu</string>
-    <string name="creating_event_with_guest">Davetler gönderilecektir</string>
+    <string name="creating_event_with_guest">Davetler gönderiliyor</string>
     <string name="daily">Günlük</string>
     <string name="date_calculate">Tarih hesapla</string>
     <string name="date_calculate_days">Gün sayısını girin</string>
     <string name="date_calculate_description">Belirli bir tarihten önce veya sonrasının hangi gün olduğunu öğrenin</string>
     <string name="date_calculate_direction">Yön</string>
+    <string name="date_calculate_direction_content_description">Mevcut yön: %1s</string>
+    <string name="date_calculate_hint">Birkaç gün sonra ne tarihte olduğunu öğrenin</string>
     <string name="date_calculate_result">Sonuç</string>
     <string name="date_calculate_tab">Tarih hesapla</string>
     <string name="date_calculate_today">0 gün</string>
@@ -93,12 +115,14 @@
     <string name="date_interval_start">Başlangıç</string>
     <string name="date_interval_tab">Aralık</string>
     <string name="date_interval_text_to">%1$s tarihine</string>
+    <string name="date_jump_hint">Doğrudan belli bir güne atla</string>
+    <string name="date_jump_title">Tarihe geç</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_today">" (bugün)"</string>
     <string name="day_view_new_event_hint">Yeni etkinlik</string>
     <string name="default_reminder_mode">Hatırlatıcılar</string>
     <string name="delete_calendar">Aboneliği sonlandır</string>
-    <string name="delete_recurring_event_title">%s etkinliği silinsin mi?</string>
+    <string name="delete_recurring_event_title">%s silinsin mi?</string>
     <string name="delete_this_event_title">Bu etkinlik silinsin mi?</string>
     <string name="deleting_calendar">Abonelik sonladırılıyor</string>
     <string name="description_calendar">Sistem uygulamaları/Takvim</string>
@@ -118,6 +142,7 @@
     <string name="edit_event_birthday_import_from_contact">Kişilerden doğum günlerini içe aktar</string>
     <string name="edit_event_birthday_name_empty_hint">Bir isim girin</string>
     <string name="edit_event_birthday_name_hint">İsim</string>
+    <string name="edit_event_birthday_reminder_3_days_before">3 gün önceden de hatırlat</string>
     <string name="edit_event_birthday_reminder_time">Hatırlatıcı zamanı</string>
     <string name="edit_event_calendar_label">Takvim</string>
     <string name="edit_event_choose_date">Tarih seç</string>
@@ -126,7 +151,7 @@
     <string name="edit_event_countdown_name_hint">Etkinlik</string>
     <string name="edit_event_from_label">Başlangıç</string>
     <string name="edit_event_input_year">Yıl girin</string>
-    <string name="edit_event_label">Ayrıntılar</string>
+    <string name="edit_event_label">Detaylar</string>
     <string name="edit_event_no_reminder_value">Hatırlatma</string>
     <string name="edit_event_reminder_3_days_before">3 gün önceden de hatırlat</string>
     <string name="edit_event_reminder_summary">Aynı gün %1$s saatinde</string>
@@ -140,10 +165,10 @@
     <string name="edit_event_tab_countdown">Geri sayım</string>
     <string name="edit_event_tab_event">Etkinlik</string>
     <string name="edit_event_to_label">Bitiş</string>
-    <string name="email_guests_label">E-posta ziyaretçileri</string>
+    <string name="email_guests_label">Davetlilere e-posta gönder</string>
     <string name="email_install_hint">E-posta kaldırıldı. Yeniden yükleyerek takvim hesap verilerini geri yükleyebilir veya yeni hesap ekleyebilirsiniz</string>
-    <string name="email_picker_label">Şununla e-posta</string>
-    <string name="empty_event">Boş etkinlik oluşturulmadı</string>
+    <string name="email_picker_label">Şunu kullanarak e-posta gönder</string>
+    <string name="empty_event">Boş etkinlik oluşturulamaz</string>
     <string name="english_premium_league">İngiltere Premier Ligi</string>
     <string name="event_account">Hesap</string>
     <string name="event_action_delete">Sil</string>
@@ -177,7 +202,7 @@
     <string name="global_football_final">Final</string>
     <string name="global_football_no_match">Bugüne tarihli futbol maçı yok</string>
     <string name="guide_card_hint_text">Kişilerden doğum günlerini içe aktar</string>
-    <string name="hint_attendees">Konuklar</string>
+    <string name="hint_attendees">Misafirler</string>
     <string name="hint_description">Açıklama</string>
     <string name="hint_what">Etkinlik adı</string>
     <string name="hint_where">Konum</string>
@@ -194,10 +219,9 @@
     <string name="insert_event_toast_add_failed">Eklenemedi</string>
     <string name="insert_event_toast_add_success">Etkinlik oluşturuldu</string>
     <string name="install_email_app">E-postayı yükle</string>
-    <string name="install_email_finished">E-posta yğklendi</string>
+    <string name="install_email_finished">E-posta yüklendi</string>
     <string name="installing_email">Yükleniyor</string>
     <string name="item_num_selected">%1$d öğe seçildi</string>
-    <string name="jump_date_full">Tarihe atla</string>
     <string name="load_more_hint">%1$d yılı etkinliklerini yenile</string>
     <string name="loading">Yükleniyor</string>
     <string name="local_calendar_display_name">Yerel takvim</string>
@@ -212,7 +236,7 @@
     <string name="missing_name">(Adsız)</string>
     <string name="missing_required_permission">Gerekli bir izni devre dışı bıraktınız</string>
     <string name="modify_all">Serideki tüm etkinlikleri değiştir</string>
-    <string name="modify_all_following">Bunu ve tüm gelecekteki etkinlikleri değiştir</string>
+    <string name="modify_all_following">Bu ve gelecekteki tüm etkinlikleri değiştir</string>
     <string name="modify_event">Yalnızca bu etkinliği değiştir</string>
     <string name="month_medium_april">Nisan</string>
     <string name="month_medium_august">Ağustos</string>
@@ -236,7 +260,7 @@
     <string name="new_event_dialog_option">Yeni etkinlik</string>
     <string name="no_contact_birthday_hint">İçe aktarılacak doğum günü yok</string>
     <string name="no_events_hint">Etkinlik yok</string>
-    <string name="no_network">"Ağa bağlanılamadı
+    <string name="no_network">"Ağa bağlanılamadı\u000d
 Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="no_network_btn">Yeniden deneyin</string>
     <string name="no_title_label">(Başlık yok)</string>
@@ -260,11 +284,12 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="preferences_home_tz_title">Ev zaman dilimi</string>
     <string name="preferences_notification_ringtone_title">Ses</string>
     <string name="preferences_title">Takvim</string>
-    <string name="preferences_use_home_tz_descrip">Seyahat ediyorken takvimler ve etkinlik zamanları ev saat diliminizde görüntülenir</string>
+    <string name="preferences_use_home_tz_descrip">Seyahat ediyorken takvim ve etkinlik zamanlarını ev zaman diliminde göster</string>
     <string name="preferences_use_home_tz_title">Ev zaman dilimini kullan</string>
     <string name="preferences_week_start_day_dialog">Haftanın başlangıcı</string>
     <string name="preferences_week_start_day_title">Haftanın başlangıcı</string>
     <string name="pull_to_refresh_hint">%1$d yılı etkinliklerini yenilemek için çekin</string>
+    <string name="receive_net_mock_success">Net mock alındı</string>
     <string name="refresh">Yenile</string>
     <string name="refreshing_hint">Yenileniyor</string>
     <string name="repeat_activity_label">Tekrarla</string>
@@ -293,13 +318,13 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
-    <string name="repeats_label">Tekrarla</string>
+    <string name="repeats_label">Tekrar</string>
     <string name="response_maybe">Belki</string>
     <string name="response_no">Hayır</string>
     <string name="response_yes">Evet</string>
     <string name="rest_day_indication">: )</string>
     <string name="saving_event">Etkinlik kaydedildi</string>
-    <string name="saving_event_with_guest">Güncellemeler gönderilecektir</string>
+    <string name="saving_event_with_guest">Güncellemeler gönderiliyor</string>
     <string name="search">Ara</string>
     <string name="search_calendar">Tarih;Güneş Dönemleri;Ay takvimi;Almanak;Fal;Ajanda;Toplantı;Hatırlatıcı;Gezi;Tatil;Doğum günü;2016;2017;Bahar bayramı;Yeni Yıl Günü;Uluslararası İşçi Bayramı;Güz ortası bayramı</string>
     <string name="search_calendar_edit_event">Toplantı;Hatırlatıcı;Ajanda</string>
@@ -320,6 +345,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_others">Ek</string>
     <string name="setting_title_about">Hakkında</string>
     <string name="setting_title_holiday_display">Tatilleri göster</string>
+    <string name="share_title">Paylaş</string>
     <string name="show_day_view">Günü göster</string>
     <string name="solar_lunar_convert_date" />
     <string name="solar_lunar_convert_description" />
@@ -334,14 +360,19 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="subscribe_channel_footer_desc">Aboneliklerinizi kontrol edin veya abonelik sonlandırın</string>
     <string name="subscribe_channel_footer_title">Abone olundu</string>
     <string name="subscribe_channel_footer_view">Kontrol et</string>
-    <string name="subscribe_channel_hint">"Sevdiğiniz servislere abone olun ve servisler hakkında günlük güncellemeler alın
+    <string name="subscribe_channel_hint">"Sevdiğiniz servislere abone olun ve servisler hakkında günlük güncellemeler alın\u000d
 Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazsınız"</string>
     <string name="subscribe_channel_subscribe">Abone ol</string>
     <string name="subscribe_channel_subscribing">Abone olunuyor</string>
     <string name="subscribe_channel_title">Kanal</string>
     <string name="subscribing_card">Abone olunuyor</string>
     <string name="synced">senkronize edildi</string>
-    <string name="template_announce_item_index">Etkinlik %1$s - %2$s</string>
+    <string name="tab_title_agenda">Etkinlikler</string>
+    <string name="tab_title_day">Gün</string>
+    <string name="tab_title_month">Ay</string>
+    <string name="tab_title_week">Hafta</string>
+    <string name="talk_back_read_date">Geçerli tarih: %1$s (Ay takvime göre %2$s)</string>
+    <string name="template_announce_item_index">Etkinlik %1$s/%2$s.</string>
     <string name="template_week_num">%1$s. hafta</string>
     <string name="time_zone">Zaman dilimi</string>
     <string name="timezone_label">Zaman dilimi</string>
@@ -389,7 +420,6 @@ Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazs
     <string name="view_event_organizer_label">Düzenleyen:</string>
     <string name="view_event_response_label">Katılıyor musunuz?</string>
     <string name="view_in_month_view">Ayı görüntüle</string>
-    <string name="week_view_today_toast">Şu anda bu haftayı görüntülüyorsunuz</string>
     <string name="weekly">Haftalık (Her %s)</string>
     <string name="when_label">Ne zaman</string>
     <string name="widget_events">Sonraki etkinlik</string>
@@ -400,9 +430,6 @@ Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazs
     <string name="xiaomi_calendar_display_name">Mi hesabı takvimi</string>
     <string name="yearly">Yıllık (Her %s)</string>
     <string name="yearly_plain">Yıllık</string>
-    <string name="action_bar_return">Geri dön</string>
-    <string name="date_calculate_direction_content_description">Direction, current is %1s</string>
-    <string name="talk_back_read_date">Geçerli tarih: %1$s,%2$s,</string>
     <string name="ad_card_connecting">连接中</string>
     <string name="ad_card_download_count">%1$s人下载</string>
     <string name="ad_card_download_count_million">%1$s万人下载</string>
@@ -479,7 +506,7 @@ Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazs
     <string name="gas_detail_title">燃气缴费</string>
     <string name="gas_event_delete_successfully">燃气缴费事件删除成功</string>
     <string name="gas_interval_label">计费时段</string>
-    <string name="global_action_text_card_manager">More categories</string>
+    <string name="global_action_text_card_manager">Daha fazla kategori</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="homepage_nowadays">今天</string>
     <string name="homepage_today">今</string>
@@ -545,13 +572,14 @@ Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazs
     <string name="match_ed">已结束</string>
     <string name="match_ing">进行中</string>
     <string name="match_not_started">未开始</string>
+    <string name="miuishare_qzone_title">Qzone</string>
     <string name="more_match">更多赛事</string>
     <string name="movie_event_delete_successfully">电影票事件删除成功</string>
     <string name="movie_event_title">电影：</string>
     <string name="olympic_rank">排名</string>
     <string name="olympic_total">总数</string>
     <string name="olympic_vs">VS</string>
-    <string name="online_reminder_header_text">提醒</string>
+    <string name="online_reminder_header_text">Hatırlat</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">Amanta ay:</string>
     <string name="panchang_ayana">Ayana</string>
@@ -559,23 +587,23 @@ Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazs
     <string name="panchang_hindu_lunar_month">Hindu kameri ay</string>
     <string name="panchang_inauspicious_timings">Kötü zamanlama</string>
     <string name="panchang_karan">Karan</string>
-    <string name="panchang_moon_sign">Ay işareti</string>
+    <string name="panchang_moon_sign">Ay İşareti</string>
     <string name="panchang_nakshatra">Nakshatra</string>
     <string name="panchang_purnimanta">Purnimanta</string>
     <string name="panchang_purnimanta_month">Purnimanta ay:</string>
-    <string name="panchang_rahu_kalam">Rahu kalam</string>
+    <string name="panchang_rahu_kalam">Rahu Kalam</string>
     <string name="panchang_ritu">Ritu</string>
-    <string name="panchang_shaka_samvat">Shaka samvat</string>
+    <string name="panchang_shaka_samvat">Shaka Samvat</string>
     <string name="panchang_sun_sign">Burç</string>
     <string name="panchang_tithi">Tithi</string>
     <string name="panchang_to">kadar</string>
     <string name="panchang_upto">kadar</string>
-    <string name="panchang_vikram_samvat">Vikram samvat</string>
+    <string name="panchang_vikram_samvat">Vikram Samvat</string>
     <string name="panchang_yamaghanta">Yamaghanta</string>
     <string name="panchang_yog">Yog</string>
-    <string name="passenger">乘机人</string>
-    <string name="pengzu">彭祖</string>
-    <string name="phone_num">电话</string>
+    <string name="passenger">Uçuşa katıl</string>
+    <string name="pengzu">Peng Zu</string>
+    <string name="phone_num">Telefon</string>
     <string name="prefDefault_alerts_vibrateWhen">never</string>
     <string name="prefDefault_alerts_vibrate_false">never</string>
     <string name="prefDefault_alerts_vibrate_true">always</string>
@@ -634,7 +662,7 @@ Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazs
     <string name="shift_type_noon">中班</string>
     <string name="shift_type_rest">休息</string>
     <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
-    <string name="subscribe_channel_click_hint">Subscription required</string>
+    <string name="subscribe_channel_click_hint">Abonelik gerekmektedir</string>
     <string name="swipe_up_guide_hint_text">上滑发现更多</string>
     <string name="taishen">胎神</string>
     <string name="text_day">日</string>
@@ -645,17 +673,17 @@ Ayrıca hatırlatıcılar ekleyebilir böylece önemli hiçbir şeyi kaçırmazs
     <string name="ticket_card_phase">- 第%1$s期</string>
     <string name="train_detail_title">火车行程</string>
     <string name="train_event_delete_successfully">火车行程删除成功</string>
-    <string name="trip_card_flight_primary">Uçuş: %1$s | %2$s - %3$s</string>
-    <string name="trip_card_hotel_secondary">Bugün kal</string>
-    <string name="trip_card_movie_secondary">Bugün izle | %1$s</string>
-    <string name="trip_card_movie_secondary_no_cinema">Bugün izle</string>
-    <string name="trip_card_title">Seyahat hatırlatıcıları</string>
-    <string name="trip_card_train_primary">Tren numarası:%1$s | %2$s - %3$s</string>
-    <string name="trip_card_train_primary_no_arr">Tren numarası: %1$s Kalkış: %2$s</string>
-    <string name="trip_card_travel_secondary">Kalkış: %1$s</string>
-    <string name="weather_card_humidity_desc">Nem: %%%1$s</string>
-    <string name="weather_card_no_data_hint">Hava durumu verileri almak için tıklayın</string>
-    <string name="work_day_default_banner_title">Para kesmeyin. Fazla mesai yoludur</string>
-    <string name="wuxing">Beş element</string>
-    <string name="xingxiu">Yıldız</string>
+    <string name="trip_card_flight_primary">%1$s航班  %2$s - %3$s</string>
+    <string name="trip_card_hotel_secondary">今日入住</string>
+    <string name="trip_card_movie_secondary">今日观看  |  %1$s</string>
+    <string name="trip_card_movie_secondary_no_cinema">今日观看</string>
+    <string name="trip_card_title">行程提醒</string>
+    <string name="trip_card_train_primary">%1$s车次  %2$s - %3$s</string>
+    <string name="trip_card_train_primary_no_arr">%1$s车次 %2$s出发</string>
+    <string name="trip_card_travel_secondary">%1$s 出发</string>
+    <string name="weather_card_humidity_desc">湿度%1$s%%</string>
+    <string name="weather_card_no_data_hint">点击获取天气数据</string>
+    <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
+    <string name="wuxing">五行</string>
+    <string name="xingxiu">星宿</string>
 </resources>

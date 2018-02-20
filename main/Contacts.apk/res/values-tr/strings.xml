@@ -1,12 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="account_sim">Sim kart</string>
+    <string name="account_sim2">Sim kart %d</string>
+    <string name="contacts_unavailable_import_sim_contacts">Sim kişilerini içe aktar</string>
+    <string name="delete_sim_entries_finish">Sim kişileri silindi</string>
+    <string name="deleting_sim_entry_miui">Sim karttaki kişiler siliniyor</string>
+    <string name="display_sim_contacts">Sim kayıtlarını göster</string>
+    <string name="export_sim_contact_finish">Kişiler dışa aktarıldı</string>
+    <string name="export_to_sim">Sim karta aktar</string>
+    <string name="export_to_sim1">"Sim kart 1'e aktar"</string>
+    <string name="export_to_sim2">"Sim kart 2'e aktar"</string>
+    <string name="export_to_sim_title">Dışa aktarılıyor</string>
+    <string name="import_from_sim">Sim karttan içe aktar</string>
+    <string name="import_from_sim1">"Sim kart 1'den içe aktar"</string>
+    <string name="import_from_sim2">"Sim kart 2'den içe aktar"</string>
+    <string name="import_sim_contacts_hint_title">Sim kişilerini içe aktar</string>
+    <string name="import_sim_entries_finish">Kişiler Sim karttan içe aktarıldı</string>
+    <string name="importing_sim_contacts_miui">Kişiler Sim karttan içe aktarılıyor</string>
+    <string name="pref_key_sim_manage">Sim kişileri</string>
+    <string name="pref_key_sim_manage1">Sim kart 1</string>
+    <string name="pref_key_sim_manage2">Sim kart 2</string>
+    <string name="readingSimContacts">Sim kart okunuyor</string>
+    <string name="simContacts_airplaneMode">Kişileri Sim karttan içe aktarmak için uçak modunu kapatın</string>
+    <string name="simContacts_empty">Sim kartta kişi yok</string>
+    <string name="simContacts_emptyLoading">Sim kart kişileri yükleniyor</string>
+    <string name="simContacts_title">Sim kart kişileri</string>
+    <string name="sim_capacity">Sim kart alanını göster</string>
+    <string name="sim_card_no_free_space_message">Yeterli boş alan yok</string>
+    <string name="sim_card_no_free_space_title">Sim kart dolu</string>
+    <string name="sim_contact_existing">Kişi zaten mevcut</string>
+    <string name="sim_contact_invalid">Geçersiz Sim kişisi</string>
+    <string name="sim_contact_search_error">Bir hata oluştu</string>
+    <string name="sim_contacts">Sim kart kişileri</string>
+    <string name="sim_error_not_ready">Sim kişileri yükleniyor</string>
+    <string name="sim_export_error">Sim hazır değil. Daha sonra tekrar deneyin</string>
+    <string name="sim_export_loading">Sim kart okunuyor</string>
+    <string name="sim_indexed_contact_not_exist">Sim karttaki %1$d pozisyonu geçersiz. Pozisyon %2$d ve %3$d aralığında olmalıdır</string>
+    <string name="sim_no_contact">Sim kartta kişi yok</string>
+    <string name="sim_account_name">Sim</string>
     <string name="accessibility_calllog_detail">Arama geçmişi ayrıntıları</string>
     <string name="accessibility_contact_detail">Kişi detayları</string>
     <string name="account_container_title">Şuradan içe aktarıldı</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">Yalnızca telefon. Senkronize edilmemiş</string>
-    <string name="account_sim">Sim kart</string>
-    <string name="account_sim2">Sim kart %d</string>
     <string name="account_type_format">%1$s kişi</string>
     <string name="actionIncomingCall">Gelen aramalar</string>
     <string name="action_menu_overflow_description">Daha fazla seçenek</string>
@@ -266,7 +303,6 @@ Kişi kartları kapatıldı"</string>
     <string name="contacts_unavailable_create_contact">Yeni kişi oluşturun</string>
     <string name="contacts_unavailable_import_contacts">Dosyadan içeri aktar</string>
     <string name="contacts_unavailable_import_from_old_device">Eski bir cihazdan içeri aktar</string>
-    <string name="contacts_unavailable_import_sim_contacts">Sim kişilerini içe aktar</string>
     <string name="convenient_service">Hizmetler</string>
     <string name="copy_number">Kopyala</string>
     <string name="copy_text">Panoya kopyala</string>
@@ -298,10 +334,8 @@ Kişi kartları kapatıldı"</string>
     <string name="delete_group_dialog_message">%1$s grubu silinsin mi? Kişilerin kendileri silinmeyecektir</string>
     <string name="delete_group_dialog_title">Grubu sil</string>
     <string name="delete_selected_sim_entry_miui">Seçilen kişileri sil</string>
-    <string name="delete_sim_entries_finish">Sim kişileri silindi</string>
     <string name="delete_sim_entry_miui">Sil</string>
     <string name="delete_unknown_contact_calllog_title">Arama geçmişi silinsin mi?</string>
-    <string name="deleting_sim_entry_miui">Sim karttaki kişiler siliniyor</string>
     <string name="deleting_sim_entry_miui_prepare">Kişiler hazırlanıyor</string>
     <string name="description_add_contact">Kişi ekle</string>
     <string name="description_call">Ara: %1$s</string>
@@ -338,7 +372,8 @@ Kişi kartları kapatıldı"</string>
     <string name="description_image_button_zero">sıfır</string>
     <string name="description_minus_button">Eksi</string>
     <string name="description_plus_button">Artı</string>
-    <string name="description_quick_contact_for">%1$s için hızlı iletişim</string>
+    <string name="description_quick_contact_for">%1$s için hızlı arama</string>
+    <string name="description_quick_dial_button">Hızlı arama</string>
     <string name="description_search_button">Ara</string>
     <string name="description_send_message">%1$s adlı kişiye mesaj gönder</string>
     <string name="description_send_text_message">%1$s adlı kişiye mesaj gönder</string>
@@ -391,6 +426,7 @@ Kişi kartları kapatıldı"</string>
     <string name="dialer_empty_text_loading">Yükleniyor</string>
     <string name="dialer_empty_text_no_call_log">Son kullanılan kişiler yok</string>
     <string name="dialer_empty_text_no_search_result">Kişi kaydı yok</string>
+    <string name="dialer_firewall_entry_name">Engellenen arama kayıtları</string>
     <string name="dialer_menu_description">Menüyü göster</string>
     <string name="dialer_menu_title">Menü seçenekleri</string>
     <string name="dialer_returnToInCallScreen">Mevcut aramaya geri dön</string>
@@ -417,7 +453,6 @@ Sık yapılan sorgulardan kaçınmak için bakiye verileri günde bir kez günce
     <string name="display_options_view_family_name_first">Önce soyad</string>
     <string name="display_options_view_given_name_first">Önce ad</string>
     <string name="display_options_view_names_as">Kişi adlarını şu şekilde görüntüle</string>
-    <string name="display_sim_contacts">Sim kayıtlarını göster</string>
     <string name="display_ungrouped">Tüm diğer kişiler</string>
     <string name="display_warn_remove_ungrouped">%s grubunu senkronizasyondan kaldırmak aynı zamanda gruplanmamış kişilerin de senkronizasyondan silinmesine neden olacaktır</string>
     <string name="duplicate_group_name">Bu isimde başka bir grup zaten mevcut</string>
@@ -445,13 +480,8 @@ Sık yapılan sorgulardan kaçınmak için bakiye verileri günde bir kez günce
     <string name="expandCloseViewDescription">Daralt</string>
     <string name="expandOpenViewDescription">Genişlet</string>
     <string name="export_sim_contact_finish">Kişiler dışa aktarıldı</string>
-    <string name="export_sim_contact_finish_msg">%1$d aktarıldı | %2$d tekrarlanan | %3$d kalan %4$s</string>
     <string name="export_to_sdcard">Depolama birimine aktar</string>
-    <string name="export_to_sim">Sim karta aktar</string>
-    <string name="export_to_sim1">"Sim kart 1'e aktar"</string>
-    <string name="export_to_sim2">"Sim kart 2'e aktar"</string>
     <string name="export_to_sim_prepare_title">Hazırlanıyor</string>
-    <string name="export_to_sim_title">Dışa aktarılıyor</string>
     <string name="export_vcard_description">Telefonun depolama alanına vKart olarak aktar</string>
     <string name="exporting_contact_failed_message">"Kişi verileri dışa aktarılamadı
 Neden: %s"</string>
@@ -483,7 +513,6 @@ Neden: %s"</string>
     <string name="force_touch_new_contact">Yeni kişi</string>
     <string name="foundTooManyContacts">%d kişiden fazla sonuç bulundu.</string>
     <string name="frequentList">Sık kullanılanlar</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Adı</string>
     <string name="gallery">Galeri</string>
     <string name="generic_no_account_prompt">Telefonunuzu kaybetmeniz durumunda bile kişilerinizi güvende tutun: kişilerinizi bir çevrimiçi servis ile senkronize edin</string>
@@ -496,7 +525,6 @@ Neden: %s"</string>
     <string name="group_create_fail_toast">Grup oluşturulamadı</string>
     <string name="group_create_success_toast">Grup oluşturuldu</string>
     <string name="group_delete_success_toast">Grup silindi</string>
-    <string name="group_detail_label_placeholder"> </string>
     <string name="group_edit_field_hint_text">Grup adı</string>
     <string name="group_member_remove_fail_toast">Gruptan kaldırılmadı</string>
     <string name="group_member_remove_success_toast">Gruptan kaldır</string>
@@ -524,7 +552,6 @@ Neden: %s"</string>
     <string name="ic_menu_done">Tamam</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
-    <string name="imei_invalid">Geçersiz imei</string>
     <string name="import_all_sim_entries_miui">Tüm kişileri içe aktar</string>
     <string name="import_all_vcard_string">Tüm vKart dosyalarını içe aktar</string>
     <string name="import_contact_card_aggregate_suggestion_button">Kartları birleştir</string>
@@ -533,16 +560,10 @@ Neden: %s"</string>
     <string name="import_from_onekey_migrate">Mi taşıyıcı ile içe aktar</string>
     <string name="import_from_other_phone">Başka bir telefondan içe aktarın</string>
     <string name="import_from_sdcard">Depolama biriminden içe aktar</string>
-    <string name="import_from_sim">Sim karttan içe aktar</string>
-    <string name="import_from_sim1">"Sim kart 1'den içe aktar"</string>
-    <string name="import_from_sim2">"Sim kart 2'den içe aktar"</string>
     <string name="import_multiple_vcard_string">Birden çok vKart dosyasını içe aktar</string>
     <string name="import_name">İsim</string>
     <string name="import_one_vcard_string">1 vKart dosyasını içe aktar</string>
-    <string name="import_percent">0%</string>
     <string name="import_selected_sim_entries_miui">Seçilen kişileri içe aktar</string>
-    <string name="import_sim_contacts_hint_title">Sim kişilerini içe aktar</string>
-    <string name="import_sim_entries_finish">Kişiler Sim karttan içe aktarıldı</string>
     <string name="import_sim_entry_miui">İçe aktar</string>
     <string name="import_to_xiaomi_account_confirm">İçe aktar</string>
     <string name="import_to_xiaomi_account_progress_finish">Kişiler içe aktarıldı</string>
@@ -551,7 +572,6 @@ Neden: %s"</string>
     <string name="import_to_xiaomi_account_title">Mi hesabına aktar</string>
     <string name="import_vcard_description">Kişileri telefonun depolama alanından içe aktar</string>
     <string name="import_vcard_dialog_message">vKart içe aktarılsın mı?</string>
-    <string name="importing_sim_contacts_miui">Kişiler Sim karttan içe aktarılıyor</string>
     <string name="importing_sim_contacts_miui_prepare">Kişiler hazırlanıyor</string>
     <string name="importing_vcard_canceled_title">%s dosyasının dışa aktarım işlemi iptal edildi</string>
     <string name="importing_vcard_description">İçe aktarılıyor %s</string>
@@ -598,7 +618,6 @@ Neden: %s"</string>
     <string name="map_other">Adresi görüntüle</string>
     <string name="map_work">İş adresini görüntüle</string>
     <string name="meid">MEID</string>
-    <string name="meid_invalid">Geçersiz MEID</string>
     <string name="menuMoreDescription">Daha fazla</string>
     <string name="menu_accounts">Hesaplar</string>
     <string name="menu_addStar">Favorilere ekle</string>
@@ -681,7 +700,6 @@ Neden: %s"</string>
     <string name="miprofile_find_profile_no_recommend">Tavsiye edilen profil yok</string>
     <string name="miprofile_finding_label">Kişi kartlarını bul</string>
     <string name="miprofile_name">Profilim</string>
-    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_nick_name_edit">Kişinin kullanıcı adını düzenle</string>
     <string name="miprofile_nick_name_edit_dialog_hint">Kullanıcı adı girin</string>
     <string name="miprofile_nick_name_edit_dialog_message">Kullanıcı adı arama geçmişinde ve profil bilgilerinde görüntülenir</string>
@@ -812,6 +830,7 @@ Kişinin adının yanındaki yıldız simgesine dokunun
     <string name="path_key_rebuild_t9_index_title">Sistem uygulamaları/Kişiler/Kişileri organize et/İçeriği yeniden düzenle</string>
     <string name="path_key_sim_manage">Sistem uygulamaları/Kişiler/Kişileri organize et/Sim kartlar</string>
     <string name="path_preference_contacts_filter">Sistem uygulamaları/Kişiler/Görüntüleme seçenekleri/Kişi listelerini ayarla</string>
+    <string name="path_quick_dial_setting">Sistem uygulamaları/Kişiler/Hızlı arama</string>
     <string name="path_remove_duplicate">Sistem uygulamaları/Kişiler/Kişileri organize et/Çoklu kişi kayıtlarını birleştir</string>
     <string name="path_share_visible_contacts">Sistem uygulamaları/Kişiler/Kişileri içe/dışa aktar/Kişileri paylaş</string>
     <string name="path_sim_capacity">Sistem uygulamaları/Kişiler/Sim kart depolama</string>
@@ -820,10 +839,8 @@ Kişinin adının yanındaki yıldız simgesine dokunun
     <string name="path_wipe_data">Sistem uygulamaları/Kişiler/Kişileri organize et/Verileri temizle</string>
     <string name="payphone">Ankesörlü telefon</string>
     <string name="people">Kişiler</string>
-    <string name="percent_sign">%</string>
     <string name="percentage">%%%s</string>
     <string name="phoneLabelsGroup">Telefon</string>
-    <string name="phone_info_divider"> ｜ </string>
     <string name="phone_number_too_long_toast">Numara çok uzun</string>
     <string name="phone_primary">Birincil</string>
     <string name="photoPickerNotFoundText">Telefonda kullanılabilir resim yok</string>
@@ -859,9 +876,6 @@ Kişinin adının yanındaki yıldız simgesine dokunun
     <string name="pref_key_photo_word_title">Otomatik kişi fotoğrafları</string>
     <string name="pref_key_rebuild_t9_index_message">Kişi arama sorunlarını gidermek için içeriği yeniden düzenle</string>
     <string name="pref_key_rebuild_t9_index_title">İçeriği yeniden düzenle</string>
-    <string name="pref_key_sim_manage">Sim kişileri</string>
-    <string name="pref_key_sim_manage1">Sim kart 1</string>
-    <string name="pref_key_sim_manage2">Sim kart 2</string>
     <string name="pref_summary_import_from_account">Kişileri Google ve Exchange hesaplarından Mi hesabıma aktar</string>
     <string name="pref_title_account_import">Kişileri içe aktar</string>
     <string name="pref_title_import_from_account">Mi hesabına aktar</string>
@@ -872,6 +886,7 @@ Kişinin adının yanındaki yıldız simgesine dokunun
     <string name="preference_contacts_display">Görüntüleme seçenekleri</string>
     <string name="preference_contacts_filter">Kişi listelerini ayarla</string>
     <string name="preference_contacts_more">Kişileri düzenle</string>
+    <string name="preference_contacts_moresetting">Daha fazla</string>
     <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
     <string name="preference_dial_pad_touch_tone_human">Ses</string>
     <string name="preference_dial_pad_touch_tone_piano">Piyano tuşları</string>
@@ -879,6 +894,7 @@ Kişinin adının yanındaki yıldız simgesine dokunun
     <string name="preference_dial_pad_touch_tone_title">Tuş takımı tonları</string>
     <string name="preference_display">Görünüm</string>
     <string name="preference_displayOptions">Görüntüleme seçenekleri</string>
+    <string name="preference_display_contact">Görüntüleme seçenekleri</string>
     <string name="preference_export">Dışa aktar</string>
     <string name="preference_import">İçe aktar</string>
     <string name="preference_import_export">İçe/Dışa aktar</string>
@@ -923,12 +939,17 @@ Kişinin adının yanındaki yıldız simgesine dokunun
     <string name="pull_to_refresh_release_label">Yenilemek için bırakın</string>
     <string name="qr_card_card">QR kodu</string>
     <string name="qrcode_card_title">QR kodu</string>
+    <string name="quick_dial_setting_delete_dialog_message">Atanmış hızlı arama numarası silinsin mi?</string>
+    <string name="quick_dial_setting_delete_dialog_option_delete">Sil</string>
+    <string name="quick_dial_setting_hint">Hızlı arama numarası atamak veya kaldırmak için bir düğmeye dokunun. Aramak için atanmış numaralı düğmeyi basılı tutun</string>
+    <string name="quick_dial_setting_set_dialog_message">Bu düğmeye hızlı aramaya atamak mı istiyorsunuz?</string>
+    <string name="quick_dial_setting_set_dialog_option_set">Evet</string>
+    <string name="quick_dial_setting_title">Hızlı arama</string>
     <string name="quickcontact_missing_app">Bu işlemi yapabilecek uygulama bulunamadı</string>
     <string name="quit_dialog_confirm_message">Herhangi bir kişi kaydı birleştirmediniz</string>
     <string name="quit_dialog_confirm_title">Kişileri birleştirmeyi iptal et</string>
     <string name="readOnlyContactDeleteConfirmation">Bu kişi kaydı birden fazla hesaptan bilgiler içermektedir. Salt okunur hesaplardan gelen bilgiler kişi listenizde gizlenecek fakat silinmeyecektir</string>
     <string name="readOnlyContactWarning">Salt okunur hesaplardan kişileri silemezsiniz. Fakat ilgili kayıtları kişi listenizde gizleyebilirsiniz</string>
-    <string name="readingSimContacts">Sim kart okunuyor</string>
     <string name="reading_vcard_canceled_title">vKart bilgisi okuma işlemi iptal edildi</string>
     <string name="reading_vcard_failed_title">vKart bilgisi okunamadı</string>
     <string name="rebuild_t9_index_dialog_message">Yeniden yapılandırılıyor</string>
@@ -958,14 +979,11 @@ Kişinin adının yanındaki yıldız simgesine dokunun
 Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="report_inquiry_mms">Mesaj bildir</string>
     <string name="restore_nickname">Geri yükle</string>
-    <string name="ret_sign">"
-"</string>
     <string name="returnCall">Aramaya dön</string>
     <string name="ringLabelsGroup">Zil sesi</string>
     <string name="save_photo_progress">Fotoğraf kaydediliyor</string>
     <string name="savingContact">Kişi kaydediliyor</string>
     <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor</string>
-    <string name="scan">Tara</string>
     <string name="scan_duplicate_message">%1$d çoklu kişi kaydı</string>
     <string name="scan_merge">Çoklu kişi kayıtları aranıyor</string>
     <string name="scan_qrcode_card_hint1">Yukarıdaki QR kodunu tarayın</string>
@@ -991,6 +1009,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="search_key_rebuild_t9_index_title">Organize et;Kişiler;t9</string>
     <string name="search_key_sim_manage">Organize et;Kişiler</string>
     <string name="search_preference_contacts_filter">Kişiler;Görüntüle</string>
+    <string name="search_quick_dial_setting">Kişiler</string>
     <string name="search_remove_duplicate">Organize et;Kişiler</string>
     <string name="search_results_searching">Aranıyor</string>
     <string name="search_settings_description">Kişilerinizin adları</string>
@@ -1004,7 +1023,6 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="select_all_exceed">En fazla %1$d adet seçebilirsiniz. Tamamı seçilemiyor</string>
     <string name="select_exceed">En fazla %1$d adet seçebilirsiniz</string>
     <string name="select_groups">Grupları seçin</string>
-    <string name="select_none">Hiçbir öge seçilmedi</string>
     <string name="select_show_contacts">Kişi listesi</string>
     <string name="select_vcard_title">vKart dosyası seçin</string>
     <string name="send_contact_shortcut_todesktop_success">Ana ekrana eklendi</string>
@@ -1026,32 +1044,15 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="shortcutDialContact">"Doğrudan arama "</string>
     <string name="shortcutMessageContact">Doğrudan mesaj</string>
     <string name="showAllContactsJoinItem">Tüm kişileri göster</string>
-    <string name="simContacts_airplaneMode">Kişileri Sim karttan içe aktarmak için uçak modunu kapatın</string>
-    <string name="simContacts_empty">Sim kartta kişi yok</string>
-    <string name="simContacts_emptyLoading">Sim kart kişileri yükleniyor</string>
-    <string name="simContacts_title">Sim kart kişileri</string>
-    <string name="sim_account_name">Sim</string>
-    <string name="sim_capacity">Sim kart alanını göster</string>
     <string name="sim_capacity_content" formatted="false">Toplam: %d | Kullanılan: %d</string>
-    <string name="sim_card_no_free_space_message">Yeterli boş alan yok</string>
-    <string name="sim_card_no_free_space_title">Sim kart dolu</string>
-    <string name="sim_contact_existing">Kişi zaten mevcut</string>
-    <string name="sim_contact_invalid">Geçersiz Sim kişisi</string>
-    <string name="sim_contact_search_error">Bir hata oluştu</string>
-    <string name="sim_contacts">Sim kart kişileri</string>
     <string name="sim_error_anr_full">Sim kartınızda yeterli boş alan yok</string>
     <string name="sim_error_email_full">Sim kartınızda yeterli boş alan yok</string>
     <string name="sim_error_email_too_long">E-posta çok uzun</string>
     <string name="sim_error_generic_failure">Bir hata oluştu</string>
-    <string name="sim_error_not_ready">Sim kişileri yükleniyor</string>
     <string name="sim_error_number_too_long">Numara çok uzun</string>
     <string name="sim_error_password_error">Girmiş olduğunuz şifre hatalı</string>
     <string name="sim_error_storage_full">Sim kart hafızası dolu</string>
     <string name="sim_error_text_too_long">İsim çok uzun</string>
-    <string name="sim_export_error">Sim hazır değil. Daha sonra tekrar deneyin</string>
-    <string name="sim_export_loading">Sim kart okunuyor</string>
-    <string name="sim_indexed_contact_not_exist">Sim karttaki %1$d pozisyonu geçersiz. Pozisyon %2$d ve %3$d aralığında olmalıdır</string>
-    <string name="sim_no_contact">Sim kartta kişi yok</string>
     <string name="sim_unloaded">Sim kart takılı değil</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Grup üyesi yok</string>
@@ -1215,10 +1216,6 @@ Lütfen ilgili seçeneklerden birini seçin:"</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Dün</string>
     <string name="zero_items_selected">Öğeleri seçin</string>
-    <string name="lunar_calendar">Ay takvimi</string>
-    <string name="lunar_leap">Takvime eklenen</string>
-    <string name="lunar_yue">Ay</string>
-    <string name="solar_calendar">Gregoryen takvimi</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_extensions_to_consider" />
     <string name="config_export_file_extension">vcf</string>
@@ -1227,8 +1224,24 @@ Lütfen ilgili seçeneklerden birini seçin:"</string>
     <string name="config_export_vcard_type">v30_generic</string>
     <string name="config_import_vcard_type">default</string>
     <string name="config_prohibited_phone_number_regexp" />
+    <string name="from_account_format">%1$s</string>
+    <string name="group_detail_label_placeholder"> </string>
     <string name="help_url_people_add" />
     <string name="help_url_people_edit" />
     <string name="help_url_people_main" />
+    <string name="imei_invalid">Geçersiz imei</string>
+    <string name="import_percent">0%</string>
+    <string name="lunar_calendar">Ay takvimi</string>
+    <string name="lunar_leap">Takvime eklenen</string>
+    <string name="lunar_yue">Ay</string>
+    <string name="meid_invalid">Geçersiz MEID</string>
+    <string name="miprofile_nick_name_divider">"  |  "</string>
+    <string name="percent_sign">%</string>
+    <string name="phone_info_divider"> ｜ </string>
+    <string name="ret_sign">"
+"</string>
+    <string name="scan">Tara</string>
+    <string name="select_none">Hiçbir öge seçilmedi</string>
+    <string name="solar_calendar">Gregoryen takvimi</string>
     <string name="yellowpage_mi_family">Mi ev</string>
 </resources>

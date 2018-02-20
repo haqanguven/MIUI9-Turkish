@@ -191,6 +191,7 @@
     <string name="close_camera_requesting">Kamera kapatılıyor</string>
     <string name="close_camera_failed">Kamera kapatılamadı</string>
     <string name="change_to_voice_tips_when_background">Diğer taraf sesli aramaya geçti</string>
+    <string name="video_crbt_title">%s renkli zil sesi</string>
     <string name="call_button_tools_text">Özellikler</string>
     <string name="call_button_dialer_text">Tuş takımı</string>
     <string name="call_button_mute_text">Sessiz</string>

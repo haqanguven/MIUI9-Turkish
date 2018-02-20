@@ -18,13 +18,9 @@
     <string name="cloud_backup_detail_title">Ana ekran, uygulamalar ve ayarlar</string>
     <string name="cloud_backup_detail_state_summary">Uygulamalar, ana ekran ve sistem ayarları</string>
     <string name="cloud_backup_detail_frequence">Zamanlı yedekleme</string>
-    <string name="cloud_back_up_interval_long">7 gün</string>
-    <string name="cloud_back_up_interval_short">gün</string>
-    <string name="cloud_backup_detail_frequence_day">Her %1$sde bir yedekle</string>
     <string name="cloud_backup_detail_time">Son yedekleme: %1$s</string>
     <string name="cloud_backup_detail_manage">Yedekleri yönet</string>
     <string name="cloud_backup_detail_manage_summary">%1$s yedek dosyası. Boyut: %2$s</string>
-    <string name="backup_size_summary">Boyut: %1$s</string>
     <string name="cloud_back_up_opening">Yükleniyor</string>
     <string name="cloud_back_up_no_network_warn">Wifi ağına bağlanılamıyor</string>
     <string name="cloud_back_up_ok_btn">Tamam</string>
@@ -52,6 +48,8 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Mi bulut alanınıza yedeklenm
     <string name="self_phone">Bu telefon</string>
     <string name="process_whole_recovery">%s geri yükleniyor</string>
     <string name="device_xiaomi">Mi telefon</string>
+    <string name="device_corrupt">Mi telefon (Veriler bozuk)</string>
+    <string name="size_unknown">Bilinmeyen boyut</string>
     <string name="miui_device_name">Android</string>
     <string name="recovering">Geri yükleniyor: %s</string>
     <string name="start_recover">Geri yükle: %s</string>
@@ -60,7 +58,6 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Mi bulut alanınıza yedeklenm
     <string name="backing_up_to_micloud">Yedekleniyor</string>
     <string name="restore_from_cloud">Mi bulut yedeğinden geri yükle</string>
     <string name="backup_to_cloud">Uygulamayı yedekle</string>
-    <string name="restoring_file_tile">%d dosya geri yükleniyor</string>
     <string name="menu_item_sort">Sırala</string>
     <string name="menu_item_sort_name">İsim</string>
     <string name="menu_item_sort_size">Boyut</string>
@@ -127,9 +124,12 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Mi bulut alanınıza yedeklenm
     <string name="btn_back">Geri</string>
     <string name="btn_continue">Devam et</string>
     <string name="btn_skip">Bu adımı atla</string>
+    <string name="btn_retry">Tekrar kontrol et</string>
     <string name="can_not_restore_in_lite_mode">Yaşlı modunda geri yüklenemiyor</string>
     <string name="can_not_backup_in_lite_mode">Yaşlı modunda yedeklenemiyor</string>
     <string name="restore_data_title">Veri geri yükleme</string>
+    <string name="provision_error_connect_msg">Ağı test edin ve tekrar deneyin. Cihazınız çevrimdışı olduğunda yedekleme yapılamaz</string>
+    <string name="provision_error_connect_title">Bağlanılamadı</string>
     <string name="authentication_failed">Hesap doğrulanamadı</string>
     <string name="no_account">Mi hesabı oturumu açılmadı</string>
     <string name="no_backup">Mi bulut alanında yedek yok</string>
@@ -144,7 +144,11 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Mi bulut alanınıza yedeklenm
     <string name="download_meta_again">Yedek yüklenemedi. Yeniden deneyin</string>
     <string name="cancel_restore_home">İptal ediliyor</string>
     <string name="cancel_backup">Yedekleme iptal ediliyor</string>
-    <string name="cloud_backup_title">Mi bulut yedekleri</string>
+    <string name="dialog_title_require_wlan">Wifi ağına bağlan</string>
+    <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
+    <string name="dialog_btn_next">İleri</string>
+    <string name="dialog_btn_restore_skip">Daha sonra geri yükle</string>
+    <string name="cloud_backup">Mi bulut yedekleri</string>
     <string name="open_backup_switch">Yedekleme anahtarını değiştir</string>
     <string name="restore_cloud_backup_to_phone">Mi bulut yedeğinden geri yükle</string>
     <string name="cloud_backup_in_process">Yedekleniyor</string>

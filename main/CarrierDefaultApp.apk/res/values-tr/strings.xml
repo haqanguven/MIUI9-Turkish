@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taşıyıcı varsayılan uygulaması</string>
+    <string name="android_system_label">Mobil taşıyıcı</string>
+    <string name="portal_notification_id">Mobil veri bitti</string>
+    <string name="no_data_notification_id">Mobil veriniz devre dışı bırakıldı</string>
+    <string name="portal_notification_detail">%s internet sitesini ziyaret etmek için hafifçe dokunun</string>
+    <string name="no_data_notification_detail">Lütfen servis sağlayıcınıza başvurun: %s</string>
+    <string name="mobile_data_status_notification_channel_name">Mobil veri durumu</string>
+    <string name="action_bar_label">Mobil ağda oturum açın</string>
+    <string name="ssl_error_warning">Katılmaya çalıştığınız ağın güvenlik sorunları var</string>
+    <string name="ssl_error_example">Örneğin: giriş sayfası gösterilen kuruluşa ait olmayabilir</string>
+    <string name="ssl_error_continue">Yine de tarayıcı ile devam et</string>
+</resources>

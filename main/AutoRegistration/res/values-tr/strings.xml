@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register_success">Kayıt başarılı oldu</string>
+    <string name="decode_error">Kod çözme hatası. Kayıt başarısız oldu</string>
+    <string name="check_error">Hata kontrol edin. Kayıt olunamadı</string>
+    <string name="register_failed">Kayıt başarısız oldu</string>
+    <string name="already_registered">Zaten kayıtlı. Yoksay</string>
+</resources>

@@ -102,7 +102,7 @@
     <string name="cit_tool_modem_bugreport">Modemi Coredump işlemine zorla</string>
     <string name="cit_tool_modem_mbn">Modem ayarlarını değiştir</string>
     <string name="cit_tool_exit_modem_mbn">"Otomatik MBN'ye geri yükle"</string>
-    <string name="cit_tool_switch_autosms">"Otomatik mesaj Reg'ini etkinleştir veya devre dışı bırak</string>
+    <string name="cit_tool_switch_autosms">"\"Otomatik mesaj Reg'ini etkinleştir veya devre dışı bırak"</string>
     <string name="cit_tool_rf_ant">Anten araçları</string>
     <string name="cit_tool_prx_drx">PRx+DRx</string>
     <string name="cit_tool_prx_only">PRX</string>
@@ -204,9 +204,6 @@ Telefonu çevirin ve üst mikrofona doğru konuşun. Sesinizi hoparlörden duyuy
     <string name="cit_audio_cali_playing">Kalibrasyon için tuşa basın</string>
     <string name="cit_audio_cali_file_existed">Müzik dosyası yok. Kalibrasyon yapılamıyor</string>
     <string name="cit_audio_cali_done">Kalibrasyon tamamlandı</string>
-    <string name="cit_audio_cali_valueR">Ref_diff:</string>
-    <string name="cit_audio_cali_valueT">Temp_acc:</string>
-    <string name="cit_audio_cali_valueF0">F0:</string>
     <string name="cit_audio_cali_failed">Kalibrasyon başarısız oldu. Lütfen yeniden deneyin</string>
     <string name="cit_aud_spkcal">Kalibrasyon</string>
     <string name="cit_audio_calibrating">Kalibrasyon devam ediyor</string>
@@ -353,9 +350,7 @@ GPS'yi başlatmak için ekrana dokunun"</string>
     <string name="cit_tool_bluetooth_dut">Bluetooth test moduna gir</string>
     <string name="cit_tool_bluetooth_tx_l">Bluetooth BR/EDR 2.402GHz frekans test moduna gir</string>
     <string name="cit_tool_bluetooth_tx_h">Bluetooth BR/EDR 2.480GHz frekans test moduna gir</string>
-    <string name="cit_tool_bluetooth_le_tx_l">Bluetooth LE 2.402GHz frekans test moduna gir</string>
     <string name="cit_tool_bluetooth_le_tx_ch19">Bluetooth LE 2.440GHz frekans test moduna gir</string>
-    <string name="cit_tool_bluetooth_le_tx_h">Bluetooth LE 2.480GHz frekans test moduna gir</string>
     <string name="cit_tool_bluetooth_off">"Bluetooth'u kapat"</string>
     <string name="cit_tool_bluetooth_not_on">Bluetooth etkin değil</string>
     <string name="cit_tool_wifi">Wifi test aracı</string>
@@ -390,13 +385,7 @@ GPS'yi başlatmak için ekrana dokunun"</string>
     <string name="cit_tool_wifi_rxn_test_bw">Bant genişliği:</string>
     <string name="cit_tool_wifi_tx_n_bandwidth">Bant genişliği:</string>
     <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
-    <string name="cit_x5_audio_lb_topmic_to_speaker_title">Üst mikrofon hoparlör geri bildirim testi</string>
-    <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Ön mikrofon hoparlör geri bildirim testi</string>
-    <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Üst mikrofon hoparlör geri bildirim testi
-
-Telefonu çevirin, üst mikrofona doğru konuşun ve sesinizi hoparlörden duyuyor olmalısınız"</string>
-    <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Ön mikrofon hoparlör geri bildirim testi
-
-Telefonu çevirin, alıcı pozisyonundaki mikrofona konuşun ve sesinizi hoparlörden duyuyor olmalısınız"</string>
-    <string name="cit_audio_cali_valueC">Sayaç:</string>
+    <string name="cit_audio_cali_valueR">Ref_diff:</string>
+    <string name="cit_audio_cali_valueT">Temp_acc:</string>
+    <string name="cit_audio_cali_valueF0">F0:</string>
 </resources>

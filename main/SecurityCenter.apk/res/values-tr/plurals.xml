@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%d arama</item>
-        <item quantity="one">%d arama</item>
+        <item quantity="other">%1$d arama: %2$s ve diğerleri</item>
+        <item quantity="one">%1$d arama: %2$s</item>
+    </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d arama: %2$s ve diğerleri</item>
+        <item quantity="one">%1$d arama: %2$s</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d mesaj</item>
@@ -32,6 +36,14 @@
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d uygulama arkaplanda ağa bağlanabilir</item>
+        <item quantity="one">%d uygulama arkaplanda ağa bağlanabilir</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d arkaplanda ağa bağlanamıyor</item>
+        <item quantity="one">%d arkaplanda ağa bağlanamıyor</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Günlük veri limitinizden %s kullandınız</item>
         <item quantity="one">Günlük veri limitinizden %s kullandınız</item>
@@ -59,6 +71,10 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d uygulama bulundu</item>
         <item quantity="one">%d uygulama bulundu</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"&lt;font color='#ff0000'>%d&lt;/font> uygulamanın ağ erişimi kısıtlandı"</item>
+        <item quantity="one">"&lt;font color='#ff0000'>%d&lt;/font> uygulamanın ağ erişimi kısıtlandı"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">%d uygulama düzgün çalışmıyor ve pil tüketiyor</item>
@@ -102,6 +118,14 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
     <plurals name="people_million">
         <item quantity="other">%1$d kişi tarafından indirildi</item>
     </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d kişi oynuyor</item>
+        <item quantity="one">%1$d kişi oynuyor</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d kişi oynuyor</item>
+        <item quantity="one">%1$d kişi oynuyor</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d görüntülenme</item>
         <item quantity="zero">%1$d görüntülenme</item>
@@ -135,8 +159,8 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="one">%s korunmuyor</item>
     </plurals>
     <plurals name="system_check_content">
-        <item quantity="other">%1$d öge güvenli</item>
-        <item quantity="one">%1$d öge güvenli</item>
+        <item quantity="other">%1$d öğe güvenli</item>
+        <item quantity="one">%1$d öğe güvenli</item>
     </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">%d uygulama korunuyor</item>
@@ -179,8 +203,8 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="one">Operatör veri kullanım istatistikleri %d gündür senkronize edilmedi</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">%d adet uygulama için güncelleme mevcut.</item>
-        <item quantity="one">%d adet uygulama için güncelleme mevcut.</item>
+        <item quantity="other">%d adet uygulama için güncelleme mevcut</item>
+        <item quantity="one">%d adet uygulama için güncelleme mevcut</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">Son kontrolden beri %d gün</item>
@@ -195,11 +219,11 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
         <item quantity="one">%d trojan,</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
-        <item quantity="other">Tehlikeli uygulama: %d</item>
+        <item quantity="other">Tehlikeli uygulamalar: %d</item>
         <item quantity="one">Tehlikeli uygulama: %d</item>
     </plurals>
     <plurals name="white_list_trojan_header">
-        <item quantity="other">Trojan: %d</item>
+        <item quantity="other">Trojanlar: %d</item>
         <item quantity="one">Trojan: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
@@ -262,10 +286,6 @@ Mobil veriyi tekrar açmanız durumunda, operatörünüz tarafından ek ücretle
     <plurals name="app_manager_start_count">
         <item quantity="other">%d kez</item>
         <item quantity="one">%d kez</item>
-    </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">%d kez engellendi</item>
-        <item quantity="one">%d kez engellendi</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d gün önce kullanıldı</item>

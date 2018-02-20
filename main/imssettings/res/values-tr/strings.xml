@@ -21,5 +21,8 @@
     <string name="ims_to_cs_retry_summary">Düzenli sesli iletişimde otomatik tekrar deneme (Önerilir)</string>
     <string name="ims_vt_call_static_image_text">Statik resmi seçin</string>
     <string name="ims_vt_call_static_image_error">Desteklenmeyen resim biçimi. Lütfen başka bir resim seçin</string>
+    <string name="ims_vt_call_static_image_ignore">Bir görüşmedeyken statik görüntü değiştirilemiyor</string>
     <string name="ims_vt_call_static_image_okay">Seçilen statik resim</string>
+    <string name="rtt_toggle_title">RTT</string>
+    <string name="rtt_toggle_summary">RTT modu</string>
 </resources>

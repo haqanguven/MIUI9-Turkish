@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arama geliştirme</string>
+    <string name="def_call_record_sub_dir">Arama kaydı</string>
+    <string name="message_no_sdcard">Lütfen bir SD kartı takın</string>
+    <string name="message_internal_error">Kayıt sırasında hata oluştug</string>
+    <string name="message_success">Dosya %1$s dosyasına kaydedildi</string>
+    <string name="message_record_started">Kayıt başladı</string>
+    <string name="message_recording">Arama kaydı</string>
+    <string name="message_not_incall">Yalnızca telefon görüşmesi sırasında etkinleşir</string>
+    <string name="message_sdcard_full">Harici belleğinde boş alan kalmadı</string>
+    <string name="duration">"Süre: "</string>
+    <string name="mins">" dakika "</string>
+    <string name="secs">" saniye"</string>
+</resources>

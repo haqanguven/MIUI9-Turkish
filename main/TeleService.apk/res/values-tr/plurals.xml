@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">%s dakikadır veri bağlantısı yok</item>
-        <item quantity="one">%s dakikadır veri bağlantısı yok</item>
-    </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Telefon %s dakika boyunca Acil durum geri arama modunda olacaktır. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyor musunuz?</item>
         <item quantity="one">Telefon %s dakika boyunca Acil durum geri arama modunda olacaktır. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamayacaktır. Şimdi çıkmak istiyor musunuz?</item>

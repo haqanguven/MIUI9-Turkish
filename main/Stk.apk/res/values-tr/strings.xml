@@ -26,6 +26,7 @@
     <string name="stk_dialog_accept">Evet</string>
     <string name="stk_dialog_reject">Hayır</string>
     <string name="no_sim_card_inserted">Sim araç kitini açmak için Sim kart takın</string>
+    <string name="stk_channel_name">Mobil servis mesajları</string>
     <string name="stk_intent_permission">Gerekli izinleri verin</string>
     <string name="sim_type_sim_name">Sim kart</string>
     <string name="sim_type_usim_name">USim kart</string>

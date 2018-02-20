@@ -161,16 +161,34 @@ Mesajlar yalnızca ikinci alanda görüntülenir"</string>
 ikinci alana otomatik olarak eklenir"</string>
     <string name="openSuccess">Açıldı</string>
     <string name="closeSuccess">Kapatıldı</string>
-    <string name="settings_notification_and_switch">Alan geçişi &amp; bildirimler</string>
+    <string name="settings_set_password_for_owner_space">İlk alan kilidi ekranının şifresini ayarlamanız gerekiyor</string>
+    <string name="settings_set_password_for_owner_space_desc">Bu özelliği kapatmak başlangıçta alan kilidi ekranının şifresini ayarlamanızı gerektirir</string>
+    <string name="settings_set_password_for_sec_space">Telefon kilidi ekranının şifresini ayarlamanız gerekiyor</string>
+    <string name="settings_set_password_for_sec_space_desc">Bu özelliği kapatmak için telefon kilit ekranının şifresini ayarlamanızı gerektirir</string>
+    <string name="settings_notification_and_switch_owner_space">Başlangıç alanı bildirimi ve anahtarlama</string>
+    <string name="settings_second_space_entrance_title">Sistem ayarları cep telefonu avatar giriş</string>
+    <string name="settings_second_space_entrance_summary">Kapanıştan sonra başlangıç alan sistemi ayarları cep telefonu avatar girişini gizleyecektir</string>
+    <string name="settings_switch_shortcut_title">Masaüstü kısayolu avatar simgesi</string>
+    <string name="settings_switch_space">Avatar değiştir</string>
+    <string name="settings_notification_from_second_space_title">Cep telefonu avatarından haber</string>
+    <string name="notification_no_remind">Hatırlatma</string>
+    <string name="settings_notification_and_switch_second_space">Mobil avatar bildirimi ve değiştirme</string>
+    <string name="settings_notification_from_owner_space_title">İlk alan bildirimi</string>
+    <string name="notification_remind">Hatırlat</string>
+    <string name="notification_from_owner_user">İlk alan bildirimi</string>
+    <string name="notification_from_second_user">Cep telefonu avatarından haber</string>
+    <string name="radio_button_icon_switch_title">Simge geçiş, kolay ve hızlı</string>
+    <string name="radio_button_password_switch_title">Şifre anahtarı, giriş gizli</string>
     <string name="settings_cross_notification_title">Bildirimler</string>
     <string name="settings_cross_notification_summary">Diğer alandan bildirimler al</string>
-    <string name="settings_switch_shortcut_title">Alan değiştirmek için kısa yola dokunun</string>
     <string name="settings_switch_shortcut_summary">İlk alanda Ana ekran kısayolu görüntüle</string>
     <string name="settings_space_data">Veri</string>
     <string name="settings_status_icon_title">İkinci alan simgesi</string>
-    <string name="settings_status_icon_summary">Durum çubuğunda ikinci alan simgesi görüntüle</string>
-    <string name="settings_msg_add_shortcut">İlk alana kısayol eklendi</string>
-    <string name="settings_msg_remove_shortcut">Kısayol ilk alandan kaldırıldı</string>
+    <string name="settings_status_icon_summary">Durum çubuğunda ikinci alan simgesini göster</string>
+    <string name="settings_msg_add_shortcut_to_owner_space">Birinci alana kısayol eklendi</string>
+    <string name="settings_msg_add_shortcut_to_second_space">Alana kısayollar eklendi</string>
+    <string name="settings_msg_remove_shortcut_from_owner_space">Birinci alandan kısayol kaldırıldı</string>
+    <string name="settings_msg_remove_shortcut_from_second_space">Kısayollar alandan çıkarıldı</string>
     <string name="start_setting_guide_desc_title">Ayarlanması gereken bir kaç şey var</string>
     <string name="setting_is_show_text_contacts">Özel kişi ve mesajları ayarlayın</string>
     <string name="switch_data_app">Öğeleri ikinci alana taşıyın</string>
@@ -271,6 +289,9 @@ ikinci alan parmak izi kullanın"</string>
     <string name="xspace_default_app_title">Varsayılan uygulama</string>
     <string name="xspace_default_app_summary">Ödemeler, paylaşım, sık kullanılanlar ve daha fazlası için varsayılan uygulamayı ayarlayın</string>
     <string name="xspace_default_setting_dialog_title">Varsayılan</string>
+    <string name="xspace_default_guide_notification_content">Değiştirmek için dokunun</string>
+    <string name="xspace_default_guide_notification_main_title">Varsayılan uygulamayı kullan</string>
+    <string name="xspace_default_guide_notification_xspace_title">Çift uygulamayı kullan</string>
     <string name="space_name_default">İş alanı</string>
     <string name="space_des_default">Şifrelenmiş verileri içeren izole alan</string>
     <string name="create_work_space">İş alanı oluştur</string>
@@ -339,4 +360,14 @@ Güncelleme yapmazsanız çift uygulamalar da düzgün çalışmayabilir"</strin
     <string name="sdcradfs_dialog_in_sec_message">"Güncellemek için ikinci alanınızı silmeli ve sonra yeniden oluşturmalısınız. Verileri ikinci alandan birinci alana taşıyın ve güncellemeyi tamamlamak için cihazınızı yeniden başlatın
 Güncelleme yapmazsanız çift uygulamalar da düzgün çalışmayabilir"</string>
     <string name="space_created_success">İkinci alan başarıyla oluşturdu</string>
+    <string name="space_create_guide_title_1">Gizliliği koruyun</string>
+    <string name="space_create_guide_desc_1">Gizli uygulamalarını ve fotoğraflarını güvenilir bir şekilde saklayın</string>
+    <string name="space_create_guide_title_2">Dahili kullanımı ile</string>
+    <string name="space_create_guide_desc_2">Ziyaretçiler için ayrı alan</string>
+    <string name="space_create_guide_title_3">Endişesiz yaratın</string>
+    <string name="space_create_guide_desc_3">Gövde deposunu ve operasyonunu etkilemeyecektir</string>
+    <string name="space_create_guide_switchmode_title">Anahtarlama yöntemini seçin</string>
+    <string name="second_space_desktop_tips_dialog_title">Hızlı</string>
+    <string name="second_space_desktop_tips_dialog_positive_text">Anladım</string>
+    <string name="second_space_desktop_tips_dialog_message">Mobil telefon avatarları yeni özellik yükseltmeleri, veri taşıma ve avatar ayarları telefonun avatar ayarlarına taşınacak. Masaüstü artık bu özelliklere kısayol sağlayacak</string>
 </resources>

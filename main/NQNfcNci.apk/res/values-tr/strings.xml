@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">Nfc hizmeti</string>
     <string name="nfcUserLabel">Nfc</string>
-    <string name="accessibility_nfc_enabled">Nfc etkin</string>
-    <string name="tap_to_beam">Işınlamak için hafifçe dokunun</string>
+    <string name="accessibility_nfc_enabled">Nfc etkinleştirildi</string>
+    <string name="tap_to_beam">Işınlamak için dokunun</string>
     <string name="beam_progress">Gelen ışın</string>
     <string name="beam_outgoing">Işınlanıyor</string>
     <string name="beam_complete">Işınlama tamamlandı</string>

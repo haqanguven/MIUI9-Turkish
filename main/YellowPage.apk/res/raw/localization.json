@@ -1,0 +1,26 @@
+{
+  "TR": {
+    "human_readable_name": "india",
+    "full_featured": true,
+    "phone_number_normalize_policy": "indian"
+  },
+  "EN": {
+    "human_readable_name": "india",
+    "full_featured": false,
+    "features": ["ivr", "antispam", "yellowpage_provider", "web_resource", "push_marked_number", "yellow_page", "extended_data", "statistics", "messaging_template"],
+    "phone_number_normalize_policy": "indian"
+  },
+  "IN": {
+    "human_readable_name": "india",
+    "full_featured": false,
+    "features": ["ivr", "antispam", "yellowpage_provider", "web_resource", "push_marked_number", "yellow_page", "extended_data", "statistics", "messaging_template"],
+    "phone_number_normalize_policy": "indian"
+  },
+  "-INVALID-REGION-DUDE-": {
+    "__comment__": "default template, demonstration only, default-handling is configured in code",
+    "human_readable_name": "invalid region",
+    "full_featured": false,
+    "features": [],
+    "phone_number_normalize_policy": "default"
+  }
+}

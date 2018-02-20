@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Subtitles are moved %.1f seconds forward</item>
-        <item quantity="one">Subtitles are moved %.1f second forward</item>
+        <item quantity="other">Altyazı %.1f saniye ileri alındı</item>
+        <item quantity="one">Altyazı %.1f saniye ileri alındı</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">Subtitles are delayed for %.1f seconds</item>
-        <item quantity="one">Subtitles are delayed for %.1f second</item>
+        <item quantity="other">Altyazı %.1f saniye geri alındı</item>
+        <item quantity="one">Altyazı %.1f saniye geri alındı</item>
     </plurals>
     <plurals name="subtitle_onlinesub_size_float_kb">
         <item quantity="other">Boyut: %.2fKB</item>
@@ -21,20 +21,24 @@
         <item quantity="one">%d yorum</item>
     </plurals>
     <plurals name="comment_sub_count">
-        <item quantity="other">%d cevap</item>
-        <item quantity="one">%d cevap</item>
+        <item quantity="other">%d yanıt</item>
+        <item quantity="one">%d yanıt</item>
     </plurals>
     <plurals name="comment_view_all_comment">
-        <item quantity="other">%d yorumu görüntüle</item>
+        <item quantity="other">%d yorumun tümünü görüntüle</item>
         <item quantity="one">%d yorumu görüntüle</item>
     </plurals>
     <plurals name="downloading_task_num">
         <item quantity="other">%d dosya</item>
         <item quantity="one">%d dosya</item>
     </plurals>
+    <plurals name="favor_short_selected_counts">
+        <item quantity="other">%1$s öğe seçildi</item>
+        <item quantity="one">%1$s  öğe seçildi</item>
+    </plurals>
     <plurals name="notification_sub_title">
-        <item quantity="other">%d dosya indirildi</item>
-        <item quantity="one">%d dosya indirildi</item>
+        <item quantity="other">%d dosya başarıyla indirildi</item>
+        <item quantity="one">%d dosya başarıyla indirildi</item>
     </plurals>
     <plurals name="offline_num">
         <item quantity="other">%d dosya</item>
@@ -46,10 +50,10 @@
     </plurals>
     <plurals name="updated_already">
         <item quantity="other">%d öğe güncellendi</item>
-        <item quantity="one">%d öğe güncellendi</item>
+        <item quantity="one">%d  öğe güncellendi</item>
     </plurals>
     <plurals name="video_pre_play_tip">
-        <item quantity="other">%1$d dakikalık önizleme mevcuttur. Tam videoyu izlemek için &lt;Data>&lt;font color=#ffa201>şimdi satın alın&lt;/font>&lt;/Data></item>
-        <item quantity="one">%1$d dakikalık önizleme mevcuttur. Tam videoyu izlemek için &lt;Data>&lt;font color=#ffa201>şimdi satın alın&lt;/font>&lt;/Data></item>
+        <item quantity="other">%1$d dakikalık önizleme var. Tam videoyu izlemek için &lt;Data>&lt;font color=#ffa201>şimdi satın alın&lt;/font>&lt;/Data></item>
+        <item quantity="one">%1$d dakikalık önizleme var. Tam videoyu izlemek için &lt;Data>&lt;font color=#ffa201>şimdi satın alın&lt;/font>&lt;/Data></item>
     </plurals>
 </resources>

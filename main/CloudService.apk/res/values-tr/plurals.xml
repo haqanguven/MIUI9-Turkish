@@ -53,8 +53,12 @@
         <item quantity="one">%d takvim öğesi</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d engelli listesi girdisi</item>
-        <item quantity="one">%d engelli listesi girdisi</item>
+        <item quantity="other">%d engelli liste öğesi</item>
+        <item quantity="one">%d engelli liste öğesi</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d akıllı yardımcı öğesi</item>
+        <item quantity="one">%d akıllı yardımcı öğesi</item>
     </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d gizli fotoğraf senkronize edilmedi. Öğeleri saklamak için öğeler senkronize edildikten sonra oturumunuzu kapatın. Aksi takdirde öğeler silinecektir</item>

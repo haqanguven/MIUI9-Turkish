@@ -90,7 +90,7 @@ Bu indirmeyi bir wifi ağına bağlandıktan sonra indirmeye başlatmak için %s
     <string name="button_start_now">Şimdi başla</string>
     <string name="download_percent">%%%d</string>
     <string name="download_remaining">%s</string>
-    <string name="download_no_application_title">"Dosya açılamıyor"</string>
+    <string name="download_no_application_title">Dosya açılamıyor</string>
     <string name="root_downloads">İndirmeler</string>
     <string name="download_queued">Kuyruk</string>
     <string name="download_running">Devam ediyor</string>

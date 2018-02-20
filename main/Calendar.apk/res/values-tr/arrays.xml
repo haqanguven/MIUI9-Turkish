@@ -26,7 +26,7 @@
     </string-array>
     <string-array name="change_response_labels">
         <item>Yalnızca bu etkinlik</item>
-        <item>Serideki tüm etkinlikler</item>
+        <item>Serinin tüm etkinlikleri</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>İleri</item>
@@ -57,6 +57,27 @@
         <item>İkizler</item>
         <item>21/5 - 21/6</item>
     </string-array>
+    <array name="global_football_match">
+        <item>@array/english_premium_league</item>
+        <item>@array/serie_a</item>
+        <item>@array/bundesliga</item>
+        <item>@array/la_liga</item>
+        <item>@array/ligue_1</item>
+    </array>
+    <array name="horoscope_info_arrays">
+        <item>@array/aries_info</item>
+        <item>@array/taurus_info</item>
+        <item>@array/gemini_info</item>
+        <item>@array/cancer_info</item>
+        <item>@array/leo_info</item>
+        <item>@array/virgo_info</item>
+        <item>@array/libra_info</item>
+        <item>@array/scorpio_info</item>
+        <item>@array/sagittarius_info</item>
+        <item>@array/capricorn_info</item>
+        <item>@array/aquarius_info</item>
+        <item>@array/pisces_info</item>
+    </array>
     <string-array name="la_liga">
         <item>3</item>
         <item>La Liga</item>
@@ -292,6 +313,8 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 saat önce</item>
@@ -318,27 +341,6 @@
         <item>Şeffaf</item>
         <item>Beyaz arkaplan</item>
     </string-array>
-    <array name="global_football_match">
-        <item>@array/english_premium_league</item>
-        <item>@array/serie_a</item>
-        <item>@array/bundesliga</item>
-        <item>@array/la_liga</item>
-        <item>@array/ligue_1</item>
-    </array>
-    <array name="horoscope_info_arrays">
-        <item>@array/aries_info</item>
-        <item>@array/taurus_info</item>
-        <item>@array/gemini_info</item>
-        <item>@array/cancer_info</item>
-        <item>@array/leo_info</item>
-        <item>@array/virgo_info</item>
-        <item>@array/libra_info</item>
-        <item>@array/scorpio_info</item>
-        <item>@array/sagittarius_info</item>
-        <item>@array/capricorn_info</item>
-        <item>@array/aquarius_info</item>
-        <item>@array/pisces_info</item>
-    </array>
     <array name="account_birthday">
         <item>#ffe99080</item>
         <item>#b3d5a198</item>
@@ -419,12 +421,12 @@
         <item>#ff8d4370</item>
     </array>
     <string-array name="aqi_level_simple_desc">
-        <item>Mükemmel</item>
-        <item>İyi</item>
-        <item>Hafif</item>
-        <item>Ilımlı</item>
-        <item>Şiddetli</item>
-        <item>Ciddi</item>
+        <item>优</item>
+        <item>良</item>
+        <item>轻度</item>
+        <item>中度</item>
+        <item>重度</item>
+        <item>严重</item>
     </string-array>
     <integer-array name="delete_repeating_values">
         <item>0</item>
@@ -432,13 +434,13 @@
         <item>2</item>
     </integer-array>
     <string-array name="entryvalues_settings_debug">
-        <item>Hayır</item>
-        <item>Kayıtları dışa gönder</item>
-        <item>Dosya yöneticisine günlük oluştur</item>
+        <item>无</item>
+        <item>导出并发送日志</item>
+        <item>生成日志至文件管理器</item>
     </string-array>
     <string-array name="fortune_gender">
-        <item>Erkek</item>
-        <item>Kadın</item>
+        <item>男</item>
+        <item>女</item>
     </string-array>
     <integer-array name="fortune_gender_values">
         <item>1</item>
@@ -459,16 +461,16 @@
     </string-array>
     <string-array name="fortune_random_name">
         <item>Hakan</item>
-        <item>Gamze</item>
-        <item>Hüseyin</item>
-        <item>Ayşe</item>
-        <item>Barış</item>
-        <item>Şengül</item>
         <item>Gökhan</item>
+        <item>Barış</item>
+        <item>Hüseyin</item>
+        <item>Gamze</item>
         <item>Gizem</item>
-        <item>Rüzgar</item>
-        <item>Hira</item>
+        <item>Şengül</item>
+        <item>Ayşe</item>
         <item>Duru</item>
+        <item>Hira</item>
+        <item>Rüzgar</item>
     </string-array>
     <array name="month_today_colors">
         <item>#ff1db3af</item>
@@ -590,6 +592,8 @@
         <item>Asia/Bangkok</item>
         <item>Asia/Shanghai</item>
         <item>Asia/Hong_Kong</item>
+        <item>Asia/Macao</item>
+        <item>Asia/Singapore</item>
         <item>Asia/Irkutsk</item>
         <item>Asia/Kuala_Lumpur</item>
         <item>Australia/Perth</item>

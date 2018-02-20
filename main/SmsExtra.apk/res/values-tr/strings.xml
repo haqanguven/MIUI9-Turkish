@@ -38,8 +38,6 @@
     <string name="sent_label">"Gönderilen: "</string>
     <string name="smart_messages_network_allow_message">Mi mesaj hizmetlerinin normal çalışması için internete bağlanması gerekmektedir. Şimdi izin verilsin mi?</string>
     <string name="smart_messages_network_allow_title">İnternet bağlantısı gerekiyor</string>
-    <string name="sms_card_partner_label">"Mesaj kart çözüm ortağı: "</string>
-    <string name="sms_card_teddy_mobile">Teddy Mobil</string>
     <string name="text_message">Metin mesajı</string>
     <string name="view_message_details">Detayları görüntüle</string>
     <string name="sim1">Sim 1</string>

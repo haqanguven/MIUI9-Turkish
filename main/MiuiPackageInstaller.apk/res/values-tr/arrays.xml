@@ -18,9 +18,9 @@
         <item></item>
         <item>Taranıyor</item>
         <item>%1$s ağına bağlanılıyor</item>
-        <item>%1$süzerinde kimlik doğrulanıyor</item>
-        <item>%1$sağından IP adresi alınıyor</item>
-        <item>%1$s ağına bağlanıldı</item>
+        <item>%1$s üzerinde kimlik doğrulanıyor</item>
+        <item>%1$s ağından IP adresi alınıyor</item>
+        <item>%1$s ağına bağlandı</item>
         <item>Askıya alındı</item>
         <item>%1$s bağlantısı kesiliyor</item>
         <item>Bağlantı kesildi</item>
@@ -29,9 +29,9 @@
         <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Asla kontrol etme</item>
-        <item>Yalnızca DRM içeriğini kontrol et</item>
-        <item>Her zaman kontrol et</item>
+        <item>Hiçbir zaman denetleme</item>
+        <item>Yalnızca DRM içeriğini denetle</item>
+        <item>Her zaman denetle</item>
     </string-array>
     <string-array name="hdcp_checking_values">
         <item>never</item>
@@ -39,9 +39,121 @@
         <item>always</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCP kontrolünü hiçbir zaman kullanma</item>
-        <item>DRM içeriği için yalnızca HDCP kontrol kullan</item>
-        <item>HDCP kontrolünü her zaman kullan</item>
+        <item>HDCP denetimini hiçbir zaman kullanma</item>
+        <item>HDCP denetimini yalnızca DRM içeriği için kullan</item>
+        <item>HDCP denetimini her zaman kullan</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Varsayılan)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>"İsteğe bağlı codec'leri etkinleştir"</item>
+        <item>"İsteğe bağlı codec'leri devre dışı bırak"</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_values">
+        <item>1000000</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>"İsteğe bağlı codec'leri etkinleştir"</item>
+        <item>"İsteğe bağlı codec'leri devre dışı bırak"</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ses kalitesi (990 kb/saniye / 909 kb/saniye) için optimize edildi</item>
+        <item>Dengeli ses ve bağlantı kalitesi (660 kb/saniye / 606 kb/saniye)</item>
+        <item>Bağlantı kalitesi (330 kb/saniye / 303 kb/saniye) için optimize edildi</item>
+        <item>En iyi sonuç (Uyarlanabilir Bit hızı)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ses kalitesi için optimize edildi</item>
+        <item>Dengeli ses ve bağlantı kalitesi</item>
+        <item>Bağlantı kalitesi için optimize edildi</item>
+        <item>En iyi sonuç (Uyarlanabilir Bit hızı)</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Kapalı</item>
@@ -80,22 +192,22 @@
         <item>kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Kapalı</item>
+        <item>Tümü</item>
+        <item>Radyo hariç tümü</item>
+        <item>Yalnızca çekirdek</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Kapalı</item>
-        <item>Tüm günlük arabelleği</item>
-        <item>Radyo günlüğü arabelleği hariç hepsi</item>
-        <item>Sadece çekirdek günlük arabelleği</item>
+        <item>Günlük arabelleklerin tümü</item>
+        <item>Radyo günlük arabellekleri hariç tümü</item>
+        <item>yalnızca çekirdek günlük arabelleği</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Kapalı</item>
-        <item>5x</item>
+        <item>0,5x</item>
         <item>1x</item>
-        <item>1.5x</item>
+        <item>1,5x</item>
         <item>2x</item>
         <item>5x</item>
         <item>10x</item>
@@ -156,7 +268,7 @@
         <item>4K</item>
         <item>4K (Güvenli)</item>
         <item>4K (Yukarı ölçeklenmiş)</item>
-        <item>4K (Yukarı ölçeklenmiş, güvenli)</item>
+        <item>4K (Yukarı ölçeklenmiş ve güvenli)</item>
         <item>720p, 1080p (Çift ekran)</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
@@ -215,6 +327,14 @@
         <item>show</item>
         <item>show_deuteranomaly</item>
     </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Default)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_values">
+        <item>opengl</item>
+        <item>skiagl</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standart sınır</item>
         <item>Arka planda işlem yok</item>
@@ -266,7 +386,56 @@
         <item>-1</item>
         <item>7</item>
     </integer-array>
-    <array name="config_hideWhenDisabled_packageNames" />
+    <integer-array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>?android:colorError</item>
+        <item>@android:color/white</item>
+    </array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <integer-array name="batterymeter_plus_points">
+        <item>3</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>8</item>
+        <item>3</item>
+        <item>8</item>
+        <item>3</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+    </integer-array>
     <string-array name="tts_rate_entries">
         <item>Çok yavaş</item>
         <item>Yavaş</item>

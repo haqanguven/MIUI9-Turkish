@@ -66,11 +66,6 @@
         <item>6</item>
         <item>-1</item>
     </string-array>
-    <string-array name="payment_chooser">
-        <item>Mesaj (Kredi kartı harcamaları)</item>
-        <item>Para cezası</item>
-        <item>Alipay ödemeleri</item>
-    </string-array>
     <string-array name="stock_color_schema">
         <item>Kırmızı - yukarı | Yeşil - aşağı</item>
         <item>Yeşil - yukarı | Kırmızı - aşağı</item>

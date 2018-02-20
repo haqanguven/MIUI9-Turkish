@@ -14,8 +14,6 @@
     <string name="one_usercrt">Bir kullanıcı sertifikası</string>
     <string name="one_cacrt">Bir CA sertifikası</string>
     <string name="n_cacrts">%d CA sertifikası</string>
-    <string name="one_wapi_ascrt">Bir WAPI AS sertifikası</string>
-    <string name="one_wapi_usercrt">Bir WAPI kullanıcı sertifikası</string>
     <string name="password_error">Doğru şifreyi girin</string>
     <string name="password_empty_error">Şifreyi girin</string>
     <string name="name_empty_error">Bir ad yazın</string>

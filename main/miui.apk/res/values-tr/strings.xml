@@ -342,10 +342,10 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_timezone">W, D</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_chinese_date">N-e</string>
     <string name="country_name_bs">BS</string>
     <string name="country_name_bb">BB</string>
     <string name="country_name_ai">AI</string>
