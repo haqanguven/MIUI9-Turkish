@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alarm_set">
+        <item>Alarm 1 dakikadan az bir süre içerisinde çalacaktır</item>
+        <item>Alarm %1$s içerisinde çalacaktır</item>
+        <item>Alarm %2$s içerisinde çalacaktır</item>
+        <item>Alarm %1$s ve %2$s içerisinde çalacaktır</item>
+        <item>Alarm %3$s içerisinde çalacaktır</item>
+        <item>Alarm %1$s ve %3$s içerisinde çalacaktır</item>
+        <item>Alarm %2$s ve %3$s içerisinde çalacaktır</item>
+        <item>Alarm %1$s, %2$s ve %3$s içerisinde çalacaktır</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Asla</item>
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Hiçbir şey yapma</item>
+        <item>Ertele</item>
+        <item>Kapat</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>1 dakika içerisinde alarm çalacaktır</item>
         <item>Alarm %1$s içerisinde çalacaktır</item>
@@ -24,16 +72,6 @@
         <item>Pazartesi - Cuma</item>
         <item>Özel</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>Alarm 1 dakikadan az bir süre içerisinde çalacaktır</item>
-        <item>Alarm %1$s içerisinde çalacaktır</item>
-        <item>Alarm %2$s içerisinde çalacaktır</item>
-        <item>Alarm %1$s ve %2$s içerisinde çalacaktır</item>
-        <item>Alarm %3$s içerisinde çalacaktır</item>
-        <item>Alarm %1$s ve %3$s içerisinde çalacaktır</item>
-        <item>Alarm %2$s ve %3$s içerisinde çalacaktır</item>
-        <item>Alarm %1$s, %2$s ve %3$s içerisinde çalacaktır</item>
-    </string-array>
     <string-array name="aqi_value">
         <item>İyi</item>
         <item>Tatmin edici</item>
@@ -42,15 +80,20 @@
         <item>Çok kötü</item>
         <item>Şiddetli</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Asla</item>
-        <item>1 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>15 dakika</item>
-        <item>20 dakika</item>
-        <item>25 dakika</item>
-        <item>30 dakika</item>
+    <string-array name="days">
+        <item>Dün</item>
+        <item>Bugün</item>
+        <item>Yarın</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Açık alan etkinliklerini azaltın</item>
+        <item>Yollar kaygan</item>
+        <item>Hava fırtınalı. Dikkatli olun</item>
+        <item>Hava kirli. Maske takın</item>
+        <item>Dışarı çıkarken yanınıza şemsiye alın</item>
+        <item>Yollarda dikkatli olun</item>
+        <item>Kum fırtınası geliyor. Maske takın</item>
+        <item>İyi günler dileriz</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
@@ -348,49 +391,6 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
-    </string-array>
-    <string-array name="days">
-        <item>Dün</item>
-        <item>Bugün</item>
-        <item>Yarın</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>15 dakika</item>
-        <item>20 dakika</item>
-        <item>25 dakika</item>
-        <item>30 dakika</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
-    <string-array name="volume_button_setting_entries">
-        <item>Hiçbir şey yapma</item>
-        <item>Ertele</item>
-        <item>Kapat</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>Açık alan etkinliklerini azaltın</item>
-        <item>Yollar kaygan</item>
-        <item>Hava fırtınalı. Dikkatli olun</item>
-        <item>Hava kirli. Maske takın</item>
-        <item>Dışarı çıkarken yanınıza şemsiye alın</item>
-        <item>Yollarda dikkatli olun</item>
-        <item>Kum fırtınası geliyor. Maske takın</item>
-        <item>İyi günler dileriz</item>
     </string-array>
     <integer-array name="alarm_repeat_type_no_workdays_values">
         <item>0</item>

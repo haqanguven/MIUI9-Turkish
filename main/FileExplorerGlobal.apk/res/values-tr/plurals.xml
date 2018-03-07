@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">%1$d seçilen dosya silinsin mi?</item>
+        <item quantity="one">%1$d seçilen dosya silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">%1$d dosya ve</item>
+        <item quantity="one">%1$d dosya ve</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">%1$d seçilen klasör silinsin mi?</item>
+        <item quantity="one">%1$d seçilen klasör silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">%1$d klasör silinsin mi?</item>
+        <item quantity="one">%1$d klasör silinsin mi?</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">%1$d yeni dosya bulundu</item>
+        <item quantity="one">%1$d yeni dosya bulundu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="one">%1$d saat önce</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="one">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">%1$s kaynağından %2$d öğe</item>
+        <item quantity="one">%1$s kaynağından %2$d öğe</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s anahtar kelimesini içeren %2$d öğe mevcut</item>
+        <item quantity="one">%1$s anahtar kelimesini içeren %2$d öğe mevcut</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">%2$d öğe %1$s olarak etiketlendi</item>
+        <item quantity="one">%2$d öğe %1$s olarak etiketlendi</item>
+    </plurals>
+</resources>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
+    <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
     <string name="welcome">Hoş geldiniz</string>
     <string name="app_name">Provizyon</string>
     <string name="system_navigation_mode">Sistem gezinme modu</string>
@@ -25,6 +26,8 @@ Seçili klavyenin gizlilik politikasını görüntüleyin"</string>
     <string name="other_settings_upload_debug_log_summary">Topladığımız veriler sistemdeki problemleri konumlandırmakta ve analiz edilmekte kullanılacak olup kişisel verilerinizi içerebilir. Hiçbir veri kimliğinizi tanımlamak için kullanılmayacaktır</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">Miui güncellemeleri yüklemek için en iyi zamanı seçer</string>
+    <string name="other_settings_ad_enable">Kişiselleştirilmiş reklam tavsiye</string>
+    <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
     <string name="back">Geri</string>
     <string name="next">İleri</string>
     <string name="skip_underline">Bu adımı atla</string>

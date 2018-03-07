@@ -392,6 +392,11 @@ Yalnızca desteklenen şarj cihazlarını kullanın"</string>
     <string name="usb_debugging_message">"Bilgisayarın RSA anahtar parmak izi:
 %1$s"</string>
     <string name="usb_debugging_always">Bu bilgisayara her zaman izin ver</string>
+    <string name="screenshot_saving_ticker">Ekran görüntüsünü kaydediliyor</string>
+    <string name="screenshot_saving_title">Ekran görüntüsünü kaydediliyor</string>
+    <string name="screenshot_saving_text">Ekran görüntüsü kaydedildi</string>
+    <string name="screenshot_saved_title">Ekran görüntüsü yakalandı</string>
+    <string name="screenshot_saved_text">Ekran görüntüsünü görmek için hafifçe dokunun</string>
     <string name="screenshot_failed_text">Ekran görüntüsü kısıtlı depolama alanı nedeniyle veya uygulamanız veya ayarlarınız tarafından izin verilmediğinden alınamıyor</string>
     <string name="accessibility_back">Geri</string>
     <string name="accessibility_home">Ana ekran</string>
@@ -841,6 +846,8 @@ EEEE"</string>
     <string name="fsg_demo_go_on">Öğren</string>
     <string name="fs_gesture_back_home_summary">Aşağıdan hızlıca kaydırın</string>
     <string name="fs_gesture_switch_recents_summary">Duraklatmak için aşağıdan kaydır</string>
+    <string name="how_to_use_drawer">Uygulama kaydırma işlevi nasıl kullanılır?</string>
+    <string name="how_to_use_drawer_summary">Sol üstten hızlıca kaydır</string>
     <string name="fs_gesture_back_ready_title">Geri git</string>
     <string name="fs_gesture_left_back_ready_summary">Ekranın köşesinden sağa kaydır</string>
     <string name="fs_gesture_right_back_ready_summary">Ekranın köşesinden sola kaydır</string>

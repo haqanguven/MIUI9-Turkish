@@ -233,7 +233,7 @@ Yöneticiniz bu Kullanıcı ile ilişkilendirilmiş ayarları, erişimi, uygulam
     <string name="alarm_volume_title">Alarm</string>
     <string name="all_volume_title">Ses seviyeleri</string>
     <string name="allow">İzin ver</string>
-    <string name="allow_bind_app_widget_activity_allow_bind">\"Aracı oluşturmanızdan sonra %1$s aracın görüntülediği tüm verilere erişebilir</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">Aracı oluşturmanızdan sonra %1$s aracın görüntülediği tüm verilere erişebilir</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Aracı oluşturup erişime izin vermek istiyor musunuz?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s uygulamasına her zaman araç oluşturma ve verilerine erişme izni ver</string>
     <string name="allow_data_usage_title">Dolaşımdayken veri kullanımına izin ver</string>
@@ -243,7 +243,7 @@ Yöneticiniz bu Kullanıcı ile ilişkilendirilmiş ayarları, erişimi, uygulam
     <string name="allow_sound">Sese izin ver</string>
     <string name="alpha_build">" | Alfa"</string>
     <string name="always">Her zaman</string>
-    <string name="always_allow_bind_appwidgets_text">"Bu uygulamanın widget oluşturmasına ve oluşturulan widget'ların verilerine erişmesine izin vermeyi seçtiniz."</string>
+    <string name="always_allow_bind_appwidgets_text">Bu uygulamanın araç oluşturmasına ve oluşturulan araçların verilerine erişmesine izin vermeyi seçtiniz</string>
     <string name="always_running">Her zaman çalışıyor (%s)</string>
     <string name="amber_alerts_summary">Çocuk kaçırma olaylarıyla ilgili bültenleri alın</string>
     <string name="amber_alerts_title">Sarı uyarılar</string>
@@ -1035,7 +1035,7 @@ Oynatma Kalitesi"</string>
     <string name="charge_length_format">%1$s önce</string>
     <string name="charging_sounds_title">Şarj sesi</string>
     <string name="check_find_device_status_failure_confirm">Tamam</string>
-    <string name="check_importance">Önemi kontrol et</string>
+    <string name="check_importance">Öncelik</string>
     <string name="check_update">Güncellemeleri kontrol et</string>
     <string name="checkbox_notification_same_as_incoming_call">Bildirimlerde gelen arama ses düzeyini kullan</string>
     <string name="checking_decryption">Kontrol ediliyor</string>
@@ -1065,8 +1065,6 @@ Oynatma Kalitesi"</string>
     <string name="close_gesture">Vücut hareketi kullanarak kapat</string>
     <string name="close_miui_optimization_title">Miui optimizasyonu kapat</string>
     <string name="close_miui_optimization_warning_message">Cihazınız bu değişikliği uygulamak için yeniden başlatılacaktır. Not: Bu özelliği kapatmak sistem düzeni ve kullanıcı ara yüzünün diğer ögelerinde büyük değişikliklere neden olacaktır</string>
-    <string name="close_sdcard_optimization_title">Sahte SD kart optimizasyonunu kapat</string>
-    <string name="close_sdcard_optimization_warning_message">Cihazınınız bu değişikliği uygulamak için yeniden başlatılacaktır</string>
     <string name="cloud_backup_section_title">Mi bulut yedekleme</string>
     <string name="cloud_backup_settings_section_title">Yedekleme ayarları</string>
     <string name="cloud_restore_section_summary">Uygulamaları, ana ekran düzenini ve sistem ayarlarını geri yükle</string>
@@ -1077,10 +1075,10 @@ Oynatma Kalitesi"</string>
     <string name="color_calibration_none">Doğal</string>
     <string name="color_calibration_srgb">sRGB</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
-    <string name="color_cyan">Camgöbeği</string>
+    <string name="color_cyan">Cam göbeği</string>
     <string name="color_gray">Gri</string>
     <string name="color_green">Yeşil</string>
-    <string name="color_magenta">Macenta</string>
+    <string name="color_magenta">Magenta</string>
     <string name="color_none">Boş</string>
     <string name="color_orange">Turuncu</string>
     <string name="color_purple">Mor</string>
@@ -1096,7 +1094,7 @@ Oynatma Kalitesi"</string>
     <string name="complete_parameters">Tüm özellikler</string>
     <string name="complete_settings">Genel ayarlar</string>
     <string name="computing_size">Hesaplanıyor</string>
-    <string name="condition_airplane_summary">\"Wifi bağlantı, bluetooth ve hücresel ağ kapalı. Telefon edemez veya internete bağlanamazsınız</string>
+    <string name="condition_airplane_summary">Wifi bağlantısı, bluetooth ve hücresel ağ kapalı. Telefon edemez veya internete bağlanamazsınız</string>
     <string name="condition_airplane_title">Uçak modu açık</string>
     <string name="condition_battery_summary">Performans azaldı. Konum hizmetleri ve arka plan veriler kapatıldı</string>
     <string name="condition_battery_title">Pil tasarrufu açık</string>
@@ -1246,7 +1244,7 @@ Telefonunuz kullanmaya devam edebilmek için, fabrika ayarlarına sıfırlama i�
     <string name="daltonizer_mode_disabled">Devre dışı</string>
     <string name="daltonizer_mode_monochromacy">Tam renk körlüğü</string>
     <string name="daltonizer_mode_protanomaly">Kırmızı renk körlüğü (Kırmızı-yeşil)</string>
-    <string name="daltonizer_mode_tritanomaly">Mavi renk körlüğü (mavi-sarı)</string>
+    <string name="daltonizer_mode_tritanomaly">Mavi renk körlüğü (Mavi-sarı)</string>
     <string name="daltonizer_type">Düzeltme modu</string>
     <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kılındı</string>
     <string name="dashboard_title">Ayarlar</string>
@@ -1256,17 +1254,17 @@ Telefonunuz kullanmaya devam edebilmek için, fabrika ayarlarına sıfırlama i�
     <string name="data_saver_title">Veri tasarrufu</string>
     <string name="data_size_label">Veri</string>
     <string name="data_summary_format">%1$s (%2$s tarihinden beri)</string>
-    <string name="data_switch_started">Veri için kullanılan Sim kart değiştiriliyor. Bu işlem bir dakika kadar sürebilir...</string>
+    <string name="data_switch_started">Veri için kullanılan Sim kart değiştiriliyor. Bu işlem bir dakika kadar sürebilir</string>
     <string name="data_usage_accounting">Operatörünüzün veri hesaplaması cihazınızınkinden farklı olabilir</string>
     <string name="data_usage_app">Uygulama kullanımı</string>
     <string name="data_usage_app_info_label">Uygulama bilgileri</string>
     <string name="data_usage_app_items_header_text">Uygulama kullanımı</string>
-    <string name="data_usage_app_restrict_background">Uyg. arka plan verilerini kısıtla</string>
+    <string name="data_usage_app_restrict_background">Uygulama arka plan verilerini kısıtla</string>
     <string name="data_usage_app_restrict_background_summary">Hücresel ağlarda arka plan verilerini devre dışı bırakın</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Bu uygulama için arka plan verisini kısıtlamadan önce bir hücre veri sınırı belirle</string>
-    <string name="data_usage_app_restrict_dialog">"Bu özellik, yalnızca hücresel ağların mevcut olması durumunda arka plan verilerine dayanan bir uygulamanın çalışmayı durdurmasına neden olabilir
+    <string name="data_usage_app_restrict_dialog">"Bu özellik yalnızca hücresel ağların mevcut olması durumunda arka plan verilerine dayanan bir uygulamanın çalışmayı durdurmasına neden olabilir
 
-Daha uygun veri kullanım denetimlerini, uygulamanın içindeki ayarlarda bulabilirsiniz"</string>
+Daha uygun veri kullanım denetimlerini uygulamanın içindeki ayarlarda bulabilirsiniz"</string>
     <string name="data_usage_app_restrict_dialog_title">Arka plan verileri kısıtlansın mı?</string>
     <string name="data_usage_app_restricted">kısıtlanmış</string>
     <string name="data_usage_app_settings">Uygulama ayarları</string>
@@ -1275,8 +1273,8 @@ Daha uygun veri kullanım denetimlerini, uygulamanın içindeki ayarlarda bulabi
     <string name="data_usage_auto_sync_off_dialog_title">Otomatik veri senkronize kapatılsın mı?</string>
     <string name="data_usage_auto_sync_on_dialog">"Web üzerinden hesaplarınızda yaptığınız tüm değişiklikler telefonunuza otomatik olarak kopyalanır
 
-Bazı hesaplar telefonda yaptığınız değişiklikleri otomatik olarak web'e de kopyalayabilir. Google Hesabı bu şekilde çalışır"</string>
-    <string name="data_usage_auto_sync_on_dialog_title">Otomatik veri senk. açılsın mı?</string>
+Bazı hesaplar telefonda yaptığınız değişiklikleri otomatik olarak internete de kopyalayabilir. Google Hesabı bu şekilde çalışır"</string>
+    <string name="data_usage_auto_sync_on_dialog_title">Otomatik veri senkronizesi açılsın mı?</string>
     <string name="data_usage_background_label">Arka plan:</string>
     <string name="data_usage_cellular_data">Hücresel veri</string>
     <string name="data_usage_cellular_data_summary">Sınırda duraklatıldı</string>
@@ -1291,7 +1289,7 @@ Bazı hesaplar telefonda yaptığınız değişiklikleri otomatik olarak web'e d
     <string name="data_usage_disable_mobile">Hücresel veri kapatılsın mı?</string>
     <string name="data_usage_disable_mobile_limit">Hücresel veri sınırı ayarla</string>
     <string name="data_usage_disable_wifi_limit">Wifi veri limitini ayarla</string>
-    <string name="data_usage_disclaimer">Operatörünüzün veri hesaplaması, cihazınızınkinden farklı olabilir</string>
+    <string name="data_usage_disclaimer">Operatörünüzün veri hesaplaması cihazınızınkinden farklı olabilir</string>
     <string name="data_usage_empty">Bu dönem içinde hiçbir uygulama veri kullanmadı</string>
     <string name="data_usage_enable_3g">2G-3G verileri</string>
     <string name="data_usage_enable_4g">4G verileri</string>
@@ -1495,6 +1493,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüzün kulla
     <string name="disable_service_title">%1$s durdurulsun mu?</string>
     <string name="disable_text">Devre dışı bırak</string>
     <string name="disabled">Devre dışı</string>
+    <string name="disabled_authorised_apps_title">İptal edilen yetkilendirme</string>
     <string name="disabled_because_no_backup_security">Kullanmak için önce bir ekran kilidi ayarlayın</string>
     <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
     <string name="disabled_by_admin_summary_text">Yönetici tarafından denetleniyor</string>
@@ -1505,6 +1504,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüzün kulla
     <string name="disabled_by_policy_title_outgoing_calls">Telefon etmeye izin verilmiyor</string>
     <string name="disabled_by_policy_title_screen_capture">Ekran görüntüsüne izin verilmiyor</string>
     <string name="disabled_by_policy_title_sms">Mesaja izin verilmiyor</string>
+    <string name="disabled_low_ram_device">Bu özellik bu cihazda kullanılamıyor</string>
     <string name="disconnect">disconnect</string>
     <string name="disconnected">Bağlantı kesildi</string>
     <string name="display_auto_rotate_rotate">Ekranın içeriğini döndür</string>
@@ -1664,6 +1664,8 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüzün kulla
     <string name="enable_terminal_title">Yerel terminal</string>
     <string name="enable_text">Etkinleştir</string>
     <string name="enable_wifi_display">Kablosuz ekran</string>
+    <string name="enabled_authorised_apps_summary">Tekli uygulamalar anahtarlarını değiştirdikten sonra yetkiniz iptal edilecek</string>
+    <string name="enabled_authorised_apps_title">İzin verildi</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
     <string name="enalbe_identify_iPhone">AP kimliği</string>
     <string name="encrypt_talkback_dialog_message_password">Bu cihazı başlatmak için şifrenizi girdiğinizde %1$s gibi erişilebilirlik hizmetleri henüz kullanılabilir olmayacaktır</string>
@@ -1869,8 +1871,8 @@ At veya başka bir hayvan görünmüyordu; erkekler, önlerinde ittikleri küç�
     <string name="font_size_preview_text_title">Muhteşem öz büyücüsü</string>
     <string name="font_size_save">Tamam</string>
     <string name="font_size_small">Daha küçük</string>
-    <string name="font_size_summary">"Metni ekranda daha küçük veya daha büyük yapın\u000d
-\u0009\u000d
+    <string name="font_size_summary">"Metni ekranda daha küçük veya daha büyük yapın
+
 "</string>
     <string name="font_size_summary1">"Sistem yazı tipi boyutunun çok küçük olduğunu düşünüyorsanız, bunu deneyin "</string>
     <string name="font_size_summary2">Yaşlı modu</string>
@@ -1929,24 +1931,26 @@ At veya başka bir hayvan görünmüyordu; erkekler, önlerinde ittikleri küç�
     <string name="free_xiaomi_wifi_connect_summary">%1$s ağına bağlanmak için dokunun</string>
     <string name="frequently_fragment_delete">Kaldır</string>
     <string name="frequently_fragment_tempty">Sık kullanılan ögeler burada listelenecektir</string>
+    <string name="fsg_mistake_touch_summary">Tam ekran oyunlar ve videoların bazı sahnelerinde hareket etmek için hareketlerin iki kez hızlıca kaydırılması gerekir</string>
+    <string name="fsg_mistake_touch_title">Hareketleri tekrar kontrol edin</string>
     <string name="full_transparent_smarrcover_title">Şeffaf ön kapak</string>
     <string name="fullbackup_data_summary">"Cihaz verilerini (Wifi ağ şifreleri ve çağrı geçmişi gibi) ve uygulama verilerini (uygulamalar tarafından depolanan ayarlar ve dosyalar gibi) uzaktan otomatik olarak yedekleyin.
 
 Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olarak uzaktan kaydedilir. Uygulama verileri, bir uygulamanın kaydettiği (geliştirici ayarlarına göre), kişiler, iletiler ve fotoğraflar gibi hassas olabilecek verileri de içeren her türlü veri olabilir."</string>
-    <string name="fullbackup_erase_dialog_message">"Cihaz verilerinin (kablosuz ağ şifreleri ve çağrı geçmişi gibi) ve uygulama verilerinin (uygulamalar tarafından depolanan ayarlar ve dosyalar gibi) yedeklenmesi durdurulsun ve Google Drive'daki tüm kopyaları silinsin mi?"</string>
+    <string name="fullbackup_erase_dialog_message">"Cihaz verilerinin ve uygulama verilerinin yedeklenmesi durdurulsun ve Google Drive'daki tüm kopyaları silinsin mi?"</string>
     <string name="gadget_bluetooth">Bluetooth</string>
-    <string name="gadget_brightness_state_auto">otomatik</string>
-    <string name="gadget_brightness_state_full">tam</string>
-    <string name="gadget_brightness_state_half">yarım</string>
-    <string name="gadget_brightness_state_off">kapalı</string>
+    <string name="gadget_brightness_state_auto">Otomatik</string>
+    <string name="gadget_brightness_state_full">Tam</string>
+    <string name="gadget_brightness_state_half">Yarım</string>
+    <string name="gadget_brightness_state_off">Kapalı</string>
     <string name="gadget_brightness_template">Parlaklık %1$s</string>
     <string name="gadget_location">Konum</string>
     <string name="gadget_picker_title">Gadget seç</string>
-    <string name="gadget_state_off">kapalı</string>
-    <string name="gadget_state_on">açık</string>
+    <string name="gadget_state_off">Kapalı</string>
+    <string name="gadget_state_on">Açık</string>
     <string name="gadget_state_template">%1$s %2$s</string>
-    <string name="gadget_state_turning_off">kapatılıyor</string>
-    <string name="gadget_state_turning_on">açılıyor</string>
+    <string name="gadget_state_turning_off">Kapatılıyor</string>
+    <string name="gadget_state_turning_on">Açılıyor</string>
     <string name="gadget_sync">Senkronizasyon</string>
     <string name="gadget_title">Güç denetimi</string>
     <string name="gadget_toggle_bluetooth">Bluetooth ayarları güncelleniyor</string>
@@ -2087,9 +2091,9 @@ Bu seçenek daha fazla pil kullanabilir"</string>
     <string name="incoming_call_breathing_light_color_title">Arama ışığı rengi</string>
     <string name="incoming_call_breathing_light_freq_title">Arama yanma sıklığı</string>
     <string name="incoming_call_volume_title">Zil sesi</string>
-    <string name="infinity_display_settings">Full screen display</string>
-    <string name="infinity_display_slogan">Continued growth in unexplored technology</string>
-    <string name="infinity_display_title">Tam ekran görüntüsü</string>
+    <string name="infinity_display_settings">Tam ekran hareketleri</string>
+    <string name="infinity_display_slogan">Keşfedilmemiş teknolojide devam eden büyüme</string>
+    <string name="infinity_display_title">Tam ekran hareketleri</string>
     <string name="information_dialog_button_text">Anladım</string>
     <string name="input_assistance">Giriş yardımı</string>
     <string name="input_method">Giriş yöntemi</string>
@@ -2422,13 +2426,13 @@ Bu seçenek daha fazla pil kullanabilir"</string>
     <string name="lockpassword_confirm_workspace_password">İş alanı şifresini doğrulayın</string>
     <string name="lockpassword_confirm_your_lock_password_header">Parolanızı doğrulayın</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Deseninizi onaylayın</string>
-    <string name="lockpassword_confirm_your_password_generic">Devam etmek için cihaz şifrenizi girin.</string>
+    <string name="lockpassword_confirm_your_password_generic">Devam etmek için cihaz şifrenizi girin</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Devam etmek için iş profilinizin şifresini girin</string>
     <string name="lockpassword_confirm_your_password_header">Şifrenizi onaylayın</string>
-    <string name="lockpassword_confirm_your_pattern_generic">Devam etmek için cihaz deseninizi kullanın.</string>
+    <string name="lockpassword_confirm_your_pattern_generic">Devam etmek için cihaz deseninizi kullanın</string>
     <string name="lockpassword_confirm_your_pattern_generic_profile">Devam etmek için iş profilinizin desenini kullanın</string>
     <string name="lockpassword_confirm_your_pattern_header">Deseninizi onaylayın</string>
-    <string name="lockpassword_confirm_your_pin_generic">Devam etmek için cihaz Pin kodunuzu kullanın.</string>
+    <string name="lockpassword_confirm_your_pin_generic">Devam etmek için cihaz Pin kodunuzu kullanın</string>
     <string name="lockpassword_confirm_your_pin_generic_profile">"Devam etmek için iş profilinizin Pin'ini girin"</string>
     <string name="lockpassword_confirm_your_pin_header">Pin kodunuzu onaylayın</string>
     <string name="lockpassword_confirm_your_private_password_header">Parolanızı doğrulayın</string>
@@ -2443,7 +2447,7 @@ Bu seçenek daha fazla pil kullanabilir"</string>
     <string name="lockpassword_password_requires_digit">Şifre en az bir rakam içermelidir</string>
     <string name="lockpassword_password_requires_symbol">Şifre en az bir sembol içermelidir</string>
     <string name="lockpassword_password_set_toast">Şifre ayarlandı</string>
-    <string name="lockpassword_password_too_long">Şifre %d karakterden daha az olmalıdır.</string>
+    <string name="lockpassword_password_too_long">Şifre %d karakterden daha az olmalıdır</string>
     <string name="lockpassword_password_too_short">Şifre en az %d karakterden oluşmalıdır</string>
     <string name="lockpassword_pattern_set_toast">Desen ayarlandı</string>
     <string name="lockpassword_pin_contains_non_digits">Pin kodu yalnızca rakam içerebilir</string>
@@ -2663,6 +2667,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="menu_stats_unplugged">Fişten çekildikten itibaren %1$s</string>
     <string name="menu_use_uss">"USS'yi kullan"</string>
     <string name="mi_shopping_mall">Mi mağaza</string>
+    <string name="mi_upi_settings">Mi ödeme hesabı</string>
     <string name="misc_files">Çeşitli dosyalar</string>
     <string name="misc_files_selected_count">toplam %2$d dosyadan %1$d tanesi seçildi</string>
     <string name="misc_files_selected_count_bytes">%1$s / %2$s</string>
@@ -2806,13 +2811,13 @@ Bu cihazda başka kullanıcılar da var
     <string name="navigation_guide_app_summary">Üst alanda ekranın sağ veya sol köşesinden kaydırın</string>
     <string name="navigation_guide_app_title">Uygulama işlevini çalıştır</string>
     <string name="navigation_guide_back_anim_summary">Animasyonlu geri hareketi</string>
-    <string name="navigation_guide_back_anim_title">Geri hareketi animasyonu</string>
+    <string name="navigation_guide_back_anim_title">Geri hareket animasyonu</string>
     <string name="navigation_guide_back_summary">Ekrandan sağa veya sola doğru kaydırın</string>
     <string name="navigation_guide_back_title">Son sayfaya geri dön</string>
     <string name="navigation_guide_dialog_dont_show_again">Tekrar gösterme</string>
     <string name="navigation_guide_dialog_ok">Öğren</string>
     <string name="navigation_guide_dialog_skip">Atla</string>
-    <string name="navigation_guide_dialog_summary">Sanal tuş yerine hareketler kullanın</string>
+    <string name="navigation_guide_dialog_summary">Ekran tuşları yerine hareketleri kullanın</string>
     <string name="navigation_guide_dialog_title">Hareket öğren</string>
     <string name="navigation_guide_home_summary">Ekranın altından yukarı doğru kaydır</string>
     <string name="navigation_guide_home_title">Ana sayfaya dön</string>
@@ -2820,8 +2825,8 @@ Bu cihazda başka kullanıcılar da var
     <string name="navigation_guide_recent_title">Son kullanılanları aç</string>
     <string name="navigation_guide_settings">Dersler</string>
     <string name="navigation_type_radio_text_full_screen">Tam ekran hareketleri</string>
-    <string name="navigation_type_radio_text_virtual_key">Klasik navigasyon çubuğu</string>
-    <string name="navigation_type_settings">Sistem navigasyon seçenekleri</string>
+    <string name="navigation_type_radio_text_virtual_key">Klasik ekran tuşları</string>
+    <string name="navigation_type_settings">Ekran tuşları &amp; hareketleri</string>
     <string name="nearby_wifi">Kullanılabilir ağlar</string>
     <string name="need_reboot_now">Güncellemeyi yüklemek için yeniden başlatın</string>
     <string name="netcheck_title">Ağ tanımlama</string>
@@ -2837,14 +2842,14 @@ Bu cihazda başka kullanıcılar da var
     <string name="network_scorer_change_active_dialog_title">Wifi assistant değiştirilsin mi?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Ağ bağlantılarınızı yönetmek için %s kullanılsın mı?</string>
     <string name="network_scorer_picker_none_preference">Yok</string>
-    <string name="network_scorer_picker_title">Network derecelendirme sağlayıcısı</string>
+    <string name="network_scorer_picker_title">Ağ derecelendirme sağlayıcısı</string>
     <string name="network_settings_title">Hücresel ağlar</string>
     <string name="network_state_label">Şebeke durumu:</string>
     <string name="networkid_label">Ağ kimliği ID:</string>
     <string name="networks">Operatör seçimi</string>
     <string name="networks_title">Mobil ağlar</string>
     <string name="never">Asla</string>
-    <string name="new_backup_pw_prompt">Buraya, tam yedeklemeler için yeni bir şifre yazın</string>
+    <string name="new_backup_pw_prompt">Tam yedekleme için yeni bir şifre yazın</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Cihaz kilidini parmak izinizle açmak için parmak izinizi ekleyin</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">İptal et</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Ekle</string>
@@ -2897,7 +2902,9 @@ Bu cihazda başka kullanıcılar da var
     <string name="night_light">Gece aydınlatması</string>
     <string name="night_light_brightness">Gece aydınlatma parlaklığı</string>
     <string name="night_light_color">Gece aydınlatma rengi</string>
+    <string name="night_light_color_tip">Okuma modu kapalı olduğunda değişiklikler geçerli olur</string>
     <string name="night_light_summary">Gece aydınlatma moduna girmek için düşük ışık koşullarında arka plan aydınlatmasını en aza indirin</string>
+    <string name="night_light_tip">Gece modu açık olduğunda değişiklikler geçerli olur</string>
     <string name="no">Hayır</string>
     <string name="no_application">Boş</string>
     <string name="no_applications">Uygulama yok</string>
@@ -3050,8 +3057,6 @@ Ayrıca bildirimleri kapatabilecek veya bildirimdeki işlem düğmelerini tetikl
     <string name="open_personal_assistant_dialog_desc">Kapatmak istiyor musunuz?</string>
     <string name="open_personal_assistant_dialog_title">Akıllı yardımcıyı kapat</string>
     <string name="open_personal_assistant_title">Akıllı yardımcı</string>
-    <string name="open_sdcard_optimization_title">Sahte SD kart optimizasyonunu aç</string>
-    <string name="open_sdcard_optimization_warning_message">Cihazınınız bu değişikliği uygulamak için yeniden başlatılacaktır</string>
     <string name="open_wifi_connect_summary">Detayları görüntülemek için dokunun</string>
     <string name="open_wifi_connect_title">%1$s ağına bağlan</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Bu iş profili şunun tarafından yönetiliyor:</string>
@@ -3300,6 +3305,21 @@ Ayrıca bildirimleri kapatabilecek veya bildirimdeki işlem düğmelerini tetikl
     <string name="priority_storage_settings_summary">SD kart bulunamazsa, verileriniz otomatik olarak cihazınızın dahili depolama birimine kaydedilir</string>
     <string name="priority_storage_summary">Verilerinizin kaydedileceği konumu seçin</string>
     <string name="priority_storage_title">Depolama ayarları</string>
+    <string name="privacy_authorize_dialog_agree">Kabul et</string>
+    <string name="privacy_authorize_dialog_exit">Çık</string>
+    <string name="privacy_authorize_dialog_message">%1$s uygulaması %2$s sözleşmesini okumanızı ve kabul etmenizi talep ediyor. Bu uygulamanın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Kabul ediyor musunuz?</string>
+    <string name="privacy_authorize_network_error">Ağa bağlanın ve tekrar deneyin.</string>
+    <string name="privacy_authorize_privacy_policy">Gizlilik Politikası</string>
+    <string name="privacy_authorize_revoke">Geri al</string>
+    <string name="privacy_authorize_revoke_dialog_msg">Yetkiyi geri almanızdan sonra, uygulama veri toplamayı durduracak ve tüm ilgili veriler sunucudan silinecektir. Bu işlem uygulamayı kullanılamaz duruma getirebilir. Yetki yinede geri alınsın mı?</string>
+    <string name="privacy_authorize_revoke_dialog_title">Yetki geri alınıyor</string>
+    <string name="privacy_authorize_revoke_failed">Yeni geri alınamadı</string>
+    <string name="privacy_authorize_revoke_success">Yetki başarıyla geri alındı</string>
+    <string name="privacy_authorize_revoke_time">Geri al (%1$d saniye)</string>
+    <string name="privacy_authorize_revoke_title">Yetkilendirme &amp; geri alma</string>
+    <string name="privacy_authorize_revoking">Yetki geri alınıyor</string>
+    <string name="privacy_authorize_success">Yetki başarıyla verildi</string>
+    <string name="privacy_authorize_title">Yetki veriliyor</string>
     <string name="privacy_close_dlg_button_ok">Kapat</string>
     <string name="privacy_close_dlg_msg">Gizlilik koruma parolası kapalı olduğunda ögeleriniz koruma altında olmayacaktır</string>
     <string name="privacy_close_dlg_title">Uyarı</string>
@@ -3321,6 +3341,7 @@ Ayrıca bildirimleri kapatabilecek veya bildirimdeki işlem düğmelerini tetikl
     <string name="privacy_password_add_account">Ekle</string>
     <string name="privacy_password_add_account_info">Şifrenizi unutmanız durumda sıfırlayabilmeniz için Mi hesabınızı ekleyin</string>
     <string name="privacy_password_add_account_setting">Hesap &amp; gizlilik</string>
+    <string name="privacy_password_bind_account">Mi hesabı ekle</string>
     <string name="privacy_password_bind_account_immediate">Ekle</string>
     <string name="privacy_password_confirm_SecondSpace_Password">İkinci alan şifresini onaylayın</string>
     <string name="privacy_password_confirm_use_finger">Parmak izi ile kilidi aç</string>
@@ -3541,11 +3562,11 @@ UT arayüzü: %5$s"</string>
     <string name="reset_network_button_text">Ayarları sıfırla</string>
     <string name="reset_network_complete_toast">Ağ ayarları sıfırlandı</string>
     <string name="reset_network_confirm_title">Sıfırlansın mı?</string>
-    <string name="reset_network_desc">"Tüm ağ ayarları sıfırlanır\u000d
-\u0009\u000d
-\u0009\u000d
-\u0009\u000d
-"</string>
+    <string name="reset_network_desc">"Bu sıfırlama işlemi aşağıdakiler de dahil olmak üzere tüm ağ ayarlarınızı sıfırlayacaktır:
+
+"<li>Kablosuz ağ</li>"
+"<li>Mobil veri</li>"
+"<li>Bluetooth</li></string>
     <string name="reset_network_final_button_text">Ayarları sıfırla</string>
     <string name="reset_network_final_desc">Tüm ağ ayarlarınız sıfırlansın mı? Bu işlemi geri alamazsınız</string>
     <string name="reset_network_title">Ağ ayarlarını sıfırla</string>
@@ -3766,11 +3787,6 @@ Sabitlemeyi kullanmak için:
     <string name="sd_mount_summary" />
     <string name="sdcard_changes_instructions">Değişiklikler USB kablosu tekrar bağlandığında etkili olacaktır</string>
     <string name="sdcard_format">USB depolama alanını sil</string>
-    <string name="sdcard_optimization">Sahte SD kart optimizasyonu</string>
-    <string name="sdcard_optimization_cancel">İptal et</string>
-    <string name="sdcard_optimization_close">Kapat &amp; yeniden başlat</string>
-    <string name="sdcard_optimization_open">Aç</string>
-    <string name="sdcard_optimization_summary">SD kartınızı çok daha hızlı hale getirin</string>
     <string name="sdcard_setting">USB depolama</string>
     <string name="sdcard_settings_available_bytes_label">Kullanılabilir bayt:</string>
     <string name="sdcard_settings_bad_removal_status">USB bellek kullanılırken çıkarıldı</string>
@@ -3976,8 +3992,6 @@ Sabitlemeyi kullanmak için:
     <string name="search_xiaomi_account">Mi hesabı;Mi Hesap Kimliği;Hesap;Hesap kimliği</string>
     <string name="search_xspace">Çift uygulamalar;Klonlu uygulamalar</string>
     <string name="second_space">İkinci alan</string>
-    <string name="secondspace_category">İkinci ala</string>
-    <string name="secondspace_delete_space_title">İkinci alanı sil</string>
     <string name="secure_keyguard_business_title">Ekran kilidi ayarla</string>
     <string name="secure_lock_encryption_warning">Bir erişilebilirlik hizmetini açtığınız için cihazınız veri şifrelemeyi geliştirmek üzere ekran kilidinizi kullanmayacak.</string>
     <string name="security_dashboard_summary">Ekran kilidi, parmak izi</string>
@@ -4014,9 +4028,9 @@ Sabitlemeyi kullanmak için:
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Ad</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">Tamam</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">Telefonunuzun kilidini açmanın yanında satın alma işlemlerini ve uygulama erişimini yetkilendirmek için de parmak izinizi kullanabilirsiniz. <annotation id="url">Daha fazla bilgi edinin</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Ekran kilidi seçeneği devre dışı bırakıldı. Yine de satın alma işlemlerini ve uygulama erişimini yetkilendirmek için parmak izinizi kullanabilirsiniz\u000d
-\u0009\u000d
-"<annotation id="url">Daha fazla bilgi edinin</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Ekran kilidi seçeneği devre dışı bırakıldı. Daha fazla bilgi için kuruluşunuzdaki yöneticiyle iletişime geçin. "<annotation id="admin_details">Daha fazla ayrıntı</annotation>"
+
+Satın alma işlemlerini ve uygulama erişimini yetkilendirmek için parmak izinizi kullanmaya devam edebilirsiniz. "<annotation id="url">Daha fazla bilgi</annotation></string>
     <string name="security_settings_fingerprint_enroll_done">Bitti</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">Kayıt işlemi tamamlanmadı</string>
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı çalışmadı. Tekrar deneyin veya farklı bir parmak kullanın</string>
@@ -4030,9 +4044,9 @@ Sabitlemeyi kullanmak için:
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Atla</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">Devam et</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Parmak izi ekle</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">"Telefonunuzun kilidini açmak, satın alma işlemlerinizi yetkilendirmek veya uygulamalarda oturum açmak için parmak izi sensörüne dokunmanız yeterlidir\u000d
-\u000d
-Telefonunuza eklenen tüm parmak izleri bu işlemleri yapabilir; bu nedenle kimin parmak izini eklediğinize dikkat etmeniz gerekir"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Telefonunuzun kilidini açmak, satın alma işlemlerini yetkilendirmek veya uygulamalarda oturum açmak için parmak izi sensörüne dokunmanız yeterli. Kimin parmak izini eklediğinize dikkat etmeniz gerekir. Eklenen tek bir parmak iziyle bile bu işlemlerin tümü yapılabilir
+
+Not: Parmak iziniz güçlü bir desenden veya Pin'den daha az güvenli olabilir"</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Telefonunuzun kilidini açmak, satın alma işlemlerini onaylamak veya uygulamalarda oturum açmak için parmak izi sensörüne dokunmanız yeterli. Parmak izlerini ekleyeceğiniz kişiler konusunda dikkatli olun. Eklenen tek bir parmak iziyle bile bu işlemlerin tümü yapılabilir
 
 Not: Parmak iziniz güçlü bir desenden veya Pin'den daha az güvenli olabilir"</string>
@@ -4136,15 +4150,15 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="severe_threats_summary">Cana ve mala karşı ciddi tehditlerle ilgili uyarıları alın</string>
     <string name="severe_threats_title">Ciddi tehditler</string>
     <string name="share_remote_bugreport_action">Paylaş</string>
-    <string name="share_remote_bugreport_dialog_message">BT yöneticiniz, bu cihazda sorun gidermeye yardımcı olması için bir hata raporu istedi. Uygulamalar ve veriler paylaşılabilir. Bu durum, cihazınızı geçici olarak yavaşlatabilir</string>
-    <string name="share_remote_bugreport_dialog_message_finished">BT yöneticiniz, bu cihazda sorun gidermeye yardımcı olması için bir hata raporu istedi. Uygulamalar ve veriler paylaşılabilir</string>
+    <string name="share_remote_bugreport_dialog_message">BT yöneticiniz bu cihazda sorun gidermeye yardımcı olması için bir hata raporu istedi. Uygulamalar ve veriler paylaşılabilir. Bu durum, cihazınızı geçici olarak yavaşlatabilir</string>
+    <string name="share_remote_bugreport_dialog_message_finished">BT yöneticiniz bu cihazda sorun gidermeye yardımcı olması için bir hata raporu istedi. Uygulamalar ve veriler paylaşılabilir</string>
     <string name="share_remote_bugreport_dialog_title">Hata raporu paylaşılsın mı?</string>
     <string name="sharing_remote_bugreport_dialog_message">Bu hata raporu BT yöneticinizle paylaşılıyor. Daha fazla ayrıntı için kendisiyle iletişim kurun</string>
     <string name="short_summary_font_size">Metni daha büyük veya daha küçük yapın</string>
     <string name="show_all_anrs">"Tüm ANR'leri göster"</string>
     <string name="show_all_anrs_summary">Arka plan uygulamalar için uygulama yanıt vermiyor mesajını gösterir</string>
     <string name="show_all_apps">Tam cihaz kullanımını göster</string>
-    <string name="show_background_processes">Önbllğe alınan işlm göstr</string>
+    <string name="show_background_processes">Önbelleğe alınan işlemleri göster</string>
     <string name="show_connected_devices_summary">Bağlı cihazları görüntüle</string>
     <string name="show_connected_devices_title">Bağlı cihazlar</string>
     <string name="show_dev_already">Zaten geliştiricisiniz</string>
@@ -4340,7 +4354,7 @@ Cihazınızda yüklü durumdaki güvenilen bir kimlik bilgisi bunu mümkün kıl
     <string name="status_bar_settings_carrier_sim">"Sim %1$s: "</string>
     <string name="status_bar_settings_custom_carrier">Operatör adını düzenle</string>
     <string name="status_bar_settings_custom_wifi_name">Wifi adını düzenle</string>
-    <string name="status_bar_settings_enable_notification">Bildirimleri göster</string>
+    <string name="status_bar_settings_enable_notification">Bildirimler</string>
     <string name="status_bar_settings_expandable_under_keyguard">Kilit ekranında göster</string>
     <string name="status_bar_settings_long_click_sort">Konumu düzenlemek için basın &amp; basılı tutun</string>
     <string name="status_bar_settings_manage_notification">Uygulama bildirimleri</string>
@@ -4356,7 +4370,7 @@ Cihazınızda yüklü durumdaki güvenilen bir kimlik bilgisi bunu mümkün kıl
     <string name="status_bar_settings_show_floating_notification">Kayan bildirimler</string>
     <string name="status_bar_settings_show_floating_notification_summary">Kayan bildirimler ekranın üst kısmında görüntülendikten sonra otomatik olarak kaybolacaktır</string>
     <string name="status_bar_settings_show_flow_info">Akış ayrıntılarını göster</string>
-    <string name="status_bar_settings_show_home_message">Uygulama ikon işareti</string>
+    <string name="status_bar_settings_show_home_message">Uygulama simgesi</string>
     <string name="status_bar_settings_show_keyguard_notification">Kilit ekranı bildirimleri</string>
     <string name="status_bar_settings_show_network_speed">Bağlantı hızı</string>
     <string name="status_bar_settings_show_notification_icon">Uygulama bildirim simgeleri</string>
@@ -4671,6 +4685,8 @@ Google'ın kişilerinize, randevularınıza ve diğer bilgilerinize istediğiniz
     <string name="testing_usage_stats">Kullanım istatistikleri</string>
     <string name="testing_wifi_info">Wifi information</string>
     <string name="tether_and_hotspot_title">İnternet paylaşımı</string>
+    <string name="tether_auto_disable_summary">Bağlı cihaz yokken bağlantı noktasını otomatik olarak kapat</string>
+    <string name="tether_auto_disable_title">Bağlantı noktasını otomatik olarak kapat</string>
     <string name="tether_data_usage_limit">Tek seferlik veri sınırı</string>
     <string name="tether_data_usage_limit_summary">Veri sınırı kişisel bağlantı noktanızı bir sonraki açışınızda etkili olur</string>
     <string name="tether_devices_management_title">Cihazları yönet</string>
@@ -4984,6 +5000,7 @@ Kaydedilmiş parmak izleriniz de bu profilden kaldırılacaktır. Profilinizin k
     <string name="use_open_wifi_automatically_summary">Yüksek kaliteli genel ağlara otomatik olarak bağlan</string>
     <string name="use_open_wifi_automatically_title">Açık ağlara bağlan</string>
     <string name="use_personalized_ad_service">Reklam tanımlayıcı</string>
+    <string name="use_personalized_ad_service_summary">Reklam önerimi özelliği açık olduğunda görüntülenen reklam miktarı kadar reklam görüntülenmeye devam edilir ancak reklamlar kişisel bilgilerinize veya kullanım alışkanlıklarınıza göre görüntülenmez</string>
     <string name="use_privacy_password_immediate">Kullan</string>
     <string name="use_system_language_to_select_input_method_subtypes">Sistemin dilini kullan</string>
     <string name="use_this_wlan">Bağlı kal</string>
@@ -5143,6 +5160,7 @@ Ekle (+) düğmesini kullanarak kelime ekleyin"</string>
     <string name="virus_scanner_update_lib">Veritabanını güncelle</string>
     <string name="vision_settings_description">Bu cihazı gereksinimlerinize uygun şekilde özelleştirebilirsiniz. Bu erişilebilirlik özellikleri daha sonra ayarlardan değiştirilebilir</string>
     <string name="vision_settings_title">Görüş ayarları</string>
+    <string name="voice_assist">Xiao Ai</string>
     <string name="voice_category">Konuşma</string>
     <string name="voice_helper_title">Sesli asistan</string>
     <string name="voice_input_output_settings">Ses girişi ve çıkışı</string>
@@ -5303,9 +5321,6 @@ Ekle (+) düğmesini kullanarak kelime ekleyin"</string>
     <string name="wfd_menu_teardown">Dur</string>
     <string name="wfd_settings_description">Wifi kullanarak harici bir ekrana bağlanın</string>
     <string name="wfd_settings_title">Kablosuz ekran</string>
-    <string name="wfd_status_dialog_disconnect">Bağlantıyı kes</string>
-    <string name="wfd_status_dialog_message">Ekran içeriği başka bir ekran aygıtında kablosuz bağlantı yoluyla görüntüleniyor</string>
-    <string name="wfd_status_dialog_title">Kablosuz ekran</string>
     <string name="wfd_wps_keypad">Tuş takımını kullan</string>
     <string name="wfd_wps_pbc">Pin kodunu girin</string>
     <string name="whetstone_level_reboot">Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır</string>

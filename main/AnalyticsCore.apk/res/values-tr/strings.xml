@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_google_play_services_unknown_issue">%1$s Google Play hizmetleri ile ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
-    <string name="s1">Görüntüyü kaydet</string>
-    <string name="s2">Reklamın resim galerisine resim saklamasına izin verilsin mi?</string>
-    <string name="s3">Kabul et</string>
-    <string name="s4">Reddet</string>
-    <string name="s5">Takvim etkinliği oluştur</string>
-    <string name="s6">Reklamın bir takvim etkinliği oluşturmasına izin verilsin mi?</string>
-    <string name="s7">Test reklamı</string>
-    <string name="analytics_version_name">2.4.9</string>
+    <string name="analytics_version_name">2.4.12</string>
     <string name="app_name">Analitik</string>
 </resources>

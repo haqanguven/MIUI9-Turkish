@@ -92,6 +92,7 @@
     <string name="android_add_account_label">@android:string/add_account_label</string>
     <string name="android_byteShort">@android:string/byteShort</string>
     <string name="android_kilobyteShort">@android:string/kilobyteShort</string>
+    <string name="config_xiaoaiComponent">com.miui.voiceassist/com.xiaomi.voiceassistant.VoiceService</string>
     <string name="miui">miui</string>
     <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
     <string name="securespaces_extension_accelerometer_serviceName" />

@@ -50,6 +50,7 @@
     <string name="actionbar_share">Paylaş</string>
     <string name="actionbar_textselection_title">Metin seçimi</string>
     <string name="actionbar_web_search">İnternette ara</string>
+    <string name="ad_btn_default_text">Yükle</string>
     <string name="adblock_force_updating_rules_toast">Reklam engelleyici güncelleniyor</string>
     <string name="adblock_rules_not_updated_toast">Güncellenemedi</string>
     <string name="adblock_rules_restore">Engeli kaldır</string>
@@ -133,6 +134,7 @@
     <string name="browserFrameNetworkErrorLabel">Bağlantı hatası</string>
     <string name="cancel">İptal et</string>
     <string name="cannot_download">Yalnızca http veya https adresleri indirilebilir</string>
+    <string name="card_setting_close_recommend">Tavsiyeleri al</string>
     <string name="choosertitle_sharevia">Şunu kullanarak paylaş</string>
     <string name="clear_history">Geçmişi temizle</string>
     <string name="clear_most_visited">Yakın tarih</string>
@@ -514,6 +516,10 @@ Bu sayfadan ayrılılsın mı?"</string>
     <string name="nav_bottom_bar_new_tab">Yeni sekme</string>
     <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
     <string name="nav_screen_container_tab_normal">Normal sekme</string>
+    <string name="nav_screen_incognito_message">"Göz atma ve arama geçmişi gizli sekmede saklanmaz
+İndirdiğiniz dosyaların ve eklediğiniz yer imlerinin yine de kaydedileceğini unutmayın"</string>
+    <string name="nav_screen_incognito_title">Gizli sekme</string>
+    <string name="navigation_delete_all">tüm sekmeleri kapatmak için sola veya sağa doğru kaydırın</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">İptal et</string>
     <string name="navigationbar_rightbutton_actiontext_go">Git</string>
     <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
@@ -563,6 +569,7 @@ Bu sayfadan ayrılılsın mı?"</string>
     <string name="pref_adblock_title">Reklam engelleyici</string>
     <string name="pref_auto_update_under_wifi">Wifi kullanarak güncelle</string>
     <string name="pref_automatic_matching_searchengines_title">Sık kullanılan arama motoruna geç</string>
+    <string name="pref_card_setting">En iyi siteler sıralaması</string>
     <string name="pref_category_hint">Kategori</string>
     <string name="pref_check_security_url_summary">İnternet sitesi bağlantı adreslerini güvenliklerini kontrol etmek amacıyla Mi sunucularına gönder</string>
     <string name="pref_check_security_url_summary_international">Tarayıcıya daha ilgili öneriler almak için ziyaret ettiğiniz internet sitelerinin bağlantı adreslerine ulaşım izni verin</string>
@@ -932,9 +939,6 @@ Bu sayfadan ayrılılsın mı?"</string>
     <string name="webview_find_on_page">Sayfada bul</string>
     <string name="webviewchromium_private_browsing_warning">"Bu özellik Android'in bu sürümünde desteklenmemektedir"</string>
     <string name="week_picker_dialog_title">Haftayı ayarla</string>
-    <string name="ad_btn_default_text">Yükle</string>
-    <string name="card_setting_close_recommend">Sana tavsiyem</string>
-    <string name="pref_card_setting">Kart ayarı</string>
     <string name="alisdk_message_10000_action">请检查对应名称模块的库文件是否包含在当前开发应用的依赖库里面</string>
     <string name="alisdk_message_10000_message">JS Bridge 载入器未找到名称为 {0} 的模块</string>
     <string name="alisdk_message_10000_name">JS_BRIDGE_MODULE_NOT_FOUND</string>

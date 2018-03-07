@@ -1713,6 +1713,7 @@ Bir sonraki başarısız oldu girişimden sonra Pin2 ile ilgili işlevler kilitl
     <string name="cmcc_ut_data_enable_prompt">VoLTE ağı kullanarak bağlanılamadı. Mobil veri bağlantınızı şimdi açın</string>
     <string name="volte_switch_title">VoLTE</string>
     <string name="volte_switch_summary">Ses ve görüntülü arama kalitesini arttırmak için VoLTE kullanın</string>
+    <string name="volte_switch_summary2">Bu özelliği kullanmadan önce operatörünüzün bu özelliği desteklediğinden emin olun. Aksi takdirde düzenli aramalar etkilenebilir</string>
     <string name="volte_switch_not_support_summary">Mobil veri Sim kartlarında VoLTE desteklenmemektedir</string>
     <string name="volte_switch_not_support_summary2">VoLTE görüşmeleri operatör tarafından desteklenmiyor</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">"VoLTE görüşmeleri her iki Sim yuvası için 4G bağlantısı gerektirir. Şimdi çift 4G'ye geçelim mi?"</string>
@@ -1720,6 +1721,9 @@ Bir sonraki başarısız oldu girişimden sonra Pin2 ile ilgili işlevler kilitl
     <string name="dual_4g_switch_summary">Her iki Sim yuvası için 4G bağlantısına izin verin</string>
     <string name="turn_on_dual_4g_failed">Çift 4G açılamadı</string>
     <string name="turn_off_dual_4g_failed">Çift 4G kapatılamadı</string>
+    <string name="vice_slot_volte_data_switch_title">İkinci Sim kartta VoLTE aramaları yapılırken mobil veri kullan</string>
+    <string name="vice_slot_volte_data_switch_summary">VoLTE aramaları sırasında cihaz ikinci Sim kartı kullanarak bir mobil veri ağına bağlanır</string>
+    <string name="vice_slot_volte_data_switch_prompt">Cihazınız VoLTE aramları sırasında ikinci Sim kartı kullanarak bir mobil veri ağına bağlanacaktır. Bu özellik ek veri ücretlerine neden olabilir. Tarife detaylarınız için yerel operatörünüzle iletişime geçin</string>
     <string name="call_settings_primary_user_only">Arama ayarları yalnızca birincil kullanıcı tarafından değiştirilebilir</string>
     <string name="roaming_notification_title">Dolaşım modu etkinleştirilmiş gibi görünüyor</string>
     <string name="roaming_notification_content">Aramaları daha kolay hale getirmek için ülke kodlarını otomatik olarak ekleyebilirsiniz</string>
@@ -1761,7 +1765,6 @@ Bir sonraki başarısız oldu girişimden sonra Pin2 ile ilgili işlevler kilitl
     <string name="dialpad_pqrs">PQRS</string>
     <string name="dialpad_tuv">TUV</string>
     <string name="dialpad_wxyz">WXYZ</string>
-    <string name="change_data_preference_4g_only_prompt">"4G'lik bir Sim kartınız varmış gibi görünüyor. Mobil veri için varsayılan olarak ayarla mı?"</string>
     <string name="volte_provision_notification_activate">Etkinleştir</string>
     <string name="volte_provision_title">VoLTE aramalarını etkinleştir</string>
     <string name="volte_provision_text">VoLTE aramaları normal aramalara oranla daha iyi kalite sunar. Etkinleştirmek için mesaj gönderilsin mi?</string>
@@ -1786,6 +1789,11 @@ Bir sonraki başarısız oldu girişimden sonra Pin2 ile ilgili işlevler kilitl
     <string name="cfnry_time_twenty_five_sec">25 saniye</string>
     <string name="cfnry_time_thirty_sec">30 saniye</string>
     <string name="cfnry_time_setting_title">Bekleme süresini ayarla</string>
+    <string name="prompt_when_turnon_volte_without_lte">"LTE şebekeleri artık mevcut değil. VoLTE'yi açmak düzenli aramalar yapmanızı engelleyebilir"</string>
+    <string name="prompt_to_turnoff_volte_when_failed">"VoLTE hizmetleri mevcut değildir. Bir arama yapmak için VoLTE'yi kapatın"</string>
+    <string name="volte_tips_when_turn_on">Çin telekom VoLTE hizmetleri sadece LTE şebekesi kapsama alanlarında sağlanmaktadır</string>
+    <string name="close">Kapat</string>
+    <string name="prompt_to_turnoff_volte_when_supp_service">"Servis mevcut değil. Ayarlardan VoLTE'yi kapatın"</string>
     <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/GSM/WCDMA/CDMA/EVDO</string>
     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_choice">TD-SCDMA/GSM/WCDMA/LTE</string>

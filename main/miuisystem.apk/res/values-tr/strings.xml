@@ -196,8 +196,4 @@
     <string name="cta_check_reminder">Tekrar gösterme</string>
     <string name="cta_button_quit">Çık</string>
     <string name="cta_button_continue">Kabul et</string>
-    <string name="group_name_contacts">Kişiler</string>
-    <string name="group_name_friends">Arkadaşlar</string>
-    <string name="group_name_family">Aile</string>
-    <string name="group_name_coworkers">Meslektaşlar</string>
 </resources>

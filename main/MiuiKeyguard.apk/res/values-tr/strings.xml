@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="delete">Sil</string>
     <string name="unlockscreen_recharging_message">Şarj oluyor: %%%d</string>
     <string name="unlockscreen_recharge_completed">Pil şarj oldu</string>
     <string name="unlockscreen_low_battery">Şarj cihazını bağlayın</string>
     <string name="lockscreen_charging_msg">Şarj oluyor</string>
+    <string name="reset_device_tip">Yavaş şarj ediliyor. Lütfen telefonunuzun pozisyonunu değiştirin</string>
+    <string name="reset_device_detail_tip">Kablosuz şarj etme şarj hızını sağlamak için lütfen telefon tabanını hizalayın</string>
+    <string name="wireless_charge_stop">Kablosuz şarj durdu</string>
+    <string name="change_to_ac_charging">Kablosuz şarja geçildi</string>
+    <string name="wireless_charge_dialog_title">Pozisyon dengesini lütfen yeniden konumlandırın</string>
+    <string name="wireless_charge_dialog_cancel">İptal et</string>
     <string name="emergency_call_string">Acil</string>
     <string name="forget_password_string">Şifremi unuttum</string>
     <string name="input_puk_code">Puk kodunu girin</string>
@@ -141,11 +148,11 @@
     <string name="face_unlock_rise">Kafanızı eğin</string>
     <string name="face_unlock_down">Kafanızı kaldırın</string>
     <string name="face_unlock_quality">Yüzünüz net görüntülenemedi</string>
-    <string name="face_unlock_reenter_title">Yüz verilerinizi tekrar kaydedin</string>
-    <string name="face_unlock_reenter_content">Yüz kilidini açma algoritması güncelleniyor. Yüz bilgilerini tekrar kaydetmek için dokunun</string>
     <string name="lock_screen_no_sim_card">Sim kart yok</string>
     <string name="do_disclosure_generic">Bu cihaz kuruluşunuz tarafından yönetilir</string>
     <string name="do_disclosure_with_name">Bu cihaz %s tarafından yönetiliyor</string>
+    <string name="face_unlock_reenter_title">Yüz verilerinizi tekrar kaydedin</string>
+    <string name="face_unlock_reenter_content">Yüz kilidini açma algoritması güncelleniyor. Yüz bilgilerini tekrar kaydetmek için dokunun</string>
     <string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">Duvar kağıtları</string>
 </resources>

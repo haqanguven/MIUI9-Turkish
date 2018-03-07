@@ -987,18 +987,28 @@
         <item>1</item>
     </integer-array>
     <string-array name="region_support_volte">
-        <item>TR;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,vince,rosy</item>
+        <item>HK;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,vince,rosy</item>
         <item>CN</item>
         <item>IN</item>
         <item>MY</item>
         <item>KR;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron</item>
         <item>KH;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,ugg,ugglite,rosy,riva</item>
         <item>US;scorpio,chiron</item>
-        <item>TW;sagit,chiron</item>
+        <item>TW;sagit,chiron,vince,rosy</item>
         <item>MO;sagit,chiron</item>
         <item>JP;sagit,chiron</item>
-        <item>ID;riva</item>
-        <item>SG;vince</item>
-        <item>RU;vince</item>
+        <item>ID;riva,vince,rosy</item>
+        <item>SG;vince,rosy</item>
+        <item>RU;vince,rosy</item>
+    </string-array>
+    <string-array name="devices_support_ct_volte">
+        <item>tiffany</item>
+        <item>vince</item>
+        <item>sagit</item>
+        <item>chiron</item>
+        <item>polaris</item>
+        <item>sirius</item>
+        <item>nitrogen</item>
+        <item>dipper</item>
     </string-array>
 </resources>

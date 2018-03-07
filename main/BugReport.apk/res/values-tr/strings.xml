@@ -222,6 +222,14 @@
     <string name="feedback_choose_module_hint">Gerekli</string>
     <string name="feedback_choose_reproductivity">Doğurganlık</string>
     <string name="feedback_title_reproductivity">Reprodüktifliği seçin</string>
+    <string name="feedback_select_problem_select_desc">Sorunlar seçildi</string>
+    <string name="feedback_select_problem_not_select_desc">Sorunlar seçilmedi</string>
+    <string name="feedback_select_suggestion_select_desc">Öneriler seçildi</string>
+    <string name="feedback_select_suggestion_not_select_desc">Öneriler seçilmedi</string>
+    <string name="feedback_select_upload_log_select_desc">Kayıtlara ekle seçildi</string>
+    <string name="feedback_select_upload_log_not_select_desc">Kayıtlara ekle seçilmedi</string>
+    <string name="feedback_select_modem_log_select_desc">Modem kayıtlarını ekle seçildi</string>
+    <string name="feedback_select_modem_log_not_select_desc">Modem kayıtlarını ekle seçilmedi</string>
     <string name="feedback_report_remind_login_desc">Mühendislerimizin sizinle iletişime geçebilmeleri için Mi Hesabınız ile oturum açın</string>
     <string name="feedback_report_remind_login_desc2">Rapor durumunuzu Raporlarım menüsünde görüntüleyebilirsiniz</string>
     <string name="feedback_history_remind_login_desc">Raporlarınızın detaylarını ve ilerleme sürecini görüntülemek için Mi Hesabınız ile oturum açın</string>

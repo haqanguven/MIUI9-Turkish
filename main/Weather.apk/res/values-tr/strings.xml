@@ -38,8 +38,8 @@
     <string name="app_name">Hava durumu</string>
     <string name="aqi_data_source">Colorful Clouds tarafından sağlanmaktadır</string>
     <string name="aqi_desc">Hava Kalite İndeksi</string>
-    <string name="aqi_detail_24_hours">24-saatlik hava durumu</string>
-    <string name="aqi_detail_5_days">5-günlük hava durumu</string>
+    <string name="aqi_detail_24_hours">24 saatlik hava durumu</string>
+    <string name="aqi_detail_5_days">5 günlük hava durumu</string>
     <string name="aqi_detail_sub_title">HKE ayrıntıları</string>
     <string name="aqi_detail_subtitle">HKE %1$s</string>
     <string name="aqi_detail_title">Hava Kalite İndeksi</string>
