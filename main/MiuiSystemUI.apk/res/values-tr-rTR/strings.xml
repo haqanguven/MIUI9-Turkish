@@ -824,6 +824,7 @@ EEEE"</string>
     <string name="accessibility_brightness_slider">Parlaklık ayarlayıcı</string>
     <string name="click_to_return_multi_window">Ekran bölmeye geri dönmek için dokunun</string>
     <string name="recent_dock_tip">Uygulamaları seçmek için dokunun</string>
+    <string name="recent_cannot_dock">İkinci alanda çoklu pencere moduna girilemez</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Ekran bölme özelliği kilit ekranında desteklenmiyor</string>
     <string name="un_important_notifications">Önemsiz bildirimler</string>
     <string name="as_important">Önemli</string>

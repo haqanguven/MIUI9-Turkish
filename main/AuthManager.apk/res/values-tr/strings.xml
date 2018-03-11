@@ -14,10 +14,6 @@
     <string name="HIPS_Perm_Location_Desc">Kesin konumu alır (GPS ve ağ tabanlı)</string>
     <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini al</string>
     <string name="HIPS_Perm_PhoneID_Desc">"Telefon numarası, IMEI ve IMSI'ye erişir"</string>
-    <string name="HIPS_Perm_SMS">Mesaj yazma ve silme</string>
-    <string name="HIPS_Perm_SMS_Desc">Mesaj yazar ve siler</string>
-    <string name="HIPS_Perm_MMS">Multimedya yazma ve silme</string>
-    <string name="HIPS_Perm_MMS_Desc">Multimedya mesajları yazar ve siler</string>
     <string name="HIPS_Perm_Contact">Kişileri değiştirme ve silme</string>
     <string name="HIPS_Perm_Contact_Desc">Kişilerinizi değiştirir ve siler</string>
     <string name="HIPS_Perm_CallLog">Arama geçmişi yazma veya silme</string>

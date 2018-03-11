@@ -211,6 +211,8 @@
     <string name="contact_detail_calllog_call_note_tips">Notlar</string>
     <string name="contact_detail_calllog_call_record_tips">Kaydedilen aramalar</string>
     <string name="contact_detail_calllog_empty">Geçmiş yok</string>
+    <string name="contact_detail_entry_pay">Ödeme</string>
+    <string name="contact_detail_entry_pay_dialog_title">Telefon numarasını seç</string>
     <string name="contact_detail_menu_delete_miprofile">Kartı sil</string>
     <string name="contact_detail_miprofile_accept">Kişi kartlarını değiştir</string>
     <string name="contact_detail_miprofile_accept_fail_toast">Kişi kartları değiştirilemedi</string>
@@ -750,14 +752,14 @@ Neden: %s"</string>
     <string name="noContactsWithPhoneNumbers">Telefon numarası olan hiçbir kişi bulunamadı</string>
     <string name="noFavoritesHelpText">"Favori kişileriniz bulunmamaktadır
 
-Favoriler listenize kişi eklemek için:\u000d
+Favoriler listenize kişi eklemek için:
 
 Kişilere dokunun
 
 Favori listenize eklemek istediğiniz kişiye dokunun
 
 Kişinin adının yanındaki yıldız simgesine dokunun
- \u000d
+
 "</string>
     <string name="noGroups">Grup yok</string>
     <string name="noMatchingContacts">Eşleşen kişi bulunamadı</string>
@@ -1232,8 +1234,6 @@ Lütfen ilgili seçeneklerden birini seçin:"</string>
     <string name="lunar_leap">Takvime eklenen</string>
     <string name="lunar_yue">Ay</string>
     <string name="solar_calendar">Gregoryen takvimi</string>
-    <string name="contact_detail_entry_pay">Ödeme</string>
-    <string name="contact_detail_entry_pay_dialog_title">Telefon numarasını seç</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_extensions_to_consider" />
     <string name="config_export_file_extension">vcf</string>

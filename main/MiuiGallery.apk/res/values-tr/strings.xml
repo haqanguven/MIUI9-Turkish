@@ -77,8 +77,8 @@
     <string name="album_videos_name">Videolar</string>
     <string name="album_wallpaper">Duvar kağıtları</string>
     <string name="alert_secret_album_enter">Anladım</string>
-    <string name="alert_secret_album_message">Gizli albümü görüntülemek için, Albümler sekmesinde aşağı doğru kaydırın</string>
-    <string name="alert_secret_album_message_lower_case">görüntülemek için Albümler sekmesinde aşağı kaydırın</string>
+    <string name="alert_secret_album_message">Gizli albümü görüntülemek için albümler sekmesinde aşağı doğru kaydırın</string>
+    <string name="alert_secret_album_message_lower_case">Görüntülemek için albümler sekmesinde aşağı doğru kaydırın</string>
     <string name="alert_secret_album_title">Gizli albüm nasıl görüntülenir</string>
     <string name="all_faces">Bu kişinin fotoğrafları</string>
     <string name="all_items_synced">Tüm albümler Mi bulut alanına yedeklendi</string>
@@ -164,7 +164,7 @@
     <string name="backup_sync_dialog_title">Senkronizasyon kapalı</string>
     <string name="backup_sync_error_btn_text">Yeniden deneyin</string>
     <string name="backup_sync_error_desc">Mi buluta bağlanılamıyor</string>
-    <string name="backup_sync_error_title">Ögeler senkronize edilemedi</string>
+    <string name="backup_sync_error_title">Öğeler senkronize edilemedi</string>
     <string name="backup_sync_off_btn_text">Aç</string>
     <string name="backup_sync_off_desc">Fotoğraf ve videolarınızı yedeklemek için Mi bulut ile senkronizasyon özelliğini açın</string>
     <string name="backup_sync_off_title">Mi bulut ile senkronizasyon kapalı</string>
@@ -173,7 +173,7 @@
     <string name="backup_with_gprs_dialog_title">Mobil veri kullanarak yedekle</string>
     <string name="backuped_desc">Fotoğraflar ve videolar Mi buluta yedeklenir</string>
     <string name="backuped_title">Başarıyla yedeklendi</string>
-    <string name="backuping_title_gprs">Mobil veri kullanılarak yedekleniyor…</string>
+    <string name="backuping_title_gprs">Mobil veri kullanılarak yedekleniyor</string>
     <string name="backuping_title_normal">Yedekleniyor…</string>
     <string name="begin_share">Bebek albümü %s oluşturuldu. Albümü şimdi paylaşabilirsiniz</string>
     <string name="begin_share_toast">Paylaşmadan önce ayrı bir çocuk albümü oluşturulsun mu?</string>
@@ -196,7 +196,7 @@
     <string name="cast_devices_unavailable_title">Projektör bulamadı</string>
     <string name="change_to_face_mode">Yalnızca yüzü göster</string>
     <string name="change_to_photo_mode">Tam önizlemeleri göster</string>
-    <string name="change_to_visible">Bu kişiyi geri yükle?</string>
+    <string name="change_to_visible">Bu kişiyi geri yüklemek istiyor musun?</string>
     <string name="choose_baby_sexy">Cinsiyet</string>
     <string name="choose_owner_relation">İlişki</string>
     <string name="choose_people">Bir kişinin albümünü seçin</string>
@@ -219,7 +219,7 @@
     <string name="cleaner_slim_start">Optimize et</string>
     <string name="cleaner_slim_title">Fotoğrafları optimize et</string>
     <string name="cleaner_space_description">boşaltılabilir</string>
-    <string name="cleaner_space_detail_description">Depolama alanı boşaltmak için Galerinizdeki fotoğrafları temizleyin</string>
+    <string name="cleaner_space_detail_description">Depolama alanı boşaltmak için galerinizdeki fotoğrafları temizleyin</string>
     <string name="cleaner_stop_scan">Taramayı durdur</string>
     <string name="click_download_gif">"Gif'i indirmek için dokunun"</string>
     <string name="click_top_right">Bu simgeye dokunun</string>
@@ -230,8 +230,8 @@
     <string name="cloud_screenshots_display_name">Ekran görüntüleri</string>
     <string name="cloud_settings">Galeri yedekleri</string>
     <string name="cloud_storage_extend">Bulut alanını genişlet</string>
-    <string name="cloud_storage_ok_append_desc">Kullanılabilir %s</string>
-    <string name="cloud_storage_ok_desc">Mi bulut depolama alanı %s</string>
+    <string name="cloud_storage_ok_append_desc">Kullanılabilir: %s</string>
+    <string name="cloud_storage_ok_desc">Mi bulut depolama alanı: %s</string>
     <string name="cloud_storage_ok_title">Mi bulut depolama alanı yeterli</string>
     <string name="cloud_storage_photo_title">Fotoğraflar</string>
     <string name="cloud_storage_subtitle">Tüm öğeler Mi bulut alanına yedeklendi</string>

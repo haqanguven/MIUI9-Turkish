@@ -1741,8 +1741,8 @@ Kapatmak ister misiniz?"</string>
     <string name="zen_mode_default_weeknights_name">Hafta içi gece</string>
     <string name="zen_mode_downtime_feature_name">Bildirim istenmeyen zaman</string>
     <string name="zen_mode_feature_name">Rahatsız etmeyin</string>
-    <string name="zen_mode_forever">Rahatsız Etmeyin ayarını kapatana kadar</string>
-    <string name="zen_mode_forever_dnd">Rahatsız Etmeyin ayarını kapatana kadar</string>
+    <string name="zen_mode_forever">Rahatsız etmeyin ayarını kapatana kadar</string>
+    <string name="zen_mode_forever_dnd">Rahatsız etmeyin ayarını kapatana kadar</string>
     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Şu saate kadar: %1$s</string>
 </resources>

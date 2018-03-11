@@ -37,7 +37,7 @@
     <string name="action_item_download_all_cloud">Tüm şarkıları indir</string>
     <string name="action_item_favorite">Favori</string>
     <string name="action_item_hide">Gizle</string>
-    <string name="action_item_hifi">Kulaklıklar &amp; Ses efektleri</string>
+    <string name="action_item_hifi">Kulaklıklar &amp; ses efektleri</string>
     <string name="action_item_play_all">Tümünü oynat</string>
     <string name="action_item_remove">Kaldır</string>
     <string name="action_item_remove_from_favorite">Favoriden kaldır</string>
@@ -132,9 +132,9 @@
     <string name="confirm">Tamam</string>
     <string name="connecting_apk">Bağlanılıyor</string>
     <string name="continue_backup">Devam</string>
-    <string name="cp_info_first">"Çevrimiçi müzik akış servisi\u000d
-esas olarak Ultimate Inc. tarafından sağlanmaktadır"</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
+    <string name="cp_info_first">"
+"</string>
+    <string name="cp_info_second"> </string>
     <string name="create_order_fail">Sipariş oluşturulamadı. Yeniden deneyin</string>
     <string name="create_playlist">Oynatma listesi oluştur</string>
     <string name="create_playlist_failure">Liste oluşturulamadı</string>
@@ -165,7 +165,7 @@ esas olarak Ultimate Inc. tarafından sağlanmaktadır"</string>
     <string name="dialog_cannot_resume">İndirme kesildi. Buna devam edilemez</string>
     <string name="dialog_clear_history">Son çalınan şarkı listesi temizlensin mi?</string>
     <string name="dialog_confirm_delete_checkbox_message">Yanı sıra yerel dosyaları silin</string>
-    <string name="dialog_failed_body">"Daha sonra indirmek\u000d
+    <string name="dialog_failed_body">"Daha sonra indirmek
 veya dosyayı sıradan kaldırmak denensin mi?"</string>
     <string name="dialog_file_already_exists">İndirilemiyor. Hedef dosya zaten var</string>
     <string name="dialog_file_missing_body">İndirilen dosya bulunamıyor</string>
@@ -373,10 +373,10 @@ veya dosyayı sıradan kaldırmak denensin mi?"</string>
     <string name="impunity_declaration_ignore">Tekrar gösterme</string>
     <string name="impunity_declaration_negative_text">Çık</string>
     <string name="impunity_declaration_positive_text">Kabul et</string>
-    <string name="impunity_declaration_settings">Hizmet Şartlarını görüntüle</string>
+    <string name="impunity_declaration_settings">Hizmet şartlarını görüntüle</string>
     <string name="impunity_declaration_summary">Müzik uygulamasının her açılışında Hizmet Şartlarını görüntüle</string>
-    <string name="impunity_declaration_title">Hizmet Şartları</string>
-    <string name="in_searching_please_wait">Aranıyor…</string>
+    <string name="impunity_declaration_title">Hizmet şartları</string>
+    <string name="in_searching_please_wait">Aranıyor</string>
     <string name="individuation_recommend_message">Tercihlerinize göre kişiselleştirilmiş tavsiyeler almak için açın</string>
     <string name="individuation_recommend_switch_message">Bu özelliğini kapatmanız kişiselleştirilmiş Mi müzik servislerini etkileyecektir. Yine de kapatılsın mı?</string>
     <string name="individuation_recommend_title">Tavsiyeler</string>
@@ -387,14 +387,14 @@ veya dosyayı sıradan kaldırmak denensin mi?"</string>
     <string name="is_scanning">Depolama denetleniyor</string>
     <string name="is_scanning_support_online">"Depolama denetleniyor
 (Bu arada çevrimiçi müzik yayını yapabilir)"</string>
-    <string name="karaoke_message">Bu özelliği kullanabilmek için Karaoke eklentisini indirin ve yükleyin</string>
+    <string name="karaoke_message">Bu özelliği kullanabilmek için karaoke eklentisini indirin ve yükleyin</string>
     <string name="karaoke_my_studio">Stüdyom</string>
     <string name="karaoke_negative_text">Daha sonra</string>
     <string name="karaoke_positive_text">Tamam</string>
     <string name="karaoke_title">Karaoke</string>
     <string name="keep_queued_download">Koru</string>
     <string name="ktv_playlist">KTV oynatma listesi</string>
-    <string name="latest_song">Geçmişi oynat(%d)</string>
+    <string name="latest_song">Geçmişi oynat (%d)</string>
     <string name="like">Beğen</string>
     <string name="list_item_play_all_tracks">Tümünü oynat</string>
     <string name="load_shuffle">Yükleniyor</string>
@@ -510,7 +510,7 @@ veya dosyayı sıradan kaldırmak denensin mi?"</string>
     <string name="online_music_enabled_title">Ücretsiz akış burada</string>
     <string name="online_recommend">Liste</string>
     <string name="online_service_open_tip">Çevrimiçi müzik hizmeti açık</string>
-    <string name="online_service_title">Çevrimiçi Hizmetleri</string>
+    <string name="online_service_title">Çevrimiçi hizmetleri</string>
     <string name="online_switch">Çevrimiçi içerik hizmeti</string>
     <string name="online_switch_message">Vip hizmetler ve tavsiyeler çevrimiçi hizmetlerde kapatılır. Yinede kapatılsın mı?</string>
     <string name="online_switch_setting">Çevrimiçi içerik ayarları</string>
@@ -656,7 +656,7 @@ veya dosyayı sıradan kaldırmak denensin mi?"</string>
     <string name="shuffle_off_notif">Karışık kapalı</string>
     <string name="shuffle_on_notif">Karışık açık</string>
     <string name="similar_songs">Benzer şarkılar</string>
-    <string name="sleep_mode">Uyku xamanlayıcısı</string>
+    <string name="sleep_mode">Uyku zamanlayıcısı</string>
     <string name="sleep_mode_canceled">Uyku modu kapatıldı</string>
     <string name="sleep_mode_summary">Süre bitince oynatıcıyı durdur</string>
     <string name="sleep_mode_title">Uyku zamanlayıcısı</string>

@@ -78,6 +78,16 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="dlg_add_white">İstisnalar listesine eklenen yeni numara ve mesajlar arama geçmişi ve Mesajlar menüsünde görüntülenir. Ancak daha önce engellenen ögeler görüntülenmez. Seçili numaralar istisnalara eklensin mi?</string>
     <string name="dlg_not_block_sms">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen ögeler Mesajlar menüsünde görüntülenmeyecektir</string>
     <string name="dlg_not_block_call">Seçili numaraların engeli kaldırılsın mı? Numaralar istisnalara eklenecektir. Ancak daha önce engellenen ögeler arama geçmişinde görüntülenmeyecektir</string>
+    <string name="dlg_update_date_title">Uyarı</string>
+    <string name="dlg_update_data_content">Wifi ağına bağlı değilsiniz. Mobil verileri kullanmak ek ücretler oluşturabilir. Devam edilsin mi?</string>
+    <string name="dlg_sec_network_unavailable">İnternet bağlantısı kısıtlandığından güvenlik uygulaması güncellenemiyor. Güvenliğin uygulamasının internete bağlanmasına izin verilsin mi?</string>
+    <string name="dlg_update_btn_contiue">Devam et</string>
+    <string name="dlg_update_btn_open">İzin ver</string>
+    <string name="dlg_update_updating">Güncelleniyor</string>
+    <string name="toast_update_nonetwork">Ağa bağlanılamadı</string>
+    <string name="toast_update_fail">Güncellenemedi</string>
+    <string name="toast_update_success">Güncellendi</string>
+    <string name="toast_update_notneed">Güncel</string>
     <string name="menu_call">Çevir</string>
     <string name="menu_sms">Mesaj gönder</string>
     <string name="menu_bl_call_log">Engellenmiş aramaları görüntüle</string>
@@ -258,6 +268,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Numarayı bildir</string>
     <string name="sms_smart_engine_update">Mesaj filtresini otomatik olarak güncelle</string>
+    <string name="sms_smart_engine_update_now">Güncelleştir</string>
     <string name="mark_number_setting_guide_title">Bildirilen numaraları engelle</string>
     <string name="mark_number_setting_guide_content1">Bildirilen numaralardan gelen aramalar engellensin mi?</string>
     <string name="mark_number_setting_guide_content2">Diğer kullanıcılar tarafından bildirilen numaralardan gelen aramaları otomatik olarak engelle</string>
@@ -312,6 +323,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="cta_dialog_title">İnternet bağlantısı</string>
     <string name="cta_dialog_msg">Güvenlik uygulaması güncellemeleri almak için internet bağlantısına ve normal olarak çalışabilmesi için konum erişimine ihtiyaç duyar</string>
     <string name="cta_settings">İnternet bağlantısına izin ver</string>
+    <string name="gdpr_msg"><Data>"Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaomi'nin kişisel verilerinizi toplayacağını kabul etmelisiniz. Güvenlik özellikleri cihazınızda belirtilen temel bilgiler ve diğer bilgileri içerir. &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik politikamıza&lt;/a> göz atın"</Data></string>
     <string name="st_antispam_mode_smart_state">11111111</string>
     <string name="st_antispam_mode_blacklist_state">11112121</string>
     <string name="st_antispam_mode_only_contacts_state">11110000</string>
@@ -512,6 +524,12 @@ bekleniyor"</string>
     <string name="firewall_wifi_dialog_message">Bu anahtar kapalı olduğunda yüklü uygulama wifi kullanarak internete bağlanamayacaktır</string>
     <string name="firewall_system_title">Sistem uygulamaları veri kullanımı</string>
     <string name="firewall_temp_rule_reason">%2$s, %1$s uygulamasının internet bağlantısını kısıtladı</string>
+    <string name="dialog_restrict_all_wlan_title">Wifi bağlantısını kısıtla</string>
+    <string name="dialog_restrict_all_wlan_summary">Bundan sonra tüm uygulamalar için wifi bağlantısı kısıtlı olacaktır</string>
+    <string name="dialog_restrict_all_mobile_title">%s mobil veri bağlantısını kısıtla</string>
+    <string name="dialog_restrict_all_mobile_summary">Bundan sonraki tüm uygulamalar için %s mobil veri bağlantısı kısıtlı olacaktır</string>
+    <string name="dialog_restrict_positive">Cancel</string>
+    <string name="dialog_restrict_negative">Restrict</string>
     <string name="usage_sorted_activity_lable">Veri kullanımı</string>
     <string name="usage_sorted_loading_text">Yükleniyor</string>
     <string name="usage_sorted_empty_text">Boş</string>
@@ -647,6 +665,12 @@ bekleniyor"</string>
     <string name="leisure_usage_dialog_message">"İndirimli veri kullanım sınırınıza ulaştınız
 
 Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek ücretler uygulayabilir"</string>
+    <string name="data_usage_protected_notify_title">Zaten 5 GB mobil veri kullandınız</string>
+    <string name="data_usage_protected_notify_message">Miui ek ücret oluşmasını önlemek için mobil veriyi kapattı</string>
+    <string name="data_usage_mobile_dialog_title">Zaten 5 GB mobil veri kullandınız. Miui mobil veriyi kapattı</string>
+    <string name="data_usage_protected_dialog_message">"Miui ek ücret oluşmasını önlemek için mobil veriyi kapattı
+
+Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep edebilir"</string>
     <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
     <string name="lock_screen_traffic_notify_body">%1$s saatinde %2$s kilitlendi. %3$s mobil veri kullanıldı</string>
     <string name="timeshow_s">%d saniye</string>

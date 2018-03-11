@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="resource_comment_edit_title">%1$s hakkında yorum</string>
     <string name="account_info">Hesabım</string>
     <string name="account_name_not_login">Oturum aç</string>
     <string name="account_unactivated">Hesap etkinleştirilmedi</string>
@@ -30,6 +29,7 @@
     <string name="card_loading">Yükleniyor</string>
     <string name="card_no_network">Ağa bağlanılamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin</string>
     <string name="card_retry">Tekrar dene</string>
+    <string name="change_host_hint">Ana bilgisayarı değiştir</string>
     <string name="change_wallpaper">Duvar kağıdı</string>
     <string name="close">Kapat</string>
     <string name="component_backup_preference_title">Temayı yedekle</string>
@@ -101,6 +101,7 @@
     <string name="incompatible_dialog_ok">Anladım</string>
     <string name="incompatible_dialog_title">Uyumluluk sorunları</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmlar</string>
     <string name="item_resource_audio_optional_color_ring">Zil sesi tonu</string>
     <string name="item_resource_audio_optional_notification_ring">Bildirimler</string>
@@ -190,6 +191,7 @@
     <string name="resource_comment_edit_comment">Yorum ekle</string>
     <string name="resource_comment_edit_comment_waiting">Geçmiş kontrol ediliyor</string>
     <string name="resource_comment_edit_text_default">Bir yorum yazın</string>
+    <string name="resource_comment_edit_title">%1$s hakkında yorum yap</string>
     <string name="resource_comment_entry_tips">Yorumlar (%1$s)</string>
     <string name="resource_comment_expand_full_text">Metni genişlet▼</string>
     <string name="resource_comment_footer">Boş yorum içerikleri görüntülenmez</string>
@@ -271,6 +273,7 @@
     <string name="resource_import_failed">İçe aktarılamıyor</string>
     <string name="resource_import_successful">Tamamlandı</string>
     <string name="resource_importing">İçe aktarılıyor</string>
+    <string name="resource_is_off_shelf">Mevcut değil</string>
     <string name="resource_list_title">Son seçilenler</string>
     <string name="resource_local_picker">Yerel zil sesi seç</string>
     <string name="resource_menu_refresh">Yenile</string>
@@ -303,6 +306,10 @@
     <string name="resource_ranking">Popüler</string>
     <string name="resource_ranking_free">Ücretsiz</string>
     <string name="resource_ranking_purchase">Ücretli</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Zil sesleri</string>
     <string name="resource_ringtone_playing_error">Hata</string>
     <string name="resource_ringtone_volume_mute">Zil sesi susturuldu</string>
@@ -460,9 +467,11 @@
     <string name="uid_change_dialog_message">Güncellemeleri sildiniz. Temaları kullanabilmek için cihazı yeniden başlatın</string>
     <string name="uid_change_dialog_ok">Anladım</string>
     <string name="uid_change_dialog_title">Cihazı yeniden başlat</string>
+    <string name="up_to_the_end">Şimdilik bu kadar. Daha sonra gel</string>
     <string name="wallpaper_apply">Uygula</string>
     <string name="wallpaper_crop">Kırp</string>
     <string name="wallpaper_decoded_error">Duvar kağıdı yüklenemiyor</string>
+    <string name="wallpaper_detail_load_page_no_network">Ağa bağlan ve tekrar dene</string>
     <string name="wallpaper_scroll_type_tips">Duvar kağıdı kaydırma</string>
     <string name="wallpaper_set_as_both">İkisine de uygula</string>
     <string name="wallpaper_set_as_destop">Ana ekrana uygula</string>
@@ -472,13 +481,7 @@
     <string name="wallpaper_settings_no_history">Geçmiş yok</string>
     <string name="wallpaper_settings_pad_more_page_title">Daha fazla duvar kağıdı</string>
     <string name="wallpaper_settings_page_title">Duvar kağıdı</string>
-    <string name="change_host_hint">Host değiştir</string>
     <string name="gift_count_format">%1$s+</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_detail_vertical_divider">|</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
 </resources>

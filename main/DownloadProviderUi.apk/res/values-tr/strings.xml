@@ -47,6 +47,7 @@
     <string name="selected_count">Toplam %2$d öğeden %1$d öğe seçildi</string>
     <string name="download_share_dialog">Şunu kullanarak paylaş</string>
     <string name="action_settings">Ayarlar</string>
+    <string name="action_back">Geri</string>
     <string name="storage_internal">Dahili depolama</string>
     <string name="storage_sd_card">SD kart</string>
     <string name="storage_usb">USB depolama</string>

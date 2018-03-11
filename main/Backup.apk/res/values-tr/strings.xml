@@ -251,6 +251,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="err_filesystem_mount">Yönlendirici depolama alanına ulaşılamıyor</string>
     <string name="err_router_disconnected">Yönlendiricinizin bağlantısını kontrol edin ve yeniden deneyin</string>
     <string name="err_router_files_delete">Yönlendiricideki yedek dosyaları silinemedi</string>
+    <string name="err_not_allow">Desteklenmiyor</string>
     <string name="backup_is_running">Cihaz yedekleniyor</string>
     <string name="restore_is_running">Cihaz geri yükleniyor</string>
     <string name="notif_backup_title">Verileri yedekle</string>

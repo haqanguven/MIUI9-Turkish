@@ -48,10 +48,6 @@
         <item>&lt;3.7mph</item>
         <item>&lt;3.2kn</item>
     </string-array>
-    <string-array name="dislike_alert_dialog_selectitems">
-        <item>İlgilenmiyorum</item>
-        <item>Düşük kaliteli içerik</item>
-    </string-array>
     <string-array name="hot_city">
         <item>İzmir</item>
         <item>İstanbul</item>
@@ -95,6 +91,15 @@
         <item>Orta</item>
         <item>Hafif</item>
     </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Harika</item>
+        <item>İyi</item>
+        <item>Hafif kirli</item>
+        <item>Kısmen kirli</item>
+        <item>Ağır kirli</item>
+        <item>Aşırı kirli</item>
+        <item>Endeksin üzerinde</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Açık</item>
         <item>Bulutlu</item>
@@ -134,6 +139,16 @@
         <item>Batı</item>
         <item>Kuzeybatı</item>
     </string-array>
+    <string-array name="wind_direction_simple">
+        <item>K</item>
+        <item>KD</item>
+        <item>D</item>
+        <item>GD</item>
+        <item>G</item>
+        <item>GB</item>
+        <item>B</item>
+        <item>KB</item>
+    </string-array>
     <string-array name="wind_power">
         <item>0</item>
         <item>1</item>
@@ -170,15 +185,6 @@
         <item>mph</item>
         <item>kn</item>
     </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>Harika</item>
-        <item>İyi</item>
-        <item>Hafif kirli</item>
-        <item>Kısmen kirli</item>
-        <item>Ağır kirli</item>
-        <item>Aşırı kirli</item>
-        <item>Endeksin üzerinde</item>
-    </string-array>
     <string-array name="temperature_setting_unit_values">
         <item>0</item>
         <item>1</item>
@@ -186,16 +192,6 @@
     <string-array name="temperature_unit_settings_labels">
         <item>@string/set_degree_centigrade</item>
         <item>@string/set_fahrenheit</item>
-    </string-array>
-    <string-array name="wind_direction_simple">
-        <item>K</item>
-        <item>KD</item>
-        <item>D</item>
-        <item>GD</item>
-        <item>G</item>
-        <item>GB</item>
-        <item>B</item>
-        <item>KB</item>
     </string-array>
     <string-array name="wind_power_setting_unit_values">
         <item>0</item>

@@ -176,8 +176,6 @@ Eğer Sim kartı değiştirdiyseniz servis etkinleştirmesi için otomatik olara
     <string name="micloud_space_full_influence"><u>Yeterli boş alanım kalmazsa ne olur?</u></string>
     <string name="micloud_storage_usage" formatted="false">Kullanılan: %s Toplam alan: %s</string>
     <string name="micloud_storage_full">Bulut alanı dolu</string>
-    <string name="micloud_title_dspt" formatted="false">"%s toplam
- %s kullanılan | %s kalan"</string>
     <string name="micloud_title_dspt_remain">%s kalan</string>
     <string name="micloud_title_full_dspt">Depolama sınırınıza ulaştınız</string>
     <string name="micloud_user_space_usage">Depolama alanı</string>
@@ -238,7 +236,6 @@ Bu durumu düzeltmek ve yeni verilerinize yer açmak için eski verilerinizden b
     <string name="micloud_unlogin_for_time_title">Mi bulut</string>
     <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_main_sync_stop">Senkronize durduruldu</string>
-    <string name="micloud_main_sync_pause">Senkronizasyon duraklatıldı</string>
     <string name="micloud_main_sync_exception">Senkronizasyon hatası</string>
     <string name="micloud_main_stop_sync">Senkronize durduruldu</string>
     <string name="micloud_main_suggest_sync">Bazı öğeler senkronize edilmedi</string>
@@ -254,6 +251,7 @@ Bu durumu düzeltmek ve yeni verilerinize yer açmak için eski verilerinizden b
     <string name="micloud_main_message_not_synced">%s verileri senkronize edilmedi</string>
     <string name="micloud_main_suggest_setting">Ayarlarınızı değiştirin veya wifi ağına bağlanın</string>
     <string name="micloud_main_sync_pending">Senkronizasyon için bekliyor</string>
+    <string name="micloud_main_sync_pause">Senkronizasyon duraklatıldı</string>
     <string name="micloud_main_sync_need_charge_or_sleep">Senkronizasyon için şarj cihazınızı bağlayın ve ekranı kapatın</string>
     <string name="micloud_main_detail">Detayları görüntüle</string>
     <string name="micloud_main_network_abnormal">Ağa bağlanılamıyor</string>
@@ -269,7 +267,6 @@ Bu durumu düzeltmek ve yeni verilerinize yer açmak için eski verilerinizden b
     <string name="micloud_main_update_space">Daha fazla depolama alanı al</string>
     <string name="micloud_main_space_full_title">Yeteri kadar depolama alanı yok. Senkronizasyon duraklatıldı</string>
     <string name="micloud_main_space_full_message">Daha fazla Mi bulut depolama alanı satın al</string>
-    <string name="micloud_main_memory_low_title">Telefonun dahili depolama alanı neredeyse dolu</string>
     <string name="micloud_main_memory_low_message">Senkronize etmek için bulut alanınızda depoladığınız bazı öğeleri silin</string>
     <string name="micloud_main_clear_now">Temizle</string>
     <string name="micloud_main_query_error_title">Senkronizasyon işlemi bilgileri alınamadı</string>
@@ -313,6 +310,16 @@ Farklı bir hesap kullanın"</string>
     <string name="micloud_detail_pause">Senkronizasyon duraklatıldı</string>
     <string name="micloud_detail_need_charge_or_sleep">Senkronizasyon için şarj cihazınızı bağlayın ve ekranı kapatın</string>
     <string name="micloud_detail_battery_low">Pil seviyesi düşük</string>
+    <string name="micloud_privacy_cloud_off">Senkronizasyon kapalı</string>
+    <string name="micloud_privacy_licence_agreed">Mi bulut gizlilik politikasına katılıyorum</string>
+    <string name="micloud_privacy_licence_privacy_policy">Gizlilik politikası</string>
+    <string name="micloud_privacy_explanation">Mi bulut hizmetlerini açmak için yetkilendirme</string>
+    <string name="micloud_privacy_cloud_sync">Mi bulut hizmetlerini aç</string>
+    <string name="micloud_privacy_warning_title">Dikkat</string>
+    <string name="micloud_privacy_warning_content">Mi bulut hizmetleri açılamıyor. Bir ya da iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="micloud_privacy_warning_button">Geri</string>
+    <string name="micloud_privacy_progress_content">Yetkilendirme veriliyor</string>
+    <string name="micloud_privacy_more">Daha fazla</string>
     <string name="micloud_check_sim_title">"Sim kartınızı değiştirmişsiniz gibi görünüyor
 Mi bulut'u tekrar etkinleştirmek için Mi hesabınızda oturum açın"</string>
     <string name="micloud_check_sim_notify_title">"Mi bulut'u yeniden etkinleştir"</string>
@@ -414,8 +421,6 @@ Son yedekleme: %2$s"</string>
     <string name="micloud_main_error_network_disallowed">Cihazınızın internet erişimine izin vermiş olduğunuzdan emin olun</string>
     <string name="micloud_main_error_activated_fail">Sim kartınızı etkinleştirin</string>
     <string name="micloud_main_error_permission_limit">"Mi bulut'un depolama alanına erişimine izin verin"</string>
-    <string name="micloud_main_last_synced">Son senkronize: </string>
-    <string name="micloud_main_waiting_for_sync">Senkronizasyon bekleniyor</string>
     <string name="micloud_manage_space_data">icloud verilerini yönet</string>
     <string name="micloud_confusion_no">Hayır</string>
     <string name="micloud_confusion_yes">Evet</string>
@@ -453,6 +458,8 @@ Son yedekleme: %2$s"</string>
     <string name="micloud_sync_alert_dialog_message">Fotoğraflarınızı, kişilerinizi, notlarınızı ve daha fazlasını tüm cihazlarınız arasında senkronize edin</string>
     <string name="micloud_sync_alert_dialog_negative">İptal et</string>
     <string name="micloud_sync_alert_dialog_positive">Tamam</string>
+    <string name="micloud_battery_low_notification_title">Düşük pil</string>
+    <string name="micloud_battery_low_notification_message">Şarj cihazını bağlayın ve senkronize edin</string>
     <string name="micloud_upgrade_member">Daha fazla depolama alanı al</string>
     <string name="micloud_notif_content_depend_wifi">Senkronizasyon için wifi ağına bağlanın</string>
     <string name="micloud_notif_title_master_depend_wifi">Mi bulut ile senkronize edilemiyor</string>
@@ -473,6 +480,8 @@ Son yedekleme: %2$s"</string>
     <string name="micloud_notif_content_multi_user_error">İlk alanda oturum açmış olduğunuz aynı hesapta oturum açtınız</string>
     <string name="micloud_notif_title_dirty_data">Senkronize edilmemiş öğeleriniz var</string>
     <string name="micloud_notif_content_dirty_data">Ayrıntılar</string>
+    <string name="micloud_notif_title_privacy_reopen_failed">Mi bulut hizmetleri açılamadı</string>
+    <string name="micloud_notif_content_privacy_reopen_failed">Detayları göster</string>
     <string name="micloud_find_device_guide_title">Cihazınızın konumunu bulmak, kilitlemek veya silmek için &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Bu özellik cihazınızı kaybetmeniz durumunda cihazınızı bulmanıza yardımcı olabilir.&lt;br />Cihazınızı kaybederseniz &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde bulanan hesabınızı korumak için sık kullandığınız uygulamaların güvenlik servisleri ile iletişime geçmelisiniz</string>
     <string name="micloud_find_device_guide_content">Bu hizmeti etkinleştirmek için bir mesaj gönderilmesi gerekebilir. Operatörünüz sizi bu mesaj için ücretlendirecektir. Sim kartınızı değiştirdiğinizde bu özelliği yeniden etkinleştirmek için otomatik olarak bir mesaj gönderilir</string>
     <string name="micloud_find_device_guide_button">Cihazı bul özelliğini aç</string>
@@ -511,6 +520,8 @@ Son yedekleme: %2$s"</string>
     <string name="micloud_find_device_close_alert_content">Bu özelliği kapatırsanız cihazınızın kaybolması durumunda cihazınızın konumunu bulamazsınız</string>
     <string name="micloud_find_device_close_alert_positive">Açık tut</string>
     <string name="micloud_find_device_close_alert_negtive">Kapat</string>
+    <string name="find_device_gdpr_prompt">Bul cihazını açarak gizlilik politikamızı kabul etmiş olursunuz. Yetkilendirmeyi iptal etmeniz gerekiyorsa bu özelliği kapatın</string>
+    <string name="find_device_gdpr_prompt_policy_doc_name">Gizlilik politikası</string>
     <string name="activate_finddevice">Cihaz etkinleştirmesi için bir ağa bağlanın</string>
     <string name="account_related">Cihazınız mevcut Mi hesabı (%s) ile ilişkilendirilmiş durumdadır. Cihazı doğrulamak için ağa bağlanın</string>
     <string name="connect_network">Wifi ağına bağlanın veya Sim kart takın</string>

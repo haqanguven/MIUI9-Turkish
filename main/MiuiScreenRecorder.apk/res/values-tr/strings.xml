@@ -15,7 +15,6 @@
     <string name="cancel_edit">İptal et</string>
     <string name="cannot_change_parames">Kayıt sırasında parametreler değiştirilemiyor</string>
     <string name="cannot_record">Kaydedilemedi. Daha sonra tekrar deneyin</string>
-    <string name="close_screen_record">Kayıt durdu</string>
     <string name="date_day" />
     <string name="date_month">/</string>
     <string name="date_year">/</string>
@@ -34,7 +33,6 @@
     <string name="hint_volume_down">Sesi azalt</string>
     <string name="hint_volume_up">Sesi yükselt</string>
     <string name="home_title_none">Seçili öğeler</string>
-    <string name="is_checked">Seçildi</string>
     <string name="loopback_sound">Hoparlör</string>
     <string name="low_battery">Kayda başlamadan önce telefonunuzu şarj edin</string>
     <string name="low_battery_title">Düşük pil</string>
@@ -60,7 +58,6 @@
     <string name="screen_record_option">Kayıt seçenekleri</string>
     <string name="screen_record_params">Kayıt parametreleri</string>
     <string name="select_all">Tümünü seç</string>
-    <string name="settings">Ayarlar</string>
     <string name="show_hard_key">Navigasyon tuşlarını görselleştir</string>
     <string name="show_hard_key_summary">Ana ekran, menü ve geri tuşlarına basıldığında uyarı görüntüle</string>
     <string name="show_screen_touch">Dokunma hareketlerini göster</string>
@@ -74,5 +71,4 @@
     <string name="stop_record_while_locking_summary">Ekran kilitli olduğunda kaydı bitir ve videoyu kaydet</string>
     <string name="stop_recording">Kaydı durdur</string>
     <string name="timer_format">%s</string>
-    <string name="unchecked">Seçili değil</string>
 </resources>

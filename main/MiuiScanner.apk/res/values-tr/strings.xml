@@ -181,7 +181,6 @@
     <string name="wifi_pwd">Şifre:</string>
     <string name="wifi_security">Güvenlik:</string>
     <string name="wifi_ssid">SSID:</string>
-    <string name="ar_unsupport_for_kk">"Bu özellik Android 4.4'de desteklenmiyor"</string>
     <string name="keywords_search_code">Tarayıcı,Tarama;QR kodu;QR;Tanıma;Barkod;Barkod;Ürün;Alipay;WeChat;QR kodunu tarama yöntemi;Barkod tarama yöntemi;Tarama yöntemi;Miui Tarayıcı</string>
     <string name="keywords_search_document">Tarayıcı;Dokümanı tara;Dokümanları tara;OCR;Metni tara;Tara</string>
     <string name="keywords_search_namecard">Tarayıcı;Kartvizit,Kartvizitler;Tarama;Tarama kartları;Kart;Kartlar;Kişiler;İletişim</string>
@@ -189,19 +188,7 @@
     <string name="keywords_search_shopping">Alışveriş;Tarayıcı;Ürün tara;Ürün tara;Fiyat kontrolü;Ürünler;Taobao;Tmall;Fiyatlar;Online alışveriş</string>
     <string name="keywords_search_study">Alışveriş;Tarayıcı;Ürün tara;Ürün tara;Fiyat kontrolü;Ürünler;Taobao;Tmall;Fiyatlar;Online alışveriş</string>
     <string name="keywords_search_translation">Sözlük,İngilizce,Yabancı dil,Dil,İngilizce,Çince,İtalyanca,Almanca,Japonca,Korece,İspanyolca,Fransızca;Baidu çeviri;Youdao sözlüğü;Baidu sözlüğü;Google çeviri</string>
-    <string name="miracast_connect">Oyuncular</string>
-    <string name="miracast_connect_fail">Aktarılamadı. Tekrar deneyin</string>
-    <string name="miracast_connect_success">Aktarıldı</string>
-    <string name="miracast_connecting">Aktarılıyor</string>
-    <string name="miracast_details">Aktarmak için QR kodunu tara</string>
-    <string name="miracast_message">Mi TV aktarılsın mı?</string>
-    <string name="miracast_switch_off">Kablosuz ekran kapalı</string>
-    <string name="miracast_switch_tip">Bu özelliği kullanmak için kablosuz ekranı açın</string>
     <string name="path_scanner_setting">Sistem uygulamaları/Tarayıcı</string>
-    <string name="recognition_ar_download_data_msg">AR tanıma motorunu indirin. Boyutu yaklaşık 13MB. İndirmek için mobil veri kullanılsın mı?</string>
-    <string name="recognition_ar_download_msg">AR tanıma motorunu indirin. Boyutu yaklaşık 13MB</string>
-    <string name="recognition_download_title">Bir süre bekleyin lütfen</string>
-    <string name="switch_open">Aç</string>
     <string name="alisdk_message_10008_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
     <string name="alisdk_message_10008_message">生成订单地址出错, 错误信息为 {0}</string>
     <string name="alisdk_message_10008_name">GET_ORDER_URL_EXCEPTION</string>

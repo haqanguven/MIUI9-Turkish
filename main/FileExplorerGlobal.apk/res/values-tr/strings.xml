@@ -71,7 +71,7 @@
     <string name="cannot_send">Harici depolama alanından dosya gönderilemiyor</string>
     <string name="category">Kategoriler</string>
     <string name="category_all">Tüm dosyalar</string>
-    <string name="category_apk">APKler</string>
+    <string name="category_apk">Uygulamalar</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Dokümanlar</string>
     <string name="category_download">İndirmeler</string>
@@ -83,7 +83,7 @@
     <string name="category_music">Müzik</string>
     <string name="category_other">Diğer</string>
     <string name="category_photo">Fotoğraflar</string>
-    <string name="category_picture">Resimler</string>
+    <string name="category_picture">Fotoğraflar</string>
     <string name="category_recent">Son kullanılanlar</string>
     <string name="category_theme">Temalar</string>
     <string name="category_type_document">Belge</string>
@@ -133,7 +133,7 @@
     <string name="dialog_select_type">Tür seçin</string>
     <string name="dialog_title_score">Dosya yöneticisini oyla</string>
     <string name="dialog_type_audio">Ses</string>
-    <string name="dialog_type_image">Resimler</string>
+    <string name="dialog_type_image">Fotoğraflar</string>
     <string name="dialog_type_text">Dokümanlar</string>
     <string name="dialog_type_video">Videolar</string>
     <string name="directory_info_divider">"  |  "</string>
@@ -201,7 +201,7 @@
     <string name="kilobyteShort">KB</string>
     <string name="load_more">Daha fazla görüntüle</string>
     <string name="loading">Yükleniyor</string>
-    <string name="local_image">Resimler</string>
+    <string name="local_image">Fotoğraflar</string>
     <string name="local_music">Ses dosyaları</string>
     <string name="local_video">Video dosyaları</string>
     <string name="make_private">Gizle</string>
@@ -298,7 +298,7 @@
     <string name="phone_storage_clean">Temizle</string>
     <string name="phone_storage_doc_title">Dökümanlar: </string>
     <string name="phone_storage_free_title">Kullanılabilir: </string>
-    <string name="phone_storage_image_title">Resimler: </string>
+    <string name="phone_storage_image_title">Fotoğraflar: </string>
     <string name="phone_storage_info_str">%1$s/%2$s kullanılabilir</string>
     <string name="phone_storage_other_title">Diğer: </string>
     <string name="phone_storage_size_tip">Dosyalar uygulamasının depolama alanı hesaplaması diğer uygulamalardan farklı olabilir</string>
@@ -346,7 +346,7 @@
     <string name="search_title">Arama</string>
     <string name="search_title_hint">Ara</string>
     <string name="select_dest_folder">Klasör seçin</string>
-    <string name="select_image">Resimler</string>
+    <string name="select_image">Fotoğraflar</string>
     <string name="select_music">Ses dosyaları</string>
     <string name="select_video">Video dosyaları</string>
     <string name="set_pattern">Şifre güncellendi</string>

@@ -2381,10 +2381,6 @@ Bu seçenek daha fazla pil kullanabilir"</string>
     <string name="lock_screen_notifications_summary_show">Bildirim içeriğinin tamamını göster</string>
     <string name="lock_screen_notifications_summary_show_profile">Tüm iş bildirimi içeriklerini göster</string>
     <string name="lock_screen_notifications_title">Cihaz kilitliyken</string>
-    <string name="lock_screen_secure_after_timeout_immediately_never">Asla şifre isteme</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">Şifre hemen istenir</string>
-    <string name="lock_screen_secure_after_timeout_summary">%1$s içerisinde şifre girmeniz gerekmektedir</string>
-    <string name="lock_screen_secure_after_timeout_title">Şifre gerektir</string>
     <string name="lock_screen_signature_summary">Bu mesaj kilit ekranında görüntülenecektir</string>
     <string name="lock_screen_signature_title">Kilit ekranı mesajı</string>
     <string name="lock_screen_unlock_show">Hızlıca kaydırma ekranını atla</string>
@@ -3305,6 +3301,7 @@ Ayrıca bildirimleri kapatabilecek veya bildirimdeki işlem düğmelerini tetikl
     <string name="priority_storage_settings_summary">SD kart bulunamazsa, verileriniz otomatik olarak cihazınızın dahili depolama birimine kaydedilir</string>
     <string name="priority_storage_summary">Verilerinizin kaydedileceği konumu seçin</string>
     <string name="priority_storage_title">Depolama ayarları</string>
+    <string name="privacy_authorize_cloud_msg">Hesabınızın güvenliğini sağlamak için Mi bulut hizmetlerinin senkronizasyon ve yedeklemeler dahil yetkilendirmesini iptal etmek istiyorsanız i.mi.com adresinde oturum açın</string>
     <string name="privacy_authorize_dialog_agree">Kabul et</string>
     <string name="privacy_authorize_dialog_exit">Çık</string>
     <string name="privacy_authorize_dialog_message">%1$s uygulaması %2$s sözleşmesini okumanızı ve kabul etmenizi talep ediyor. Bu uygulamanın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Kabul ediyor musunuz?</string>
@@ -3992,6 +3989,8 @@ Sabitlemeyi kullanmak için:
     <string name="search_xiaomi_account">Mi hesabı;Mi Hesap Kimliği;Hesap;Hesap kimliği</string>
     <string name="search_xspace">Çift uygulamalar;Klonlu uygulamalar</string>
     <string name="second_space">İkinci alan</string>
+    <string name="secondspace_category">İkinci alan</string>
+    <string name="secondspace_delete_space_title">İkinci alanı sil</string>
     <string name="secure_keyguard_business_title">Ekran kilidi ayarla</string>
     <string name="secure_lock_encryption_warning">Bir erişilebilirlik hizmetini açtığınız için cihazınız veri şifrelemeyi geliştirmek üzere ekran kilidinizi kullanmayacak.</string>
     <string name="security_dashboard_summary">Ekran kilidi, parmak izi</string>
@@ -5321,6 +5320,9 @@ Ekle (+) düğmesini kullanarak kelime ekleyin"</string>
     <string name="wfd_menu_teardown">Dur</string>
     <string name="wfd_settings_description">Wifi kullanarak harici bir ekrana bağlanın</string>
     <string name="wfd_settings_title">Kablosuz ekran</string>
+    <string name="wfd_status_dialog_disconnect">Bağlantıyı kes</string>
+    <string name="wfd_status_dialog_message">Ekran içerikleri kablosuz bağlantı üzerinden başka bir görüntü cihazında görüntüleniyor</string>
+    <string name="wfd_status_dialog_title">Kablosuz ekran</string>
     <string name="wfd_wps_keypad">Tuş takımını kullan</string>
     <string name="wfd_wps_pbc">Pin kodunu girin</string>
     <string name="whetstone_level_reboot">Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır</string>

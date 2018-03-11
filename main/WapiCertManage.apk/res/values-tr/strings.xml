@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wapi_cert_title_name">WAPI sertifika</string>
+    <string name="wapi_cert_title_name">Wapi sertifika</string>
     <string name="trusted_as_title_name">T-ASU sertifika</string>
     <string name="cert_details_title_name">Sertifika ayrıntıları</string>
     <string name="add_cert_dlg_title_name">Sertifika yükle</string>

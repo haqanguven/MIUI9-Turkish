@@ -39,6 +39,7 @@ Sim kartınızı değiştirdiyseniz servis aktivasyonu için otomatik olarak bir
     <string name="unlock_error_rpc">RPC hatası</string>
     <string name="unlock_error_abort">Kullanıcı tarafından iptal edildi</string>
     <string name="unlock_error_passport_sdk_timeout">Mi hesabı Sdk yanıt vermiyor</string>
+    <string name="open_wifi_settings">Wifi ayarlarını aç</string>
     <string name="activate_xiaomi_account">Cihaz etkinleştir</string>
     <string name="login_extra_steps">Oturum açma doğrulaması</string>
     <string name="phone_locked">Bu cihaz mevcut bir Mi hesap kimliği (%s) ile ilişkilendirilmiş durumda. Bu cihazı etkinleştirmek için oturum açın</string>

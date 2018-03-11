@@ -33,6 +33,7 @@
     <string name="attach_sound">Sesler</string>
     <string name="attach_subject">Konu</string>
     <string name="attach_take_photo">Fotoğraf çek</string>
+    <string name="attach_transaction">Para gönder</string>
     <string name="attach_video">Videolar</string>
     <string name="audio_download_failed">Ses dosyası indirilemedi</string>
     <string name="audio_message_expired">Sesli mesajın süresi doldu</string>
@@ -512,6 +513,7 @@
     <string name="select_local_audio">Ses dosyası seç</string>
     <string name="select_local_video">Video seç</string>
     <string name="select_message_send_sim">Sim kart seç</string>
+    <string name="select_phone_number">Telefon numarası seç</string>
     <string name="select_recipient">Alıcıları seç</string>
     <string name="select_sim">Sim kart seç</string>
     <string name="select_top_text">Metin üstte</string>

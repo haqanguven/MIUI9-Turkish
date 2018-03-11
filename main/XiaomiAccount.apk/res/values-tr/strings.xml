@@ -202,6 +202,7 @@ bağlantı adresini kullanın"</string>
     <string name="passport_get_innetdate_msg">&lt;font color=Red>%s&lt;/font> numarası operatörünüz tarafından geri dönüştürülmüş gibi görünüyor. Numaranın ne zaman çevrimiçi olduğunu kontrol etmek ister misiniz?</string>
     <string name="passport_get_innetdate_agree">Kontrol et</string>
     <string name="passport_get_innetdate_disagree">Hayır</string>
+    <string name="passport_extra_gdpr_license">Mi hesabınızı oluşturmak Xiaomi'nin doğrulama verileri (Örneğin: Doğrulama kodları), İkinci alan verileri (Örneğin: İkinci alanı kullanma şekilleri ve ilk olarak kullanılan kimlikler hakkında bilgiler) dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul ettiğiniz anlamına gelir. Gizlilik politikamızda belirtilen diğer verileride kabul etmiş olursunuz. Kişisel verileri nasıl işlediğimizi ve kullandığımızı öğrenmek için gizlilik politikamıza bakın</string>
     <string name="search_app_name">Mi hesabı</string>
     <string name="search_mi_account">Mi hesabı</string>
     <string name="search_mi_account_key_words">Mi bulut,Hesap ayarları,Mi Pay bilgileri,Oturumu kapat</string>

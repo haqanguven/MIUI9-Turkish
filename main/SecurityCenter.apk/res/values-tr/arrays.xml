@@ -8,7 +8,8 @@
     <string-array name="date_of_traffic">
         <item>"Dün "</item>
         <item>"Bugün "</item>
-        <item>"Bu ay "</item>
+        <item>"Geçen ay: "</item>
+        <item>"Bu ay: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
         <item>"Bu hafta: "</item>
@@ -18,14 +19,17 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Dün: "</item>
         <item>"Bugün: "</item>
+        <item>"Geçen ay: "</item>
         <item>"Bu ay: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Dün (Veri)</item>
         <item>Bugün (Veri)</item>
+        <item>Geçen ay (Veri)</item>
         <item>Bu ay (Veri)</item>
         <item>Dün (Wifi)</item>
         <item>Bugün (Wifi)</item>
+        <item>Geçen ay (Wifi)</item>
         <item>Bu ay (Wifi)</item>
     </string-array>
     <string-array name="traffic_type">

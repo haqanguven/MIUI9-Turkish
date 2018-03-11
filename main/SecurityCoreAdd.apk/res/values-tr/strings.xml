@@ -171,10 +171,8 @@ ikinci alana otomatik olarak eklenir"</string>
     <string name="settings_switch_shortcut_title">Masaüstü kısayolu avatar simgesi</string>
     <string name="settings_switch_space">Avatar değiştir</string>
     <string name="settings_notification_from_second_space_title">Cep telefonu avatarından haber</string>
-    <string name="notification_no_remind">Hatırlatma</string>
     <string name="settings_notification_and_switch_second_space">Mobil avatar bildirimi ve değiştirme</string>
     <string name="settings_notification_from_owner_space_title">İlk alan bildirimi</string>
-    <string name="notification_remind">Hatırlat</string>
     <string name="notification_from_owner_user">İlk alan bildirimi</string>
     <string name="notification_from_second_user">Cep telefonu avatarından haber</string>
     <string name="radio_button_icon_switch_title">Simge geçiş, kolay ve hızlı</string>
