@@ -1011,6 +1011,8 @@ Oynatma Kalitesi"</string>
     <string name="carrier_enabled">APN etkin/devre dışı</string>
     <string name="carrier_enabled_summaryOff">APN devre dışı</string>
     <string name="carrier_enabled_summaryOn">APN etkin</string>
+    <string name="carrier_show_in_lock_screen">Sadece kilit ekranında göster</string>
+    <string name="carrier_show_none">Hiçbir zaman operatör adını gösterme</string>
     <string name="category_key_device">com.android.settings.category.device</string>
     <string name="category_key_personal">com.android.settings.category.personal</string>
     <string name="category_key_system">com.android.settings.category.system</string>
@@ -2632,6 +2634,8 @@ Bu cihazda başka kullanıcılar da var
     <string name="memory_settings_title">Bellek</string>
     <string name="memory_size">Toplam alan</string>
     <string name="memory_summary">Toplam %2$s belleğin ortalama %1$s kadarı kullanılıyor</string>
+    <string name="memory_system_rom">Sistem depolama</string>
+    <string name="memory_system_space">Sistem depolama</string>
     <string name="memory_title">Toplam: %2$s\u0009\u0009Kullanılabilir: %1$s</string>
     <string name="memory_usage">Bellek kullanımı</string>
     <string name="memory_usage_apps">Uygulamalar tarafından kullanılan bellek</string>

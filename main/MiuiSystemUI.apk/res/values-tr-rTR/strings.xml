@@ -748,6 +748,9 @@ EEEE"</string>
     <string name="notification_low_battery_open_save_mode">Pil tasarrufunu aç</string>
     <string name="notification_low_battery_action_btn">Aç</string>
     <string name="notification_low_battery_need_charge">Pil zayıf. Cihazınızı şarj edin</string>
+    <string name="low_temperature_warning_title">Kapatma uyarısı</string>
+    <string name="low_temperature_warning_message">Sıcaklık çok düşük. Telefon herhangi bir zamanda kapanabilir. Lütfen verilerinizi kaydedin</string>
+    <string name="low_temperature_button_ok">Anladım</string>
     <string name="oldman_airplane_mode_text">Uçak</string>
     <string name="oldman_incall_text">Gelen arama</string>
     <string name="demo_mode">Deneme modu</string>

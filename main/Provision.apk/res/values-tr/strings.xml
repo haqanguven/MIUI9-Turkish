@@ -22,6 +22,7 @@ Seçili klavyenin gizlilik politikasını görüntüleyin"</string>
     <string name="other_settings_location_summary">Uygulamaların konumunuza erişimine izin verin</string>
     <string name="other_settings_user_experience">Kullanıcı deneyimi geliştirme programı</string>
     <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek cihaz ve ürünlerimizi geliştirmemize yardımcı olun</string>
+    <string name="other_settings_user_experience_summary_index">Detaylar</string>
     <string name="other_settings_upload_debug_log_title">Tanı verilerini otomatik olarak gönder</string>
     <string name="other_settings_upload_debug_log_summary">Topladığımız veriler sistemdeki problemleri konumlandırmakta ve analiz edilmekte kullanılacak olup kişisel verilerinizi içerebilir. Hiçbir veri kimliğinizi tanımlamak için kullanılmayacaktır</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>

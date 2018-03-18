@@ -7,7 +7,7 @@
     <string name="battery_not_allowed" formatted="false">Pil seviyesi %3 seviyesinden düşük olduğunda kayıt yapılamıyor. Pilin en az %20 seviyesinde olduğundan emin olun</string>
     <string name="bit_rate">Video kalitesi</string>
     <string name="bit_rate_summary">Video kalitesinin büyümesi dosya boyutunun da büyümesi anlamına gelir</string>
-    <string name="bubble_text">Kayda başlamak için dokunun</string>
+    <string name="bubble_text">Kayıta başla</string>
     <string name="button_back">Geri</string>
     <string name="button_clear_storage">Alan boşalt</string>
     <string name="button_confirm">Tamam</string>
@@ -66,9 +66,9 @@
     <string name="sound_source_summary">Sistem sesleri veya mikrofon</string>
     <string name="start">Başla</string>
     <string name="start_recording">Kaydı başlat</string>
-    <string name="stop_by_second_space">Alan değiştirmek kaydı durduracaktır</string>
-    <string name="stop_record_while_locking">Ekranı en sona kilitle</string>
-    <string name="stop_record_while_locking_summary">Ekran kilitli olduğunda kaydı bitir ve videoyu kaydet</string>
+    <string name="stop_by_second_space">Alan değiştirme kaydı durduracaktır</string>
+    <string name="stop_record_while_locking">Ekran kilitleme ile kayıtı bitir</string>
+    <string name="stop_record_while_locking_summary">Ekran kilitlendiğinde kayıtı bitirir ve videoyu kaydeder</string>
     <string name="stop_recording">Kaydı durdur</string>
     <string name="timer_format">%s</string>
 </resources>

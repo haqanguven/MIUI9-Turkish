@@ -55,8 +55,8 @@
     <string name="menu_title_apply_for_alpha">Beta test programına katıl</string>
     <string name="menu_title_feedback">Geri bildirim</string>
     <string name="install_file_explorer">Öncelikle Dosya Yöneticisini yükleyin</string>
-    <string name="boot_recovery">Kurtarma modunda yeniden başlat?</string>
-    <string name="cancel_download">Güncelleme indirmesini durdur?</string>
+    <string name="boot_recovery">Kurtarma modunda yeniden başlatılsın mı?</string>
+    <string name="cancel_download">Güncelleme indirmesi durdurulsun mu?</string>
     <string name="continue_update_positive_btn">Durdur</string>
     <string name="continue_update_negative_btn">Devam et</string>
     <string name="update_success_reboot_immediately">Güncelleme dosyası indirildi</string>

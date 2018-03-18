@@ -2520,8 +2520,8 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir!"</item>
         <item>480</item>
     </string-array>
     <string-array name="silent_values">
-        <item>1</item>
         <item>3</item>
+        <item>1</item>
     </string-array>
     <string-array name="simulate_color_space_entries">
         <item>@string/daltonizer_mode_disabled</item>
@@ -2565,13 +2565,21 @@ Not: Yalnızca Ubuntu 8.04 için geçerlidir!"</item>
         <item>0</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Kilit ekranı ve bildirim çubuğunda göster</item>
-        <item>Her zaman göster</item>
-        <item>Her zaman gizle</item>
+        <item>Sadece kilit ekranında göster</item>
+        <item>Sadece durum çubuğunda göster</item>
+        <item>Hiçbir zaman operatör adını gösterme</item>
+    </string-array>
+    <string-array name="status_bar_show_carrier_entries_for_notch">
+        <item>@string/carrier_show_in_lock_screen</item>
+        <item>@string/carrier_show_none</item>
     </string-array>
     <string-array name="status_bar_show_carrier_values">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="status_bar_show_carrier_values_for_notch">
+        <item>0</item>
         <item>2</item>
     </string-array>
     <string-array name="status_bar_style_entries">
