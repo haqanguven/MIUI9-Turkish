@@ -1,3 +1,2 @@
-# Miui Turkish Team
-# Developer
-# Version: 8.3.15
+# MIUITR Team
+# https://forum.miuitr.info/
